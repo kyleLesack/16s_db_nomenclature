@@ -1,0 +1,8 @@
+Final Coreset Stats:
+
+Valid genus names excluding discrepancies between nomenclature DBs: 3282
+Valid species names excluding discrepancies between nomenclature DBs: 17382
+Invalid genus names excluding discrepancies between nomenclature DBs: 246
+Invalid species names excluding discrepancies between nomenclature DBs: 717
+Genus name discrepancies between nomenclature DBs: 63
+Species name discrepancies between nomenclature DBs: 163

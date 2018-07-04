@@ -1,0 +1,90 @@
+Comparing LPSN Genera Valid with Up2date Genera Valid
+
+	LPSN Genera Valid	Up2date Genera Valid
+Size: 		3051			2898
+
+Diff LPSN Genera Valid  - Up2date Genera Valid:   212
+Diff Up2date Genera Valid  - LPSN Genera Valid:   59
+
+
+Comparing LPSN Genera Valid with CyanoDB Genera Valid
+
+	LPSN Genera Valid	CyanoDB Genera Valid
+Size: 		3051			262
+
+Diff LPSN Genera Valid  - CyanoDB Genera Valid:   3042
+Diff CyanoDB Genera Valid  - LPSN Genera Valid:   253
+
+
+Comparing Up2date Genera Valid with CyanoDB Genera Valid
+
+	Up2date Genera Valid	CyanoDB Genera Valid
+Size: 		2898			262
+
+Diff Up2date Genera Valid  - CyanoDB Genera Valid:   2893
+Diff CyanoDB Genera Valid  - Up2date Genera Valid:   257
+
+
+Comparing LPSN Species Valid with Up2date Species Valid
+
+	LPSN Species Valid	Up2date Species Valid
+Size: 		16974			16778
+
+Diff LPSN Species Valid  - Up2date Species Valid:   684
+Diff Up2date Species Valid  - LPSN Species Valid:   489
+
+
+Comparing LPSN Species Valid with CyanoDB Species Valid
+
+	LPSN Species Valid	CyanoDB Species Valid
+Size: 		16974			267
+
+Diff LPSN Species Valid  - CyanoDB Species Valid:   16966
+Diff CyanoDB Species Valid  - LPSN Species Valid:   260
+
+
+Comparing Up2date Species Valid with CyanoDB Species Valid
+
+	Up2date Species Valid	CyanoDB Species Valid
+Size: 		16778			267
+
+Diff Up2date Species Valid  - CyanoDB Species Valid:   16773
+Diff CyanoDB Species Valid  - Up2date Species Valid:   262
+
+
+Comparing LPSN Genera Invalid with Up2date Genera Invalid
+
+	LPSN Genera Invalid	Up2date Genera Invalid
+Size: 		126			30
+
+Diff LPSN Genera Invalid  - Up2date Genera Invalid:   126
+Diff Up2date Genera Invalid  - LPSN Genera Invalid:   30
+
+
+Comparing LPSN Genera Invalid with CyanoDB Genera Invalid
+
+	LPSN Genera Invalid	CyanoDB Genera Invalid
+Size: 		126			156
+
+Diff LPSN Genera Invalid  - CyanoDB Genera Invalid:   125
+Diff CyanoDB Genera Invalid  - LPSN Genera Invalid:   153
+
+
+Comparing Up2date Genera Invalid with CyanoDB Genera Invalid
+
+	Up2date Genera Invalid	CyanoDB Genera Invalid
+Size: 		30			156
+
+Diff Up2date Genera Invalid  - CyanoDB Genera Invalid:   30
+Diff CyanoDB Genera Invalid  - Up2date Genera Invalid:   154
+
+
+Comparing LPSN Species Invalid with Up2date Species Invalid
+
+	LPSN Species Invalid	Up2date Species Invalid
+Size: 		675			205
+
+Diff LPSN Species Invalid  - Up2date Species Invalid:   675
+Diff Up2date Species Invalid  - LPSN Species Invalid:   205
+
+
