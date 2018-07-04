@@ -1,5 +1,7 @@
 ## Illegitimate Genera
 
+The following genera were deemed invalid by UpToDate, but were contained on the list of valid names in LPSN.
+
 Bacteriolyticum
 
 Bryantella
@@ -32,7 +34,7 @@ Yania
 
 Zimmermannella
 
-Note: A manual review of all genera deemed invalid in UpToDate but valid in LPSN revealed that they were in fact illegitimate. Most of these were deemed illegitimate on the LPSN website, but were not on the LPSN list of known non-valid names
+Note: A manual review of all genera deemed invalid in UpToDate but valid in LPSN revealed that they were in fact illegitimate. Most of these were found on the LPSN valid name list, but deemed illegitimate on the taxon subpage, and were not on the LPSN list of known non-valid names.
 
 
 ## Manual Changes
