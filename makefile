@@ -14,6 +14,10 @@ all: 01_lpsn 02_uptodate
 02_uptodate: FORCE
 	python 02_uptodate/getData.py
 	sh 02_uptodate/processData.sh
+	sh 02_uptodate/getInvalid.sh
+
+	
+
 
 FORCE:
 
