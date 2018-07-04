@@ -1,0 +1,30 @@
+Date: 2018-07-03
+Section URL: http://www.bacterio.net/-allnamesac.html
+Local copy stored as: allnames_a-c.html
+Number of genus names extracted: 692
+Number of species names extracted: 4231
+Date: 2018-07-03
+Section URL: http://www.bacterio.net/-allnamesdl.html
+Local copy stored as: allnames_d-l.html
+Number of genus names extracted: 820
+Number of species names extracted: 3887
+Date: 2018-07-03
+Section URL: http://www.bacterio.net/-allnamesmr.html
+Local copy stored as: allnames_m-r.html
+Number of genus names extracted: 913
+Number of species names extracted: 5326
+Date: 2018-07-03
+Section URL: http://www.bacterio.net/-allnamessz.html
+Local copy stored as: allnames_s-z.html
+Number of genus names extracted: 626
+Number of species names extracted: 3525
+Date: 2018-07-03
+Section URL: http://www.bacterio.net/-candidatus.html
+Local copy stored as: candidatus.html
+Number of genus names extracted: 36
+Number of species names extracted: 349
+Date: 2018-07-03
+Section URL: http://www.bacterio.net/-nonvalid.html
+Local copy stored as: invalid.html
+Number of genus names extracted: 126
+Number of species names extracted: 675
