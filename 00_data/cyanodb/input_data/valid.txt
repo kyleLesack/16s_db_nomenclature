@@ -1,0 +1,681 @@
+*ACARYOCHLORIS
+T: Acaryochloris marina
+ADRIANEMA
+T: Adrianema adriaticum
+ALBRIGHTIA
+T: Albrightia tortuosa
+ALTERNANTIA
+T: Alternantia ramifera
+#AMMASSOLINEA
+T: Ammassolinea attenuata
+AMMATOIDEA
+T: Ammatoidea normannii
+ANABAENA
+T: Anabaena oscillarioides
+ANABAENOPSIS
+T: Anabaenopsis elenkinii
+APHANIZOMENON
+T: Aphanizomenon flos-aquae
+APHANOCAPSA
+T: Aphanocapsa parietina
+APHANOTHECE
+T: Aphanothece microscopica
+ARTHRONEMA
+T: Arthronema africanum
+ARTHROSPIRA
+T: Arthrospira jenneri
+ASTEROCAPSA
+T: Asterocapsa gleotheceformis
+AULOSIRA
+T: Aulosira laxa
+BACULARIA
+T: Bacularia coerulescens
+BARADLAIA
+T: Baradlaia speluncaecola
+BLENNOTHRIX
+T: Blennothrix vermicularis
+BORZIA
+T: Borzia trilocularis
+BORZINEMA
+T: Borzinema rupicola
+BRACHYTRICHIA
+T: Brachytrichia quoyi
+BRACHYTRICHIOPSIS
+T: Brachytrichiopsis filiformis
+*BRASILONEMA
+T: Brasilonema bromeliae
+*CALOCHAETE
+T: Calochaete cimrmanii
+CALOTHRIX
+T: Calothrix confervicola
+CAMPTYLONEMOPSIS
+T: Camptylonemopsis lahorense
+CAPSOSIRA
+T: Capsosira brebissonii
+CHAMAECALYX 
+T: Chamaecalyx swirenkoi
+CHAMAESIPHON
+T: Chamaesiphon confervicola
+CHLOROGLOEA
+T: Chlorogloea tuberculosa
+CHLOROGLOEOPSIS
+T: Chlorogloeopsis fritschii
+CHONDROCYSTIS
+T: Chondrocystis schauinslandii
+CHONDROGLOEA
+T: Chondrogloea africana
+CHROOCOCCIDIOPSIS
+T: Chroococcidiopsis thermalis
+CHROOCOCCIDIUM
+T: Chroococcidium gelatinosum
+CHROOCOCCOPSIS
+T: Chroococcopsis gigantea
+CHROOCOCCUS
+T: Chroococcus rufescens
+*#CHROOGLOEOCYSTIS
+T: Chroogloeocystis siderophila
+CLASTIDIUM
+T: Clastidium setigerum
+COCCOPEDIA
+T: Coccopedia limnetica
+COELOMORON
+T: Coelomoron regularis
+COELOSPHAERIOPSIS
+T: Coelosphaeriopsis halophila
+COELOSPHAERIUM
+T: Coelosphaerium kuetzingianum
+COLEODESMIUM
+T: Coleodesmium wrangelii
+COLEOFASCICULUS
+T: Coleofasciculus chthonoplastes
+COLTERONEMA
+T: Colteronema funebre
+CRINALIUM
+T: Crinalium endophyticum
+*#CROCOSPHAERA
+T: Crocosphaera watsonii
+*CRONBERGIA
+T: Cronbergia siamensis
+*CUSPIDOTHRIX
+T: Cuspidothrix issatschenkoi
+CYANOAGGREGATUM
+T: Cyanoaggregatum brasiliense
+CYANOARBOR
+T: Cyanoarbor rupestris
+*CYANOBACTERIUM
+T: Cyanobacterium stanieri
+*CYANOBIUM
+T: Cyanobium gracile
+CYANOBOTRYS
+T: Cyanobotrys lambinonii
+CYANOCATENA
+T: Cyanocatena planctonica
+CYANOCATENULA
+T: Cyanocatenula calyptrata
+CYANOCOMPERIA
+T: Cyanocomperia africana
+CYANOCYSTIS
+T: Cyanocystis versicolor
+CYANODERMA
+T: Cyanoderma bradypii
+CYANODERMATIUM
+T: Cyanodermatium gelatinosum
+CYANODICTYON
+T: Cyanodictyon endophyticum
+CYANOGRANIS
+T: Cyanogranis basifixa
+CYANOKYBUS
+T: Cyanokybus venezuelae
+CYANONEPHRON
+T: Cyanonephron styloides
+CYANOPHANON
+T: Cyanophanon mirabile
+CYANOSACCUS
+T: Cyanosaccus piriformis
+CYANOSARCINA
+T: Cyanosarcina fontana
+#CYANOSPIRA
+T: Cyanospira rippkae
+CYANOSTYLON
+T: Cyanostylon microcystoides
+CYANOTETRAS
+T: Cyanotetras fusca
+CYANOTHAMNOS
+T: Cyanothamnos plancticus
+*CYANOTHECE
+T: Cyanothece aeruginosa
+CYLINDROSPERMOPSIS
+T: Cylindrospermopsis raciborskii
+CYLINDROSPERMUM
+T: Cylindrospermum majus
+DALMATELLA
+T: Dalmatella buaensis
+DASYGLOEA
+T: Dasygloea amorpha
+DERMOCARPELLA
+T: Dermocarpella hemisphaerica
+*DESERTIFILUM
+T: Desertifilum tharense
+DESMOSIPHON
+T: Desmosiphon maculans
+DICHOTHRIX
+T: Dichothrix penicillata
+*DOLICHOSPERMUM
+T: Dolichospermum flos-aqauae
+DOLIOCATELLA
+T: Doliocatella formosa
+DZENSIA
+T: Dzensia salina
+ENTOPHYSALIS
+T: Entophysalis granulosa
+EPIGLOEOSPHAERA
+T: Epigloeosphaera glebulenta
+EPILITHIA
+T: Epilithia adriatica
+ERCEGOVICIA
+T: Ercegovicia litoralis
+EUCAPSIS
+T: Eucapsis alpina
+FISCHERELLA
+T: Fischerella thermalis
+FISCHERELLOPSIS
+T: Fischerellopsis harrisii
+FORTIEA
+T: Fortiea caucasica
+GARDNERULA
+T: Gardnerula corymbosa
+GEITLERIA
+T: Geitleria calcarea
+GEITLERIBACTRON
+T: Geitleribactron periphyticum
+GEITLERINEMA
+T: Geitlerinema splendidum
+*GEMINOCYSTIS
+T: Geminocystis herdmanii
+GLAUCOSPIRA
+T: Glaucospira agilissima
+GLOEOBACTER
+T: Gloeobacter violaceus
+GLOEOCAPSA
+T: Gloeocapsa atrata
+GLOEOCAPSOPSIS
+T: Gloeocapsopsis crepidinum
+GLOEOTHECE
+T: Gloeothece linearis
+GLOEOTRICHIA
+T: Gloeotrichia pisum
+GODLEYA
+T: Godleya alpina
+GOMONTIELLA
+T: Gomontiella subtubulosa
+GOMPHOSPHAERIA
+T: Gomphosphaeria aponina
+* HALOMICRONEMA
+T: Halomicronema excentricum
+*HALOTHECE
+T: Halothece californica
+HANDELIELLA
+T: Handeliella stockmayeri
+HAPALOSIPHON
+T: Hapalosiphon pumilus
+HASSALLIA
+T: Hassallia byssoidea
+HERPYZONEMA
+T: Herpyzonema intermedium
+HETEROCYANOCOCCUS
+T: Heterocyanococcus haumanii
+HETEROLEIBLEINIA
+T: Heteroleibleinia rigidula
+HOMOEOPTYCHE
+T: Homoeoptyche repens
+HOMOEOTHRIX
+T: Homoeothrix juliana
+HORMATHONEMA
+T: Hormathonema violaceo-nigrum
+HORMOSCILLA
+T: Hormoscilla xishaensis
+HORMOTHECE
+T: Hormothece rupestris
+HYDROCOCCUS
+T: Hydrococcus rivularis
+HYDROCOLEUM
+T: Hydrocoleum homoeotrichum
+HYDROCORYNE
+T: Hydrocoryne spongiosa
+HYELLA
+T: Hyella caespitosa Bornet et Flahault 1888
+HYPHOMORPHA
+T: Hyphomorpha antillarum
+ISACTIS
+T: Isactis plana
+ISOCYSTIS
+T: Isocystis messanensis
+IYENGARIELLA
+T: Iyengariella tirupatiensis
+JAAGINEMA
+T: Jaaginema subtilissimum
+JOHANNESBAPTISTIA
+T: Johannesbaptistia pellucida
+KASTOVSKYA
+T: Kastovskya adunca
+KATAGNYMENE
+T: Katagnymene pelagica
+KOMVOPHORON
+T: Komvophoron schmidlei
+KYRTUTHRIX Ercegović, 1929. Arch. Protistenk. 66: 170.
+Nostocophycidae, Nostocales, Scytonemataceae
+T: Kyrtuthrix dalmatica Ercegović 1929
+LEIBLEINIA (Gomont) L. Hoffmann, 1985. Cryptog. Algol. 6, 2: 77.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Leibleinia baculum (Gomont) L. Hoffmann 1985
+LEMMERMANNIELLA Geitler, 1942. In Engler et Prantl, Nat. Pflanzenfam., ed. 2, 1b: 62.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Lemmermanniella pallida (Lemmermann) Geitler 1942
+LEPTOLYNGBYA Anagnostidis et Komárek, 1988. Algolog. Stud. 50-53: 390.
+Synechococcophycidae,Pseudanabaenales, Pseudanabaenaceae
+T: Leptolyngbya boryana (Gomont) Anagnostidis et Komárek 1988
+LEPTOPOGON Borzì, 1906. Nuova Notarisia 18: 38.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Leptopogon intricatus (A. Braun) Borzì 1906
+LETESTUINEMA Frémy, 1930. Arch. Bot. 3: 390.
+Nostocophycideae, Nostocales, Stigonemataceae
+T: Letestuinema gabonense Frémy 1930
+*LIMNOCOCCUS (Komárek et Anagnostidis) Komárková,  Jezberová, O. Komárek et Zapomělová, 2010. Hydrobiologia 639: 79
+Oscillatoriophycidae,Chroococcales, Chroococcaceae
+T: Limnococcus limneticus (Lemmermann) Komárková, Jezberová, O. Komárek et Zapomělová 2010
+*LIMNORAPHIS Komárek, Zapomělová, Šmarda, Kopecký, Rejmánková, Woodhouse, Neilan et Komárková, 2013. Fottea 13(1): 45.
+Oscillatoriophycidae, Oscillatoriales, Oscillatoriaceae
+T: Limnoraphis hieronymusii (Lemmermann) Komárek, Zapomělová, Šmarda, Kopecký, Rejmánková, Woodhouse, Neilan et Komárková 2013
+LIMNOTHRIX Meffert, 1987. Arch. Hydrobiol., Suppl. 76, 4: 317.
+Synechococcophycidae,Pseudanabaenales, Pseudanabaenaceae
+T: Limnothrix redekei (Van Goor) Meffert 1988
+LITHOCOCCUS Ercegović, 1925. Acta Bot. Inst. Bot. Zagreb. 1: 83.
+Synechococcophycidae, Synechococcales, Merismopediaceae
+T: Lithococcus ramosus Ercegović 1925
+LITHOMYXA Howe, 1932. Shorter Contr. Gen. Geol., p. 63.
+Synechococcophycidae, Synechococcales, Merismopediaceae
+T: Lithomyxa calcigena Howe 1931
+LOEFGRENIA Gomont, 1896. Bot. Notiser 1897: 90.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Loefgrenia anomala Gomont 1896
+LORIELLA Borzì, 1892. Nuova Notarisia 1892: 44.
+Nostocophycidae, Nostocales, Loriellaceae
+T: Loriella osteophila Borzì 1892
+LYNGBYA C. Agardh ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 16: 118.
+Oscillatoriophycidae, Oscillatoriales, Oscillatoriaceae
+T: Lyngbya confervoides C. Agardh ex Gomont 1892
+LYNGBYOPSIS Gardner, 1927. Mem. New York Bot. Gard. 7: 54.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Lyngbyopsis willei Gardner 1927
+MACROSPERMUM Komárek, 2008. Fottea 8(1): 81
+Nostocophycidae, Nostocales, Nostocaceae
+T: Macrospermum volzii (Lemmermann) Komárek 2008
+MANTELLUM Dangeard, 1941. Botaniste 30: 129.
+Synechococcophycidae, Synechococcales, Merismopediaceae
+T: Mantellum adhaerens Dangeard 1941
+MASTIGOCLADOPSIS Iyengar et Desikachary, 1946. Proc. Ind. Acad. Sci. 24B: 158.
+Nostocophycidae, Nostocales, Symphyonemataceae
+T: Mastigocladopsis jogensis Iyengar et Desikachary 1946
+MASTIDOCLADUS Cohn ex Kirchner 1898. In Engler et Prantl, Nat. Pflanzenfam. 1(1a): 81.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Mastigocladus laminosus Cohn ex Kirchner 1898
+MASTIGOCOLEOPSIS Geitler, 1925. Beih. Bot. Centralbl. 41(2): 258.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Mastigocoleopsis obtusa (N. Carter) Geitler 1925
+MASTIGOCOLEUS Lagerheim ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 5: 54.
+Nostocophycidae, Nostocales, Nostochopsaceae
+T: Mastigocoleus testarum Lagerheim ex Bornet et Flahault, 1888
+MATTEIA Borzì, 1907. Nuova Notarisia 18: 38.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Matteia conchicola Borzì 1907
+MERISMOPEDIA Meyen, 1839. N. Syst. Pflanzen-Physiol. 3: 440.
+Synechococcophycidae, Synechococcales, Merismopediaceae
+T: Merismopedia punctata Meyen 1939
+MICROCHAETE Thuret ex Bornet et Flahault, 1887, nom. cons. Ann. Sci. Nat. Bot., ser. 7, 5: 83.
+Nostocophycidae, Nostocales, Microchaetaceae
+T: Microchaete grisea Thuret ex Bornet et Flahault 1886
+MICROCOLEUS Desmaziéres ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 15: 350.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Microcoleus vaginatus (Vaucher) Gomont 1892
+MICROCROCIS Richter, 1892. In Hauck et richter, Phyk. Univers., Fasc. 11: 548.
+Oscillatoriophycidae, Chroococcales, Cyanobacteriaceae
+T: Microcrocis dietelii Richter 1892
+MICROCYSTIS Kützing ex Lemmermann, 1907, nom. cons. Kryptogamenfl. Mark Brandenburg 3: 45.
+Oscillatoriophycidae, Chroococcales, Microcystaceae
+T: Microcystis aeruginosa(Kützing) Kützing 1846
+MOJAVIA Řeháková et Johansen, 2007. Phycologia 46(5): 488
+Nostocophycidae, Nostocales, Nostocaceae
+T: Mojavia pulchra Řeháková et Johansen 2007
+MYXOBAKTRON Schmidle, 1904. Hedwigia 43: 415.
+Oscillatoriophycidae, Chroococcales, Cyanobacteriaceae
+T: Myxobaktron usterianum Schmidle 1904
+MYXOHYELLA Geitler, 1925. Beih. Bot. Centralbl. 41(2): 246.
+Oscillatoriophycidae, Chroococcales, Hydrococcaceae
+T: Myxohyella socialis (Setchell et Gardner) Geitler 1925
+MYXOSARCINA Printz, 1921. Kong. Norske Vidensk. Selsk. Skr. 1920(1): 35.
+Oscillatoriophycidae, Chroococcales, Xenococcaceae
+T: Myxosarcina concinna Printz 1921
+NEMATOPLACA Geitler, 1933. Arch. Hydrobiol., Suppl. 12: 628.
+Nostocophycidae, Nostocales, Stigonemataceae
+T: Nematoplaca incrustans Geitler 1933
+NEPHROCOCCUS Li, 1984. Acta Phytotax. Sin. 22: 191.
+Oscillatoriophycidae, Chroococcales, Chroococcaceae
+T: Nephrococcus confertus Li 1984
+*NODOSILINEA Perkenson et Casamatta in Perkenson, Johansen, Kováčik, Brand, Kaštovský et Casamatta, 2011. Journal of Phycology 47: 1404
+Synechococcophycidae,Pseudanabaenales, Pseudanabaenaceae
+T: Nodosilinea epilithica Perkenson et Casamatta in Perkenson, Johansen, Kováčik, Brand, Kaštovský et Casamatta 2011
+NODULARIA Mertens ex Bornet et Flahault, 1886, nom. cons. Ann. Sci. Nat. Bot., ser. 7, 7: 243.
+Nostocophycidae, Nostocales, Nostocaceae
+T: Nodularia spumigena Mertens ex Bornet et Flahault 1888
+NOSTOC Vaucher ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 7: 181.
+Nostocophycidae, Nostocales, Nostocaceae
+T: Nostoc commune Vaucher ex Bornet et Flahault 1888
+NOSTOCHOPSIS Wood ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 5: 80.
+Nostocophycidae, Nostocales, Nostochopsaceae
+T: Nostochopsis lobata Wood ex Bornet et Flahault 1886
+ONKONEMA Geitler, 1933. Arch. Hydrobiol., Suppl. 12: 627.
+Oscillatoriophycidae, Chroococcales, Hydrococcaceae
+T: Onkonema compactum Geitler 1933
+OPHIOTHRIX Sant´Anna, Azevedo, Kaštovský et Komárek, 2010. Fottea 10(2): 218
+Nostocophycidae, Nostocales, Microchaetaceae
+T: Ophiothrix epidendron Sant´Anna, Azevedo, Kaštovský et Komárek 2010
+OSCILLATORIA Vaucher ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 16: 198.
+Oscillatoriophycidae, Oscillatoriales, Oscillatoriaceae
+T: Oscillatoria princeps Vaucher ex Gamont 1892
+*OXYNEMA Chatchawan, Komárek, Strunecký, Šmarda et Peerapornpisal, 2012. Cryptogamie, Algologie 33(1): 50
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Oxynema thaianum Chatchawan, Komárek, Strunecký, Šmarda et Peerapornpisal 2012
+PALIKIELLA Claus, 1968. Hydrobiologia 19(2): 201.
+Oscillatoriophycidae, Chroococcales, Cyanobacteriaceae
+T: Palikiella hungarica Claus 1962
+PANNUS Hickel, 1991. Algolog. Stud. 64: 100.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Pannus spumosus Hickel 1991
+PARACAPSA Naumann, 1924. Ark. Bot. 18: 6.
+Synechococcophycidae, Synechococcales, Merismopediaceae
+T: Paracapsa siderophila Naumann 1924
+PARENCHYMORPHA Tseng et Hua, 1984. Sci. Sin., ser. B. 27(8): 813.
+Nostocophycidae, Nostocales, Symphyonemataceae
+T: Parenchymorpha xishanica Tseng et Hua 1984
+PARTHASARATHIELLA Subba Raju, 1962. Trans. Amer. Microscop. Soc. 81: 93.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Parthasarathiella prolifica Subba Raju 1962
+PASCHERINEMA De Toni, 1936. Noter. Nomencl. Algol. 8: 5.
+Oscillatoriophycidae, Chroococcales, Hydrococcaceae
+T: Pascherinema moniliforme (Pascher) de Toni 1936
+PETALONEMA Berkeley ex Correns, 1898. Flora 72: 321.
+Nostocophycidae, Nostocales, Scytonemataceae
+T: Petalonema alatum Berkeley ex Kirchner 1898
+PHORMIDIOCHAETE Komárek in Anagnostidis, 2001. Preslia, Praha, 73:374-375
+Oscillatoriophycidae, Oscillatoriales, Ammatoideaceae
+T: Phormidiochatete nordstedtii (Bornet et Flahault) Komárek 2001
+PHORMIDESMIS Turicchia, Ventura, Komárková et Komárek, 2009. Nova Hedwigia 82(1-2): 179
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Phormidesmis molle (Gomont) Turicchia, Ventura, Komárková et Komárek 2009
+PHORMIDIUM Kützing ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 16: 156.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Phormidium lucidum Kützing ex Gomont 1892
+PLACOMA Schousboe ex Bornet et Thuret, 1876. Notes Algol. 1: 4.
+Oscillatoriophycidae, Chroococcales, Entophysalidaceae
+T: Placoma vesiculosum Schousboe 1876
+PLANKTOCYANOCAPSA Hindák, 2002. Biológia, Bratislava, 57(4): 418
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Planktocyanocapsa stagnalis Hindák 2002
+PLANKTOLYNGBYA Anagnostidis et Komárek, 1988. Algolog. Stud. 50-53: 394.
+Synechococcophycidae,Pseudanabaenales, Pseudanabaenaceae
+T: Planktolyngbya limnetica (Lemmermann) Komárková-Legnerová et Cronberg 1992
+PLANKTOTHRICOIDES Suda et M.M. Watanabe in Suda et. al. 2002. International Journal of Systematic and Evolutionary Biology 52: 1593
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Planktothricoides raciborskii Suda et al. 2002
+*PLECTOLYNGBYA Taton, Wilmotte, Šmarda, Elster et Komárek 2011. Polar Biology 34: 184
+Synechococcophycidae,Pseudanabaenales, Pseudanabaenaceae
+T: Plectonema hodgsoni Taton, Wilmotte, Šmarda, Elster et Komárek 2011
+PLANKTOTHRIX Anagnostidis et Komárek, 1988. Algolog. Stud. 50-53: 414.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Planktothrix agardhii (Gomont) Anagnostidis et Komárek 1987
+PLECTONEMA Thuret ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 16: 96.
+Oscillatoriophycidae, Oscillatoriales, Oscillatoriaceae
+T: Plectonema tomasinianum Gomont ex Gomont 1892
+PLEUROCAPSA Thuret in Hauck, 1885. Rabenhorst´s Kryptogamenfl., ed. 2, 2: 515.
+Oscillatoriophycidae, Chroococcales, Hydrococcaceae
+T: Pleurocapsa fuliginosa Hauck 1885
+PODOCAPSA Ercegović, 1931. Acta Bot. Inst. Bot. Univ. Zagreb. 6: 33.
+Oscillatoriophycidae, Chroococcales, Hydrococcaceae
+T: Podocapsa pedicellata Ercegović 1931
+POLYCHLAMYDUM W. et G.S.West, 1897. J. Bot. 35: 271.
+Oscillatoriophycidae, Oscillatoriales, Oscillatoriaceae
+T: Polychlamydum insigne W. et G.S. West 1897
+PORPHYROSIPHON Kützing ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 15: 331.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Porphyrosiphon notarisii Kützing ex Gomont 1892
+PROCHLOROCOCCUS Chisholm, Frankel et al., 1992. p. 299
+Synechococcophycidee, Synechococcales, Synechococcaceae
+T: Prochlorococcus marinus Chisholm et al. 1992
+PROCHLORON Lewin, 1977. p. 216
+Oscillatoriophycidae, Chrooccales, Prochloraceae
+T: Prochloron didemni (Lewin) Lewin 1977
+PROCHLOROTHRIX Burger-Wiersma, Stall et Mur, 1989
+Synechococcophycidae,Pseudanabaenales, Pseudanabaenaceae
+T: Prochlorothrix hollandica Burger-Wiersma, Stall et Mur 1989
+PROTERENDOTHRIX West et West, 1897. J. Bot. 35: 299.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Proterendothrix scolecoidea W. et G.S. West 1897
+PSEUDANABAENA Lauterborn, 1915. Verh. Naturhist.-Med. Vereins Heidelberg, ser. 2, 13: 437.
+Synechococcophycidae,Pseudanabaenales, Pseudanabaenaceae
+T: Pseudanabaena catenata Lauterborn 1915
+PSEUDOCAPSA Ercegović, 1925. Acta Bot. Inst. Univ. Zagreb. 1: 95.
+Oscillatoriophycidae, Chroococcales, Chroococcaceae
+T: Pseudocapsa dubia Ercegović 1925
+PSEUDONCOBYRSA Geitler, 1925. Beih. Bot. Centralbl. 41 (2): 237.
+Oscillatoriophycidae, Chroococcales, Cyanobacteriaceae
+T: Pseudoncobyrsa lacustris (Kirchner) Geitler 1925
+PSEUDOPHORMIDIUM (Forti) Anagnostidis et Komárek, 1988. Algolog. Stud. 50-53: 409.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Pseudophormidium phormidioides (Hansgirg ex Forti) Anagnostidis et Komárek 1988
+PSEUDOSCYTONEMA Elenkin, 1949. Monogr. Algarum Cyanophyc., Pars Spec. 2: 1805.
+Oscillatoriophycidae, Oscillatoriales, Ammatoideaceae
+T: Pseudoscytonema malayense (Biswas) Elenkin 1949
+PULVINULARIA Borzì, 1916. Nuovo Giorn. Bot. Ital., ser. 2, 23: 574.
+Nostocophycidae, Nostocales, Stigonemataceae
+T: Pulvinularia suecica Borzì 1916
+RADAISIA Sauvageau, 1895. J. Bot. 9: 374.
+Oscillatoriophycidae, Chroococcales, Hydrococcaceae
+T: Radaisia gomontiana Sauvageau 1895
+RADIOCYSTIS Skuja, 1948. Symb. Bot. Uppsala 9(3): 43.
+Oscillatoriophycidae, Chroococcales, Microcystaceae
+T: Radiocystis geminata Skuja 1948
+RAPHIDIOPSIS Fritsch et Rich, 1929. Trans. Roy. Soc. South Africa 18: 91.
+Nostocophycidae, Nostocales, Nostocaceae
+T: Raphidiopsis curvata Fritsch et Rich 1929
+REXIA Casamatta, Gomez et Johansen, 2006. Hydrobiologia 561: 23
+Nostocophycidae, Nostocales, Microchaetaceae
+T: Rexia erecta Casamatta, Gomez et Johansen 2006
+RHABDODERMA Schmidle et Lauterborn, 1900. Ber. Deutsch. Bot. Ges. 18: 148.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Rhabdoderma lineare Schmidle et Lauterborn 1900
+RHABDOGLOEA Schröder, 1917. Ber. Deutsch. Bot. Ges. 35: 549.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Rhabdogloea ellipsoidea Schröder 1917
+RHODOSTICHUS Geitler et Pascher, 1931. Arch. Protistenk. 73: 310.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Rhodostichus expansus Geitler et Pascher in Geitler 1931
+RICHELIA J. Schmidt in Ostenfeld et J. Schmidt, 1901. Vidensk. Meddel. Dansk Naturhist. Foren. Kobenhavn, p. 146.
+Nostocophycidae, Nostocales, Nostocaceae
+T: Richelia intracellularis Johnson Schmidt 1901
+RIVULARIA [Roth] Agardh ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 4: 345.
+Nostocophycidae, Nostocales, Rivulariaceae
+T: Rivularia dura Roth ex Bornet et Flahault 1887
+ROMERIA Koczwara in Geitler 1932. Rabenhorst´s Kryptogamenfl. Deutschl., ed. 2, 14: 915.
+Synechococcophycidae, Pseudanabaenales, Pseudanabaenaceae
+T: Romeria leopoliensis (Raciborski) Koczwara 1932
+*ROSEOFILUM Casamatta, Stanić, Gantar et Richardson 2012. Phycologia 51(5): 494.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Roseofilum reptotaenium Casamatta, Stanić, Gantar et Richardson 2012
+*RUBIDIBACTER Choi, Noh, Lee et Rho 2008. Int. J. of Systematic and Evolutionary Microbiology 58: 2811
+Oscillatoriophycidae, Chroococcales, Cyanobacteriaceae
+T: Rubidibacter lacunae Choi, Noh, Lee et Rho 2008
+SACCONEMA Borzì ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 3: 381.
+Nostocophycidae, Nostocales, Rivulariaceae
+T: Sacconema rupestre Borzì ex Bornet et Flahault 1886
+SCHIZOTHRIX Kützing ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 15: 292.
+Synechococcophycidae, Pseudanabaenales, Schizotrichaceae
+T: Schizothrix fuscescens Kützing ex Gomont 1892
+SCHMIDLEINEMA De Toni, 1936. Noter. Nomencl. Alg. 8: 5.
+Nostocophycidae, Nostocales, Borzinemataceae
+T: Schmidleinema indicum (Schmidle) De Toni 1936
+SCYTONEMA Agardh ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 5: 85.
+Nostocophycidae, Nostocales, Scytonemataceae
+T: Scytonema hofmannii Agardh ex Bornet et Flahault l888
+SCYTONEMATOPSIS Kiseleva, 1930. Zurn. Russk. Bot. Obsc. 15: 174.
+Nostocophycidae, Nostocales, Scytonemataceae
+T: Scytonematopsis woronichinii E. Kiseleva 1930
+SEGUENZAEA Borzì, 1907. Atti Congr. Nat. Ital. Milano 1906: 372.
+Nostocophycidae, Nostocales, Borzinemataceae
+T: Seguenzaea sicula Borzì 1907
+SINAIELLA Gruia, 1965. Revista Biol. 5: 167.
+Oscillatoriophycidae, Oscillatoriales, Borziaceae
+T: Sinaiella terricola Gruia 1965
+SIPHONONEMA Geitler, 1925. Arch. Protistenk. 51: 332.
+Oscillatoriophycideae, Chroococcales, Entophysalidaceae
+T: Siphononema polonicum (Raciborski) Geitler 1925
+SIPHONOSPHAERA Hindák, 1988. Algolog. Stud. 49: 416.
+Synechococcophycidae, Synechococcales, Merismopediaceae
+T: Siphonosphaera pannonica Hindák 1988
+SIROCOLEUM Kützing ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 15: 347.
+Oscillatoriophycideae, Oscillatoriales, Phormidiaceae
+T: Sirocoleum guyanense Kützing ex Gomont 1892
+SNOWELLA Elenkin, 1938. Monogr. Algarum Cyanophyc., Pars Spec., 1: 278.
+Oscillatoriophycideae, Chroococcales, Gomphosphaeriaceae
+T: Snowella rosea (Snow) Elenkin 1938
+SOKOLOVIA Elenkin, 1926. Bot.Mater. Inst. Sporov. Rast. Glavn. Bot. Sada RSFSR 4: 90.
+Synechococcophycideae, Pseudanabaenales, Pseudanabaenaceae
+T: Sokolovia neumaniae Elenkin 1926
+SOLENTIA Ercegović, 1927. Acta Bot. Inst. Bot. Univ. Zagreb. 2: 79.
+Oscillatoriophycidae, Chroococcales, Hydrococcaceae
+T: Solentia stratosa Ercegović 1927
+SPELAEOPOGON Borzì, 1907. Nuova Notarisia 18: 38.
+Nostocophycidae, Nostocales, Borzinemataceae
+T: Spelaeopogon sommieri Borzì 1907
+SPHAEROCAVUM Azevedo et Sant' Anna, 2003. Arch. Hydrobiol./ Algological Studies 109: 81
+Oscillatoriophycidae, Chroococcales, Microcystaceae
+T: Sphaerocavum brasiliense Azevedo et Sant' Anna 2003
+*SPHAEROSPERMOPSIS Zapomělová, Jezberová, Hrouzek, Hisem, Řeháková et Komárková, 2010. Journal of Phycology 46: 415
+Nostocophycidae, Nostocales, Nostocaceae
+T: Sphaerospermopsis reniformis (Lemmermmann) Zapomělová, Jezberová, Hrouzek, Hisem, Řeháková et Komárková 2010
+SPIRIRESTIS Flechtner et Johansen in Flechtner et al., Nova Hedwigia 74(1-2): 6 2002
+Nostocophycidae, Nostocales, Microchaetaceae
+T: Spirirestris rafaelensis Flechtner et Johansen in Flechtner et al. 2002
+SPIRULINA Turpin ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 16: 249.
+Oscillatoriophycidae, Chroococcales, Spirulinaceae
+T: Spirulina maior Kützing ex Gomont 1892
+STANIERIA Komárek et Anagnostidis, 1986. Algolog. Stud. 38-39: 208.
+Oscillatoriophycideae, Chroococcales, Dermocarpellaceae
+T: Stanieria cyanosphaera (Komárek et Hindák) Komárek et Anagnostidis 1986
+STARRIA Lang, 1977. J. Phycol. 13: 289.
+Oscillatoriophycideae, Oscillatoriales, Gomontiellaceae
+T: Starria zimbabweensis Lang 1977
+STAUROMATONEMA Frémy, 1930. Arch. Bot. 3: 385.
+Nostocophycideae, Nostocales, Stigonemataceae
+T: Stauromatonema viride Frémy 1930
+STICHOSIPHON Geitler, 1931. Rabenhorst´s Kryptogamenfl. Deutschl., ed. 2, 14: 411.
+Oscillatoriophycidae, Chroococcales, Stichosiphonaceae
+T: Stichosiphon regularis Geitler 1932
+STIGONEMA Agardh ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 5: 62.
+Nostocophycidae, Nostocales, Stigonemataceae
+T: Stigonema mamillosum Agardh ex Bornet et Flahault 1888
+STREPTOSTEMON Sant´Anna, Azevedo, Kaštovský et Komárek, 2010. Fottea 10(2): 220
+Nostocophycidae, Nostocales, Microchaetaceae
+T: Streptostemon capitatus Sant´Anna, Azevedo, Kaštovský et Komárek, 2010
+SYMPHYONEMA Jao, 1944. Sinensia 15: 81.
+Nostocophycidae, Nostocales, Symphyonemataceae
+T: Symphyonema sinense Jao 1944
+SYMPHYONEMOPSIS Tiwari et Mitra, 1969. Phykos 7: 193.
+Nostocophycidae, Nostocales, Symphyonemataceae
+T: Symphyonemopsis katniensis Tiwari et Mitra 1969
+SYMPLOCA Kützing ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 16: 104.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Symploca muralis Kützing ex Gomont 1892
+SYMPLOCASTRUM (Gomont) Kirchner, 1900. In: Engler et Prantl, Nat. Pflanzenfam. 1(1a): 68.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Symplocastrum friesii Forti 1907. Syll. Myxoph., p. 347
+SYNECHOCOCCUS Nägeli, 1849. Neue Denkschr. Allg. Schweiz. Ges. Gesammten Naturwiss. 10(7): 56.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Synechococcus elongatus Nägeli 1849
+SYNECHOCYSTIS Sauvageau, 1892. Bull. Soc. Bot. Fr. 39: 115.
+Synechococcophycidae, Synechococcales, Merismopediaceae
+T: Synechocystis aquatilis Sauvageau 1892
+T
+TAPINOTHRIX Sauvageau, 1893. Bull. Soc. Bot. Fr. 39(1892): 123.
+Synechococcophycidae, Pseudanabaenales, Pseudanabaenaceae
+T: Tapinothrix bornetii Sauvageau 1892
+THALPOPHILA Borzì, 1907. Atti Congr. Nat. Ital. 1906: 373.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Thalpophila cossyrensis Borzì, 1907
+*THERMOSYNECHOCCOUS Katoh, Itoh, Shen et Ikeuchi, 2001. Plant Cell Physiol. 42(6): 599-607 [nomen nudum]
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Thermosynechococcus elongatus Katoh et al. 2001
+THIOCHAETE Welsh, 1961. Nova Hedwigia 3: 39.
+Nostocophycidae, Nostocales, Nostocaceae
+T: Thiochaete chutteri Welsh 1961
+TOLYPOTHRIX Kützing ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 5: 118.
+Nostocophycidae, Nostocales, Microchaetaceae
+T: Tolypothrix distorta Kützing ex Bornet et Flahault 1888
+*TOXOPSIS Lamprinou, Skaraki, Kotoulas, Economou-Amili et Pantazidou, 2012. IJSEM 62:2872
+Nostocophycidae, Nostocales, Microchaetaceae
+T: Toxopsis calypsus Lamprinou, Skaraki, Kotoulas, Economou-Amili et Pantazidou 2012
+TRICHOCOLEUS Anagnostidis, 2001. Preslia, Praha, 73: 369
+Synechococcophycidae, Pseudanabaenales, Schizotrichaceae
+T: Trichocoleus delicatulus (W. et G.S.West) Anagnostidis 2001
+TRICHODESMIUM Ehrenberg ex Gomont, 1892, nom. cons. Ann. Sci. Nat. Bot., ser. 7, 16: 193.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T:Trichodesmium erythraeum Ehrenberg ex Gomont 1892
+TRICHORMUS (Ralfs ex Bornet et Flahault) Komárek et Anagnostidis, 1989. Algolog. Stud. 56: 303.
+Nostocophycidae, Nostocales, Nostocaceae
+T: Trichormus variabilis (Kützing ex Bornet et Flahault) Komárek et Anagnostidis 1987
+TRYPONEMA Ercegović, 1929. Arch. Protistenk. 66: 168.
+Oscillatoriophycidae, Chroococcales, Entophysalidaceae
+T: Tryponema endolithicum Ercegović 1929
+TUBIELLA Hollerbach, 1935. Acta Inst. Bot. Acad. Sci. SSSR, ser. 2, 2: 34.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Tubiella elenkinii Hollerbach 1934
+TYCHONEMA Anagnostidis et Komárek, 1988. Algolog. Stud. 50-53: 410.
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T: Tychonema tenue (Skuja) Anagnostidis et Komárek 1988
+U
+UMEZAKIA M. Watanabe, 1987. Bull. Nat. Sci. Mus., ser. B, 13(3): 81.
+Nostocophycidae, Nostocales, Symphyonemataceae
+T: Umezakia natans M. Watanabe 1987
+V
+VOUKIELLA Ercegović, 1925. Acta Bot. Inst. Bot. Univ. Zagreb. 1: 92.
+Nostocophycidae, Nostocales, Symphyonemataceae
+T: Voukiella rupestris Ercegović 1925
+W
+WESTIELLA Borzì, 1907. Atti Congr. Nat. Ital. 1906: 373.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Westiella intricata Borzì 1907
+WESTIELLOPSIS Janet, 1941. Ann. Bot. London, ser. 2, 5: 170.
+Nostocophycidae, Nostocales, Hapalosiphonaceae
+T: Westiellopsis prolifica Janet 1941
+*WILMOTTIA Strunecký, Elster et Komárek, 2011. Fottea 11(1): 62
+Oscillatoriophycidae, Oscillatoriales, Phormidiaceae
+T:Wilmottia murrayi (W. et G.S. West) Strunecký, Elster et Komárek, 2011
+WOLLEA Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 7: 223.
+Nostocophycidae, Nostocales, Nostocaceae
+T: Wollea saccata (Wolle) Bornet et Flahault 1888
+WOLSKYELLA Claus, 1963. Nova Hedwigia 6: 32.
+Synechococcophycidae, Synechococcales, Synechococcaceae
+T: Wolskyella filamentosa Claus 1963
+WORONICHINIA Elenkin, 1933. Trudy Bot. Inst. Akad. Nauk SSSR, ser. 2, Sporov. Rast. 1: 28.
+Oscillatoriophycidae, Chroococcales, Gomphosphaeriaceae
+T: Woronichinia naegeliana (Unger) Elenkin 1933
+X
+XENOCOCCUS Thuret in Bornet et Thuret, 1880. Notes Algol. 2: 74.
+Oscillatoriophycidae, Chroococcales, Xenococcaceae
+T: Xenococcus schousboei Thuret 1875
+XENOTHOLOS Gold-Morgan, Montejano et Komárek, 1994. Arch. Protistenk. 144: 391.
+Oscillatoriophycidae, Chroococcales, Xenococcaceae
+T: Xenotholos huastecanus Gold-Morgan, Montejano et Komárek 1994
+Y
+YONEDAELLA Umezaki, 1962. Taxon 11 60: 204.
+Oscillatoriophycidae, Oscillatoriales, Borziaceae
+T: Yonedaella lithophila (Ercegović) Umezaki 1962

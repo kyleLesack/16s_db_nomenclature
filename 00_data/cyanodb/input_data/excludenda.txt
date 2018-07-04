@@ -1,0 +1,393 @@
+A
+ACHRONEMA Skuja, 1948. Symb. bot. upsal. 9(3): 30.
+= Bacteria (Thiobacteriae).
+ACTINOCEPHALUM Saito, 1905. Bot. Mag. Tokyo 19: 36.
+= Fungi.
+AGONIUM Ørsted, 1844. De region. mar., p. 44.
+= Fungi (?).
+ALLOGONIUM Kützing, 1843. Phycol. gener., p. 245.
+= red alga (Bangiaceae).
+ANHALTIA S. H. Schwabe, 1834. Linnaea 9: 127.
+= Bacteria (?).
+ASPALATIA Ercegović, 1927. Acta Bot. Inst. Bot. Univ. Zagreb. 2: 82.
+= germlings of BANGIA (Bangiaceae); (FREMY 1934, GEITLER 1942).
+ASTEROCYSTIS Gobi, 1879. Arb. St. Petersb. Ges. Naturf. 10: 83.
+= red alga (Bangiaceae).
+ASTEROTHRIX Kützing, 1843. Phycol. gener., p. 200.
+= Fungi (?).
+ATRACTELLA Printz, 1921. Kgl. Norske Vidensk. Selsk. Skr. 1920, 1: 93.
+= ? (Oscillatoriales), unclear description.
+ARTACTIELLA Saccardo, 1886. Syll. Fung. 4: 578.
+= Fungi.
+Back to the top
+B
+BEGGIATOA Trevisan, 1845. Nomencl. Alg. 58.
+= Bacteria (nom. cons. among bacteria, against Trevisan, 1842).
+BOANEMA Ercegović, 1927. Acta Bot. Inst. Bot. Univ. Zagreb. 2: 84.
+= development stage of NEMALION (Rhodophyceae)
+BRACHTIA Trevisan, 1848. Algae cocc., p. 57.
+= green alga (Chlorophyceae)
+BROMICOLLA Eichwald, 1843. Forh. Skand. Naturf. Mote 3: 615.
+= green alga (Chlorophyceae)
+BYSSUS [Mich.] Linné, 1753. Spec. plant., p. 1168.
+= mixture of algae, incl. APHANIZOMENON (pre-starting-point).
+Back to the top
+C
+CALIALOA Trevisan, 1848. Alghe cocc., 41.
+= unidentifiable
+CALLONEMA Reinsch, 1874-1875. Contr. Algol. Fungol., p. 40.
+= Rhodophyceae (?).
+CAMPTOTHRIX West et West, 1897. J. Bot. 35: 269.
+= unidentifiable, probably initial stages of another cyanophyte-species.
+CHAETOCOCCUS Kützing, 1849. Tab. phycol. 1: 51.
+= unidentifiable.
+CHALARODORA Pascher, 1929. Jahrb. wiss. Bot. 71: 460.
+= genus of Glaucophyceae.
+CHAMAESIPHONOSIRA Geitler, 1975. Arch. Microbiol. 103: 234-236.
+= Bacteria.
+CHLOROBIUM Nadson, 1906. Bull. Jard. Bot. St. Petersburg 6: 190.
+= Bacteria.
+CHROODACTYLON Hansgirg, 1855. Ber. Dtsch. Bot. Ges. 3: 14.
+= red alga (Rhodophyceae).
+CHROOSTIPES Pascher, 1914. Ber. Dtsch. Bot. Ges. 32: 351.
+= probably bacteria.
+CHROOTHECE Hansgirg, 1884. Österr. bot. Ztschr. 34: 352.
+= red alga (Rhodophyceae).
+”CHRYSOSTIGMA Kirchner, 1843”
+= pre-starting-point name, probably used for Scytonema cincinatum.
+”CHTHONOBLASTUS Kützing, 1843”
+= pre-starting-point name, used for different genera, mainly from Oscillatoriales
+(unclear
+typification).
+CLADISCOTHALLUS Renault, 1896. Etud. Gites Min. France, 553.
+= fossil alga (Cyanophyte ?).
+CLATHROCHLORIS Geitler, 1925. Pascher´s Süsswasserfl. 12: 457.
+= Bacteria.
+CLONOTHRIX Roze, 1896. J. Bot. 10: 325.
+= Bacteria.
+COLLENIA Walcott, 1914. Smiths. Misc. Coll. 64(2): 110.
+= fossil species of Cyanophytes.
+CONIDIOTHRIX Benecke et Petersen, 1921. Dansk Bot. Arkiv. 4(1): 8.
+= Bacteria.
+CONSTANTINEA Postels et Ruprecht, 1840. III. Alg., p. 17.
+= red alga (Rhodophyceae).
+CYANIDIUM Geitler, 1935. Arch. Hydrobiol., Suppl. 12: 624.
+= red alga (Rhodophyceae)
+CYANOCHAETE Gobi, 1916. Bot. Jap. 30: 6.
+= GLOEOCHAETE Lagerh., 1883; (Glaucophyceae), nomen altern.
+CYANOCLOSTER Kufferath, 1929. Ann. Crypt. Exot. 2: 49.
+= probably MONORAPHIDIUM (Chlorellales, Chlorophyceae); type-species; C.
+muscicolus
+from Costarica.
+CYANOCOCCUS Hansgirg, 1905. Beih. Bot. Centralbl. 18, 2: 521.
+= ? (possibly Glaucophyceae).
+CYANOCYTA Hall et Claus, 1963. J. Cell. Biol. 19: 558.
+= Glaucophyceae.
+CYANOPHORA Koršikov, 1924. Russ. Arch. Protistol. 3: 57, 71.
+= Glaucophyceae.
+CYANOPTYCHE Pascher, 1929. Jahrb. wiss. Bot. 71: 459.
+= Glaucophyceae.
+CYANOTHECA Pascher, 1914. Ber. Dtsch. Bot. Ges. 32: 351.
+= Bacteria (Caulobacteriae); see Claus, 1961.
+CYCLOSPERMA Bonnemaison, 1822. J. phys. 44: 179.
+= pre-starting-point syn. to LYNGBYA G. Agardh ex Gomont, 1892 (?).
+Back to the top
+D
+DACTYLOCOCCOPSIS Hansgirg, 1888. Notarisia 3: 590.
+= green algae from the genera MONORAPHIDIUM and ANKISTRODESMUS (Chlorellales,
+Chlorophyceae); type-species: D. rupestris from Czechoslovakia; sensu auct.
+post. = RHABDOGLOEA Schröder, 1917; or MYXOBAKTRON Schmidle, 1904.
+DACTYLOGLOEA Borzi (1887) ex Borzi, 1914. N. Giorn. Bot. Ital., N. S. 21(4):
+348, 358.
+= 1887 – nomen nudum, 1914 – unidentifiable (Oscillatoriales ?).
+DERMOCARPA Crouan et Crouan, 1858. Ann. Sci. Nat. Bot., ser. 4, 9: 70.
+= nomen ambiguum (type = mixture of different species from different genera);
+see Komárek
+et Anagnostidis, 1986.
+DERMOGLOEA Zanardini, 1872. Atti R. Istr. Veneto Sci. Lett. Arti, ser. 4,
+1: 1885.
+= undefiniable.
+DESMANTHOS Skuja, 1956. Nova Acta Reg. Soc. Sci. Upsal., ser. 4, 16(3): 83.
+= Bacteria; later homonym to DESMANTHUS Willdenow 1806 nom. cons.; =
+SKUJAEPHYCONEMA Burkart, 1959.
+DETONIELLA Trevisan in De Toni et Trevisan, 1889. Syll. Schizomyc., p. 929.
+= Bacteria.
+Back to the top
+E
+ELISA Gray, 1821. New Arr. Brit. Pl. 1: 282.
+= mixture of filamentous Cyanophytes and Algae.
+EMBRYOSPHAERA Trevisan, 1848. Alg. coccot., p. 36.
+= green alga (Chlorophyceae).
+ENTOTHRIX Kützing, 1843. Phycol gener., p. 224.
+= unidentifiable; ex Forti 1907 = probably MICROCOLEUS.
+ERNSTIELLA Chodat, 1911. Bull. Soc. Bot. Genéve 2, ser. 3: 125.
+= mixture of Cyanophyte species (from the genera SIPHONONEMA, CHAMAESIPHON,
+HETEROLEIBLEINIA, etc.).
+ERYTHROCONIS Orsted, 1842. Naturhist. Tidsskr. 3: 555.
+= unidentifiable.
+EUACTIS Kützing, 1843. Phycol. gener., p. 240.
+= pre-starting-point name, unclear taxonomic position; probably RIVULARIA.
+EXOCOCCUS Nägeli, 1847. Neue Denkschr. Allg. Schweiz. Ges. Gesammten Naturwiss.
+9(2): 170.
+= unidentifiable genus and species from Cyanophyceae (? Hydrococcaceae).
+Back to the top
+F
+FILARSZKIA Forti in De Toni, 1907. Syll. Alg. 5: 258.
+= hormocysts of Scytonema (?).
+FRIDAEA Wille, 1909. In Engler & Prantl, Nat. Pflanzenfam., Nachtr. 1(2):
+77, 79.
+= later homonym (orth. var.) to FRIEDAEA Schmidle, 1905; (Chlorophyceae).
+Back to the top
+G
+GERVASIA Borzi ex Forti in De-Toni, 1907. Syll. Alg. 5: 704.
+= nomen nudum.
+GIRARDIA Gray, 1821. New Arr. Brit. Pl., 1: 287.
+= unidentifiable.
+GLAUCOCYSTIS Itzigsohn in Rabenhorst, 1854. Alg. eur. Exsicc., n. 1935.
+= Glaucophyceae.
+GLAUCOCYSTOPSIS Bourrelly, 1960. C. R. Hebd. Séances Acad. Sci. 251: 416.
+= Glaucophyceae.
+GLAUCOSPHAERA Koršikov, 1930. Arch. Protistenk. 70: 222.
+= Glaucophyceae.
+GOLIOTHRIX Zopf, 1882. Morph. Spaltpfl., p. 51.
+= mixture of different Cyanophytes.
+GLOEOCHAETE Lagerheim, 1883. Öfvers. Kgl. Vetensk. – Ak. Förhandl. 1883,
+2: 39.
+= Glaucophyceae.
+GLOEOCAPSOMORPHA Zalesskij, 1918. Ežeg. Russk. Paleontol. Obšč. 1: 34.
+= fossil cyanophyte genus.
+GLOIONEMA Agardh, 1817. Syn. Alg. Scand., p. 120.
+= pre-starting-point syn. of MICROCOLEUS (?).
+GONIOTRICHUM Kützing, 1843. Linnaea 17: 89.
+= red alga (Bangiaceae, Rhodophyceae).
+GUYOTIA Schmidle, 1905. Allg. Bot. Ztschr. 11: 64.
+= unclear described, unidentifiable genus (PLACOMA ?).
+Back to the top
+H
+HAPALOPSIS Kufferath, 1942. Bull. Soc. Roy. Bot. Belg. 74: 96.
+= stage of STIGONEMA (?).
+”HAPLONEMA Borzi, 1914”.
+= probably invalidly published, taxonomically unclear.
+HASSALLIA Trevisan, 1848. Alghe cocc., p. 67.
+= later (and pre-starting-point) homonym to HASSALLIA Berkeley, 1845 (= HASSALLIA
+Berkeley ex Bornet et Flahault, 1886).
+HAVRELLA Breton et Saulot, 1986. Cryptogamie – Algologie 7, 4: 286-287.
+= Bacteria.
+HETEROCHROA Areschoug, 1866. Alg. Scand. Exs., ser. 2, 6: 289.
+= later homonym to HETEROCHROA Bunge in Ledebour, 1830; pre-starting-point
+syn.,
+probably to SCHIZOTHRIX Kützing ex Gomont, 1892 (?).
+HOMALOCOCCUS Kützing, 1863. Osterpr. Realschule Nordhausen, p. 6.
+= unidentifiable.
+HORMOBOLUS Borzi, 1914. Boll. Stud. Inform. Reale Giard. Colon. 1: 93.
+= probably SCYTONEMA Agardh ex Bornet et Flahault, 1886 (?).
+HUMIDA Gray, 1821. New Arr. Brit. Pl. 1: 281.
+= unidentifiable, mixture of filamentous Cyanophytes.
+HYGROCROCIS C. A. Agardh, 1824. Syst. Alg. 23: 45.
+= Bacteria.
+Back to the top
+I
+IALOMITZIA Gruia, 1969. Rev. Algol., ser. 2, 7: 292.
+= unclearly described, not revised (probably Fungi imperf.; comp. BOURRELLY
+1970).
+Back to the top
+J
+JUGUSPIRA Crow, 1927. Trans. Amer. Micr. Soc. 46: 147.
+= unclearly described, confused morphology.
+Back to the top
+K
+KIRCHNERIELLOPSIS Kufferath in Conrad et Kufferath, 1954. Mém. Inst. Roy.
+Sci. Nat. Belg. 127: 271.
+= probably coccal green alga without pyrenoid (? syn. with RAPHIDOCELIS).
+KNEUCKERIA Schmidle, 1905. Allg. Bot. Ztschr. 1905: 64.
+= red alga (Bangiaceae, Rhodophyceae).
+KRKIA Pevalek, 1929. Acta Bot. Inst. Bot. Univ. Zagreb 6: 16.
+= unclearly described, probably syn. with CYANOCYSTIS (?).
+KYANOSTICHUS Romanov, 1964. Two new algae from a Calif. Oxid. Pond, p. 1.
+= indeterminable cyanophyte species (?).
+KYBOTION Pascher, 1940. Arch. Protistenk. 93: 348.
+= Chrysophyceae.
+Back to the top
+L
+”LAGERHEIMIELLA Borzi, 1914”.
+= non ”LAGERHEIMIELLA Boedijn, 1940”; probably invalidly published, unclear.
+LAMPROPEDIA Schroeter, 1886. In Cohn, Kryptogamenfl. Schlesiens, 1: 151.
+= Bacteria; later homonym is LAMPROPEDIA Pringsheim, 1966.
+LEPTOTHRIX Kützing, 1843. Phycol. gener., p. 198.
+= Bacteria.
+LEUCONEMA Kaas, 1983.
+= Bacteria.
+LEUCONOSTOC Van Tieghem, 1878. Ann. Sci. Nat. Bot. 7(6): 198.
+= Bacteria.
+LEUCOTHRIX Örsted, 1844. De region mar., p. 44.
+= Bacteria.
+LIMNACTIS Kützing, 1843. Phycol. gener., p. 237.
+= mixture of GLOEOTRICHIA and RIVULARIA, pre-starting-point genus.
+”LITHONEMA Hassall, 1845”.
+= pre-starting-point name, unclear; not LITHONEMA Ercegović, 1929.
+LOPHOPODIUM Kützing, 1849. Tab. Phycol. 1: 45.
+= unclear filamentous, heteropolar genus of Cyanophytes.
+LOTEN Adanson, 1763. Fam. Plant. 2: 3.
+= mixture of filamentous Cyanophytes.
+Back to the top
+M
+MARSSONIELLA Lemmermann, 1900. Ber. Dtsch. Bot. Ges. 18: 275.
+= spores of GURLEYA (Microsporidia); see Komárek & Vávra, 1968.
+”MASTICHOTHRIX Kützing, 1843”.
+= pre-starting-point name, unclear content.
+”MASTIGOTHRIX Reinsch, 1867”.
+= pre-starting-point name, unclear; not MASTIGOTHRIX Poche, 1913.
+MERISMOARCUS Hindák, 1988. Biológia, Bratislava, 43: 749.
+= probably Bacteria.
+MERIZOMYRIA Pollini, 1817. Biblkioth. Ital. 7: 420.
+= unclear, probably a mixture of filamentous Cyanophytes; STIGONEMA (?).
+MICRALOA Biasoletto, 1832. Alg. microsc., p. 44-47.
+= unclear, according to Drouet & Daily, 1956 = fytoflagellates; type
+species: M. protogenita.
+”MICRASCIDIUM Borzi, 1914”.
+= unclear, probably never validly published.
+MICROCYSTIS Kützing, 1833. Linnaea 8: 372.
+= green algae (Chlorophyceae).
+MICRODISCUS Steinecke, 1915. Schr. Phys.-ökon. Ges. Königsberg 56: 25.
+= unclear, epiphytic on CLOSTERIUM; type species = M. parasiticus (unclear
+reproduction,
+not revised).
+MICROHALOA Kützing, 1843. Phycol. gener., p. 169.
+= mixture of coccal Cyanophytes and green algae.
+MONTANOA Guerrero, 1947. Anal. Jard. Bot. Madrid 7: 267.
+= unclear description, possibly CALOTHRIX (?).
+Back to the top
+N
+NELLIECARTERIA De-Toni, 1936. Nomencl. Algol. 8: 5.
+= Fungi.
+NEMACOLA Massalongo, 1955. Flora 38: 36.
+= unclear, probably a pre-starting-point syn. to MICROCOLEUS (?).
+NEMATOCOCCUS Kützing, 1833. Linnaea 8: 381.
+= Fungi.
+NEOADELIA Bompard, 1867. Hedwigia 6: 129.
+= unclear, probably pre-starting-point syn. to SYMPLOCA Kützing ex Gomont,
+1892.
+Back to the top
+O
+OLIGOCLONIUM Brooker-Klugh, 1921. Contr. Canad. Biol. 1918/20: 181.
+= degenerated oscillatoriacean trichomes.
+”OSCILLARIA” sensu auct.
+= pre-starting-point orth. var. of OSCILLATORIA Vaucher ex Gomont, 1892.
+Back to the top
+P
+PALMOGLOEA Kützing, 1843. Phycol. gener., p. 176.
+= mixture of green algae with (?) APHANOCAPSA.
+PARAPLECTONEMA Frémy, 1939. Arch. Bot. 3: 178.
+= Bacteria.
+PAULINELLA Lauterborn, 1895. Ztschr. Wiss. Zool., p. 59.
+= syncyanotic genus of Testacea with cyanelles.
+PEDIOCHLORIS Geitler, 1925. In Pascher´s Süsswasserfl. 12: 457.
+= Bacteria.
+PELODICTYON Lauterborn, 1913. Allg. Bot. Ztschr. 19: 98.
+= Bacteria.
+PELONEMA Lauterborn, 1916. Verh. Naturh. Med. Ver. Heidelberg 13: 408.
+= Bacteria.
+PELOPLOCA Lauterborn, 1913. Allg. Bot. Zrschr. 19: 99.
+= Bacteria.
+PHRAGMONEMA Zopf, 1882. Morph. Spaltpfl., p. 49.
+= red alga (Rhodophyceae).
+PHYTOCONIS Bory de Saint Vincent, 1797. Mém. Conferva & Byssus, p. 52.
+= unidentifiable.
+PILGERIA Schmidle, 1901.
+Hedwigia
+40: 53.
+= unclear, unidentifiable.
+PLEOCOCCUS Kützing, 1843. Linnaea 17: 84.
+= syn. of ”BOTRYDINA Brébisson” (= consortium of COCCOMYXA with protonemes).
+PLEUROCOCCUS Meneghini, 1837. Consp. Algol. Eugan., 337.
+= nomen ambiguum, type = probably green alga (Chlorophyceae).
+PLUTO Copeland, 1936. Ann. N. Y. Acad. Sci. 36: 72.
+= CYANIDIUM (Rhodophyceae).
+POLYCOCCUS Kützing, 1843. Linnaea 17: 84.
+= probably developmental stage of Nostoc punctiforme.
+PONTOTHRIX Nadson et Krasilnikov, 1932. Dokl. Akad. Nauk SSSR 1932 A: 264,
+247.
+= Bacteria.
+PORPHYRIDIUM Nägeli, 1849. Gatt. einzell. Algen, p. 71.
+= red alga (Bangiaceae, Rhodophyceae).
+PORTACUS Rafinesque, 1819. J. Phys. 89: 107.
+= unidentifiable genus, probably from Nostocales.
+PSEUDOSPIRULINA Pankow et Jahnke, 1964. Österr. Bot. Ztschr. 111(4): 335.
+= stalks of Vorticella.
+Back to the top
+R
+RHIZONEMA Thwaites in Smith et Sowerby, 1849. Suppl. Engl. Bot. 4: 2954.
+= ? SCYTONEMA mixed with fungal hyphae.
+ROSARIA N. Carter, 1922. J. Linn. Soc. 16: 54.
+= NELLIECARTERIA (Fungi).
+Back to the top
+S
+SARCINASTRUM Lagerheim, 1900.
+= Bacteria.
+SCHMIDLEA Lauterborn, 1913. Allg. Bot. Zrschr. 19: 98.
+= Bacteria.
+SCYTHYMENIA Agardh, 1824. Syst. Alg., p. 20(xx).
+= pre-starting-point syn. of STIGONEMA Agardh ex Bornet et Flahault, 1886
+(?).
+SKUJAEPHYCONEMA Burkhart, 1959. Darwiniana 11: 765.
+= Bacteria.
+SKUJAPELTA Hall et Claus, 1967. J. Phycol. 3: 50.
+= Glaucophyceae.
+SOROSPORA Hassall, 1845. Brit. Freshw. Algae 1: 309.
+= probably mixture of several epilithic Cyanophyte species.
+”SPHAENOCYSTIS Reinsch”
+= erroneous citation, correctly see under ”SPHAENOSIPHON Reinsch”.
+SPHAEROTHROMBIUM Kützing, 1833. Linnaea 8: 370.
+= pro syn., unclear (? MICROCYSTIS Kützing ex Lemmermann, 1907).
+STAUROCLADIA González-Guerrero, 1966. A. Inst. Bot. Cavanilles 23: 135.
+= indeterminable Cyanophytes (?).
+SYMPHYOSIPHON Kützing, 1843. Phycol. gener., p. 218.
+= mixture of filamentous Cyanophytes.
+Back to the top
+T
+TETRAPEDIA Reinsch, 1867. Algenfl. Franken, p. 37.
+= green algae from different genera; see Geitler 1942, Claus 1963.
+TETRARCUS Skuja, 1934. Acta Horti Bot. Univ. Latv. 7: 46.
+= probably Rhodobacteria.
+THAMNIASTRUM Reinsch, 1888. Notarisia 3(11): 513.
+= free stalk-system of Gomphosphaeriaceae (probably of SNOWELLA).
+THIONEMA Kolkwitz, 1938. Ber. Dtsch. Bot. Ges. 56: 15.
+= Bacteria.
+THIOPLOCA Lauterborn, 1907. Ber. Dtsch. Bot. Ges. 25: 242.
+= Bacteria.
+THIOSIPHON Klas, 1936. Akad. Wiss. Wien Sitzungsb. mat.-nat. Kl., Abt. 145:
+213.
+= Bacteria.
+THIOSPIRILLOPSIS Uphof, 1927. Arch. Hydrobiol. 18: 83.
+= Bacteria.
+THIOTHRIX Vinogradskij, 1888. Beitr. Morphol. Physiol. Bacter., p. 29.
+= Bacteria.
+TRICHOCYSTIS Kützing, 1846. Tab. phycol. 1: 20.
+= ? zoochlorellas.
+TRICHOSPIRA McNeill, 1948. Castanea 13: 44.
+= unclear genus from Oscillatoriales; later homonym to TRICHOSPIRA Humboldt,
+Bonpland
+et Kunth, 1818.
+Back to the top
+U
+UROCOCCUS (Hassall) Hassall et Kützing, 1849. Spec. Alg., p. 206.
+= green alga (Chlorophyceae).
+Back to the top
+V
+VAGINARIA Bonnemaison, 1822. J. Phys., Chém., Hist. Nat. & Arts 94: 175.
+= pre-starting-point syn., probably to MICROCOLEUS Desmaziéres ex Gomont,
+1892; later
+homonym to VAGINARIA Persoon, 1805.
+VAGINARIA Gray ex Kuntze, 1898. Rev. Gen. Pl. 3(3): 435.
+= pre-starting-point syn., to MICROCOLEUS Desmaziéres ex Gomont, 1892; later
+homonym to VAGINARIA Persoon, 1805.
+Back to the top
+X
+XANTHOTRICHUM Wille ex Schütt, 1893. Pflanzenleben Hochsee, p. 39.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= TRICHODESMIUM Ehrenberg ex Gomont, 1892, nom. cons.
+Back to the top
+Z
+ZACHARIASIA Lemmermann, 1895. Vorarb. Fl. Plöner Seengeb., p. 60.
+= unclear description, not revised (with “chlorophora stellata”), probably
+a red alga (Bangiaceae, Rhodophyceae).

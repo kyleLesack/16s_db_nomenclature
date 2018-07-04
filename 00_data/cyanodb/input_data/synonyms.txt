@@ -1,0 +1,575 @@
+A
+ACTINOCEPHALUS Kützing, Phyc. gen., p. 190.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Microcoleoideae
+= ? HYDROCOLEUM Kützing ex Gomont, 1892; (pre-starting-point
+syn.).
+AGMENELLUM Brébisson, 1839. Mem. Soc. Acad. Sci., Arts, Bell.-Lett. Falaise, 1839: 2.
+Cyanophyceae, Chroococcales, Merismopediaceae, Merismopedioideae
+= MERISMOPEDIA Meyen, 1839.
+AINACTIS Kützing, 1843. Phycol. gener., p. 237.
+Cyanophyceae, Nostocales, Rivulariaceae
+= RIVULARIA [Roth] Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+AMALIA De Toni, 1934. Noter. nom. alg. 1: 5.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= ROMERIA Koczwara in Geitler, 1932.
+AMORPHONOSTOC Elenkin, 1936. Priroda 20(10): 969-970.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (probably special subgenus or genus).
+AMPHITRIX Kützing ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot. 7, 3: 343.
+Cyanophyceae, Oscillatoriales, Homoeotrichaceae, Homoeotrichoideae
+= HOMOEOTHRIX (Thuret ex Bornet et Flahault) Kirchner, 1898, nom. cons.; (pro parte trichali).
+ANABAENELLA Welsh, 1964. Nova Hedwigia 7: 20.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= PSEUDANABAENA Lauterborn, 1915 (subg. ILYONEMA).
+ANABAENOTHRIX Randhawa, 1936. Proc. Ind. Acad. Sci. 3(B): 407.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= HORMOTHAMNION Grunow ex Bornet et Flahault, 1886.
+ANABAINA Bory de Saint Vincent, 1822. Dict. Class, d´Hist. Nat. 1: 308.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= pre-starting-point orthogr. var. of ANABAENA Bory ex Bornet et Flahault, 1886.
+ANACYSTIS Meneghini, 1837. Consp. Algol. Eugan., p. 324.
+Cyanophyceae, Chroococcales
+= encyst. Euglenophyceae (type material); sensu auct. post.
+APHANOTHECE Nägeli 1849 nom.
+cons., CHROOCOCCIDIOPSIS
+Geitler 1933,
+CYANOSARCINA Kováčik 1988 sensu Gardner 1927, ASTEROCAPSA Chu 1952 sensu Gardner 1927,
+SYNECHOCOCCUS Nägeli 1849 sensu Kratz and Myers et auct. post.
+APLOCOCCUS roze, 1896. J. Bot. 10: 319-323.
+Cyanophyceae, Chroococcales, Merismopediaceae, Merismopedioideae
+= APHANOCAPSA Nägeli, 1849 (?)
+ARTHROSIPHON Kützing, 1845. Phyc. germ., p. 117.
+Cyanophyceae, Nostocales, Microchaetaceae
+= PETALONEMA Berkeley ex Correns, 1889; (pre-starting-point syn.).
+ARTHRONEMA Hassall, 1845. Brit. Freshw. Alg., p. 238.
+Cyanophyceae, Nostocales, Microchaetaceae
+= ? COLEODESMIUM Borzi, 1879, nom. cons. propos.; (pre-starting-point syn.).
+ARTHROTILUM Rabenhorst, 1865. Fl. Eur. Alg. 2, p. 230.
+Cyanophyceae, Oscillatoriales, Homoeotrichaceae, Homoeotrichoideae
+= ? HOMOEOTHRIX (Thuret ex Bornet et Flahault) Kirchner, 1898, nom. cons.
+ARTUROA Gonzalez-Guerrero, 1951. Anal. Jard. Bot. Madrid 10: 210.
+Cyanophyceae, Oscillatoriales, Phormidiaceae
+= ? MICROCOLEUS Desmazieres ex Gomont, 1892 (without sheaths).
+ASKENASYA Möbius, 1887. Ber. Dtsch. Bot. Ges. 5: 56.
+Cyanophyceae, Chroococcales, Hydrococcaceae
+= HYDROCOCCUS Kützing, 1833, nom. cons.
+Back to the top
+B
+BACILLOSIPHON Copeland, 1936. Ann. N. Y. Acad. Sci. 36: 66.
+Cyanophyceae, Chroococcales, Synechococcaceae, Aphanothecoideae
+= BACULARIA Borzi, 1905.
+BECKIA Elenkin, 1938. Monogr. Alg. Cyanoph. URSS, pars. Spec. 1: 71.
+Cyanophyceae, Chroococcales, Merismopediaceae, Merismopedioideae
+= subg. of MICROCROCIS P. Richter, 1892.
+BELMONTIA Archibald, 1967. Nova Hedwigia 12(3-4): 532.
+Cyanophyceae, Nostocales, Nostocaceae
+= ? ANABAENA Bory ex Bornet et Flahault, 1886; later homonym to BELMONTIA E. H. F. Meyer, 1838 (Phaner.).
+BELONIA Carmichael in Hookers, 1833. Brit. Fl. 2: 379.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= ANABAENA Bory ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+BICHATIA Turpin, 1828, Mem. Mus. Hist. Nat. Paris 16: 162.
+Cyanophyceae, Chroococcales, Microcystaceae
+= GLOEOCAPSA Kützing, 1843, nom. cons.
+BRACHYNEMA Ercegović, 1931. Acta Bot. Inst. Bot. Univ. Zagreb 6: 36.
+Cyanophyceae, Chroococcales, Hydrococcaceae, Podocapsoideae
+= ERCEGOVICIA De Toni, 1936 (later homonym)
+BRACHYTHRIX A. Braun in Rabenhorst, 1865. Fl. Eur. Alg. 2: 118.
+Cyanophyceae, Chroococcales, Chamaesiphonaceae
+= CHAMAESIPHON A. Braun, 1864.
+Back to the top
+C
+CAGNIARDIA Trevisan, 1848. Sagg. Monogr. Alg. Coccot., p. 47.
+Cyanophyceae, Chroococcales, Microcystaceae
+= ? MICROCYSTIS Kützing ex Lemmermann, 1907, nom. cons.
+CAMPTYLONEMA Schmidle, 1900. Hedwigia 39: 181.
+Cyanophyceae, Stigonematales, Borzinemataceae
+= SCHMIDLEINEMA De Toni, 1936; (later homonym)
+CAMPYLOTROPIUM Hortobagyi et Hilliard, 1965. Acta bot. hung. 11: 141.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= ROMERIA Koczwara in Geitler, 1932
+(incl.).
+CATELLA Alvik, 1934. Bergens Mus. Arbok 1934 (Naturw. Rekke 6): 37.
+Cyanophyceae, Chroococcales, Synechococcaceae, Synechococcoideae
+= RHABDODERMA Schmidle et Lauterborn, 1900 (incl.).
+CHAMAENEMA Kützing, 1833. Linnaea 8: 364.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= LEPTOLYNGBYA Anagnostidis et Komárek, 1988; (pre-starting-point syn.).
+CHAMAESIPHONOPSIS Fritsch, 1929. New Phytol. 28: 193.
+Cyanophyceae, Chroococcales, Chamaesiphonaceae
+= CHAMAESIPHON A. Braun, 1864 (incl.).
+CHALARCTIS Kützing, 1843. Phycol. gener., p. 236.
+Cyanophyceae, Nostocales, Rivulariaceae
+= GLOEOTRICHIA J. Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+CHROOBACTER Pringsheim, 1953. Arch. Microbiol. 19: 361.
+Cyanophyceae, Chroococcales, Synechococcaceae, Synechococcoideae
+= SYNECHOCOCCUS Nägeli, 1849 (incl.).
+CIRROSIPHON Duvigneaud et Symoens, 1949. Lejeunia 13: 86.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= PHORMIDIUM Kützing ex Gomont, 1892; (possibly a special genus of Phormidiaceae).
+CLATHROCYSTIS Henfrey, 1856. Trans. Microsc. Soc. London 2, 4: 53.
+Cyanophyceae, Chroococcales, Microcystaceae, Microcystoideae
+= MICROCYSTIS Kützing ex Lemmermann, 1907, nom. cons.
+COCCOCHLORIS Sprengel, 1807. Fl. Hal. Mant. 1: 14.
+Cyanophyceae, Chroococcales, Synechococcaceae, Aphanothecoideae
+= APHANOTHECE Nägeli, 1849, nom. cons.
+COELOCYSTIS Nägeli in Kützing, 1849. Spec. Alg., p. 209.
+Cyanophyceae, Chroococcales, Merismopediaceae, Gomphosphaerioideae
+= COELOSPHAERIUM Nägeli, 1849.
+COLEODESMIOPSIS Dutt, Datta et Gupta, 1982; (false“COLEODESMIUMOPSIS”).Cryptog.Algol. 3: 180.
+Nostocophycideae,Nostocales, Microchaetaceae
+= COLEODESMIUM Borzì ex Geitler 1942
+COLEODESMIUM Borzi, 1879. N. Giorn. Bot. Ital. 11: 348.
+Cyanophyceae, Nostocales, Microchaetaceae, Tolypotrichoideae
+= COLEODESMIUM Borzi ex Geitler, 1942; (validis. of pre-starting-point name).
+COLEONEMA Schousboe ex Bornet et Thuret, 1880. Not. alg. 2: 73-75.
+Cyanophyceae, Chroococcales, Xenococcaceae
+= XENOCOCCUS Thuret, 1875; (pro syn.).
+COLEOSPERMUM Kirchner in Cohn, 1878. Kryptogamenfl. Schlesiens 2: 239.
+Cyanophyceae, Nostocales, Microchaetaceae, Microchaetoideae
+= MICROCHAETE Thuret ex Bornet et Flahault, 1886, nom. cons.
+CROATELLA Ercegović, 1925. Acta Bot. Inst. R. Univ. Zagreb 1: 92.
+Cyanophyceae, Nostocales, Microchaetaceae, Tolypotrichoideae
+= PETALONEMA Berkeley ex Correns, 1889 (incl.).
+CYANARCUS Pascher, 1914. Ber.
+Deutsch. Bot. Ges. 32: 351.
+= GOMONTIELLA Teodoresco, 1901. Verh. Zool.-Bot. Ges. Wien 51: 757.
+CYANODERMA Hansgirg, 1890. Phys. algol. Mitt. Sitzungsb. kgl. böhm. Acad. 1890: 91.
+Cyanophyceae, Chroococcales, Hydrococcaceae, Hydrococcoideae
+= PLEUROCAPSA Thuret ex Hauck, 1885.
+CYANOGASTRUM Schiller, 1956. Ergebn. Dtsch. Limnol. Venezuela-Exp. 1952, p. 203-
+204.
+Cyanophyceae, Chroococcales, Synechococcaceae, Aphanothecoideae
+= ? APHANOTHECE Nägeli, 1849, nom. cons.; (probably special subgenus).
+CYANOHYDNUM Copeland, 1936. Ann. N. Y. Acad. Sci. 36: 199.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= SYMPLOCA Kützing ex Gomont, 1892 (incl.).
+CYANOSPIRA Florenzano et al., 1985. Arch. Microbiol. 140: 305.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= ANABAENA Bory ex Flahault, 1886 (subg. DOLICHOSPERMUM).
+CYANOTHRIX Schmidle, 1897. All. Bot. Ztschr. 3(3): 37.
+Cyanophyceae, Stigonematales, Mastigocladaceae
+= HAPALOSIPHON Nägeli in Kützing et Flahault, 1886.
+CYANOTHRIX Gardner, 1926. Mem. N. Y. Bot. Garden 7: 30.
+Cyanophyceae, Chroococcales, Synechococcaceae, Synechococcoideae
+= JOHANNESBAPTISTIA De Toni, 1934; (later homonym).
+CYSTOCOLEUS Thuret, 1875. Ann. Sci. Nat.-Bot. 6, 1: 376.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= HYDROCORYNE S. H. Schwabe ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+Back to the top
+D
+DASYACTIS Kützing, 1843. Phycol. gener., p. 239.
+Cyanophyceae, Nostocales, Rivulariaceae
+= RIVULARIA [Roth] Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+DESMARESTELLA Bory de Saint Vincent, 1824. Dict. class. Hist. Nat. 5: 438.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+DESMONEMA Berkeley et Thwaites ex Bornet et Flahault, 1886. Ann. Sci.Nat.-Bot. 7, 5: 126.
+Cyanophyceae, Nostocales, Microchaetaceae, Tolypotrichoideae
+= COLEODESMIUM Borzi ex Geitler, 1942; (later homonym).
+DICTYOTHRIX Kützing (1843) ex Forti, 1907. Syll. Myxoph., p. 308.
+Cyanophyceae, Oscillatoriales, Schizotrichaceae
+= SCHIZOTHRIX Kützing ex Gomont, 1892.
+DILLWYNELLA Bory de Saint Vincent, 1891. Dict. class. 1: 593.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMA Agardh ex Bornet et Flahault, 1886.
+DIPLOCOLON Nägeli ex Bornet et Flahault, 1886. Ann. Sci. Nat.-Bot. 7, 5: 129.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMA Agardh ex Bornet et Flahault, 1886 (incl.).
+DIPLOCYSTIS Trevisan, 1848. Sagg. Monogr. Alg. Coccot., p. 40.
+Cyanophyceae, Chroococcales, Microcystaceae
+= MICROCYSTIS Kützing ex Lemmermann, 1907, nom. cons.
+DIPLONEMA Borzi, 1917. N. Giorn. Bot. Ital. 24: 103.
+Cyanophyceae, Stigonematales, Borzinemataceae
+= BORZINEMA De Toni, 1936; (later homonym).
+DIPLOTRICHIA J. Agardh, 1842. Alg. mar. medit. adriat., p. 10.
+Cyanophyceae, Nostocales, Rivulariaceae
+= RIVULARIA [Roth] Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+DOLICHOSPERMUM Thwaites in Ralfs, 1843. Ann. Nat. Hist. 11: 161.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= ANABAENA Bory ex Bornet et Flahault, 1886 (subgenus).
+DRILOSIPHON Kützing, 1843. Phycol. gener., p. 214.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMA C. A. Agardh et Bornet et Flahault, 1886; (pre-starting-point syn.).
+Back to the top
+E
+ECHEVERRIOPSIS Kufferath, 1929. Ann. crypt. exot. 2: 49.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886.
+ELEUTHERONEMA Weber van Bosse in Borzi, 1914. N. Giorn. Bot. Ital. 21:354.
+Cyanophyceae, Stigonematales, Mastigocladaceae
+= HERPYZONEMA Weber van Bosse, 1913; (nomen nudum).
+ENDONEMA Pascher, 1929; Jahrb. wiss. Bot. 70: 347.
+Cyanophyceae, Chroococcales, Hydrococcaceae, Pascherinematoideae
+= PASCHERINEMA De Toni, 1936; (later homonym).
+ENDOSPORA Gardner, 1927. Mem. N. Y. Bot. Garden 7: 27.
+Cyanophyceae, Chroococcales
+= CYANOSARCINA Kováčik, 1988 and MYXOSARCINA Printz, 1921.
+Back to the top
+F
+FISCHERA S. H. Schwabe, 1837. Linnaea: 124.
+Cyanophyceae, Stigonematales, Fischerellaceae
+= FISCHERELLA (Bornet et Flahault) Gomont, 1895; (pre-starting-point syn.).
+FREMYELLA De Toni, 1936. Noter. nom. alg., p. 9.
+Cyanophyceae, Nostocales, Microchaetaceae, Microchaetoideae
+= MICROCHAETE Thuret ex Bornet et Flahault, 1886, nom. cons.
+Back to the top
+G
+GAILLARDOTELLA Mougeot, 1898. Stirpes vogesorhen. 8, nr. 796.
+Cyanophyceae, Nostocales, Rivulariaceae
+= GLOEOTRICHIA J. Agardh ex Bornet et Flahault, 1886.
+GEITLERIELLA De-Toni, 1936. Noter. Nomencl. Algol. 8: 5.
+Cyanophyceae, Chroococcales, Hyellaceae, Hyelloideae
+= Cyanoderma Weber van Bosse 1887
+GEOCYCLUS Kützing, 1843. Phycol. gener., p. 235.
+Cyanophyceae, Nostocales, Rivulariaceae
+= RIVULARIA [Roth] Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+GLAUCOTHRIX Kirchner in Cohn, 1878. Kryptogamenfl. Schlesiens 2: 229.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= PSEUDOPHORMIDIUM (Forti) Anagnostidis et Komárek, 1988; (pre-starting-point syn.).
+GLOEOCHLAMYS Schmidle, 1899. Allg. Bot. Ztschr. 5: 192.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMA C. A. Agardh ex Bornet et Flahault, 1886.
+GODLEWSKIA Janczewski, 1883. Mem. Acad. Cracov. 11: 142.
+Cyanophyceae, Chroococcales, Chamaesiphonaceae
+= CHAMAESIPHON A. Braun, 1864 (subgenus).
+GONIDIUM Ehrenberg ex Meneghini, 1849. Linnaea 14: 213.
+Cyanophyceae, Chroococcales, Merismopediaceae, Merismopedioideae
+= MERISMOPEDIA Meyen, 1839.
+Back to the top
+H
+HALIARACHNE Lemmermann, 1899. Abh. Maturw. Ver. Bremen 16: 353.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= TRICHODESMIUM Ehrenberg ex Gomont, 1892, nom. cons. (incl.).
+HALOSPIRULINA Nübel, Garcia-Pichel et Muyzer, 2000 Int. J. Syst. Evol. Microbiol. 50: 1265-1277
+Oscillatoriophycideae, Chroococcales, Spirulinaceae
+= SPIRULINA Turpin ex Gomont, 1892. Ann. Sci. Nat. Bot., ser. 7, 16: 249.
+HELIOTRICHUM Wille ex Schütt, 1893. Pflanzenleben Hochsee, p. 39.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= TRICHODESMIUM Ehrenberg ex Gomont, 1892, nom. cons.
+HETERACTIS Kützing, 1843. Phycol. gener., p. 239.
+Cyanophyceae, Nostocales, Rivulariaceae
+= RIVULARIA [Roth] Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+HETEROHORMOGONIUM Copeland, 1936. Ann. N. Y. Acad. Sci. 36: 64.
+Cyanophyceae, Chroococcales, Synechococcaceae, Synechococcoideae
+= JOHANNESBAPTISTIA De Toni, 1934.
+HILSEA Kirchner, 1879. Kryptogamenfl. Schlesiens 2: 239.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= HYDROCORYNE S. H. Schwabe ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+HOLOPEDIUM (Lagerheim) Lagerheim, 1893. Nuova Notarisia 4: 209.
+Cyanophyceae, Chroococcales, Merismopediaceae, Merismopedioideae
+= MICROCROCIS P. Richter, 1892.
+HORMACTIS Thuret, 1875. Ann. Sci. Nat.-Bot. 6, 1: 376.
+Cyanophyceae, Stigonematales, Mastigocladaceae
+= BRACHYTRICHIA Zanardini ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+HORMOSIPHON Kützing, 1843. Phycol. gener., p. 209.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+HORMOTHAMNION Grunow ex Bornet et Flahault, 1886. Ann. Sci. Nat. Bot., ser. 7, 7: 259.
+Nostocophycideae, Nostocales, Nostocaceae
+= HYDROCORYNE Schwabe ex Bornet et Flahault 1888
+HYDROEPICOCCUM De-Notaris, 1868. Erb. Crittog. Ital., ser. 2: 178.
+Cyanophyceae, Chroococcales, Merismopediaceae, Gomphosphaerioideae
+= COELOSPHAERIUM Nägeli, 1849.
+HYELLOCOCCUS Schmidle, 1905. Allg. Bot. Ztschr. 11: 64.
+Cyanophyceae, Chroococcales, Chamaesiphonaceae
+= CHAMAESIPHON A. Braun, 1864.
+HYPHEOTHRIX Kützing, 1843. Phycol. gener., p. 229.
+Cyanophyceae, Oscillatoriales, Schizotrichaceae
+= SCHIZOTHRIX Kützing ex Gomont, 1892, p. p.; (pre-starting-point syn.).
+HYPHEOTHRIX (Gomont ex Gomont) Kirchner, 1898. In Engler & Prantl, Nat. Pflanzenfam. 1(1a): 67.
+Cyanophyceae, Oscillatoriales, Schizotrichaceae
+= SCHIZOTHRIX Kützing ex Gomont, 1892 (subgenus), or PHORMIDIUM Kützing ex Gomont, 1892.
+Back to the top
+I
+INACTIS Kützing, 1843. Phycol. gener., p. 202.
+Cyanophyceae, Oscillatoriales, Schizotrichaceae
+= SCHIZOTHRIX Kützing ex Gomont, 1892 (subgenus); (pre-starting-point syn.).
+INACTIS Thuret, 1875. Ann. Sci. Nar.-Bot. 6, 1: 375.
+Cyanophyceae, Oscillatoriales, Schizotrichaceae
+= SCHIZOTHRIX Kützing ex Gomont, 1892; (pre-starting-point syn.).
+INCONIA Libert, 1826. Ann. Soc. Linn. Paris 5: 402.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMA C. A. Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+INOMERIA Kützing, 1845. Phycol. german., p. 191.
+Cyanophyceae, Oscillatoriales, Schizotrichaceae
+= SCHIZOTHRIX Kützing ex Gomont, 1892, p. p.; (pre-starting-point syn.).
+ISACTIS [Thuret 1875] ex Wolle 1887
+Cyanophyceae, Nostocales, Rivulariaceae
+= ISACTIS Thuret ex Bornet et Flahault 1886
+Back to the top
+K
+KUETZINGINA Kuntze, 1898. Rev. Gener. Pl. 3(3): 411.
+Cyanophyceae, Oscillatoriales, Homoeotrichaceae, Homoeotrichoideae
+= AMPHITHRIX Bornet et Flahault, 1886 = HOMOEOTHRIX (Thuret ex Bornet et Flahault) Kirchner, 1898, nom. cons.
+Back to the top
+L
+LAUTERBORNIA Pringsheim, 1968. Arch. Microbiol. 63: 1-6.
+Cyanophyceae, Chroococcales, Synechococcaceae, Synechococcoideae
+= SYNECHOCOCCUS Nägeli, 1849 (incl.)
+LEIBLEINIA Endlicher, 1836. Gen. plant., p. 5.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+LEIBLEINIA Meneghini, 1838, Cenni Algh., p. 31.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+LEIBLEINIA Kützing, 1843. Phycol. gener., p. 221.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= LEIBLEINIA (Gomont) L. Hoffmann, 1895; (pre-starting-point syn.).
+LEMMERMANNIA Elenkin, 1933. Acta Inst. Bot. Acad. Sci. USSR, 2, 1: 26.
+Cyanophyceae, Chroococcales, Synechococcaceae, Aphanothecoideae
+= LEMMERMANNIELLAGeitler, 1942; (later homonym).
+LEPTOBASIS Elenkin, 1915. Bull. Jard. Imp. Pierre le Grande 15: 21.
+Cyanophyceae, Nostocales, Microchaetaceae, Microchaetoideae
+= FORTIEA De-Toni, 1936; (later homonym)
+LEPTOCHAETE Borzi ex Bornet et Flahault, 1886. Ann. Sci. Nat.-Bot. 7, 3:341.
+Cyanophyceae, Oscillatoriales, Homoeotrichaceae, Homoeotrichoideae
+= HOMOEOTHRIX (Thuret ex Bornet et Flahault) Kirchner, 1898, nom. cons.; (pro parte trichali).
+LIMNANTHE Kützing, 1843. Linaea: 86.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= APHANIZOMENON Morren ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+LIMNOCHLIDE Kützing, 1843. Phycol. gener., p. 203.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= APHANIZOMENON Morren ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+LINCKIA Wiggers, 1780. Prim. Fl. Holsat. 94.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (pre-starting-point syn., mixed with Xanthophyceae ?).
+LINCKIA [“Mich.”] Roth, 1802. Neue Beitr. Bot. 1:297.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+LINCKIELLA Gaillon, 1833. Tab. synopt. meth. gen. Nemazoaires, p. 29.
+Cyanophyceae, Nostocales, Rivulariaceae
+= GLOEOTRICHIA J. Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+LITHONEMA Ercegović, 1929. Ann. Protist. 2: 136.
+Cyanophyceae, Stigonematales, Mastigocladaceae
+= ADRIANEMA De-Toni, 1936; (later homonym)
+LOPHOPODIUM Kützing, 1849. Tab. phycol. 1: 45.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+LPP-group A sensu Rippka et al., 1979. J. gener. Microbiol. 111: 29-34.
+Cyanophyceae, Oscillatoriales, Oscillatoriaceae, Oscillatorioideae
+= probably LYNGBYA C. Agardh ex Gomont, 1892.
+LPP-group B sensu Rippka et al., 1979. J. gener. Microbiol. 111: 29-34.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= LEPTOLYNGBYA Anagnostidis et Komárek, 1988.
+LITHOCAPSA Ercegović, 1925. Acta Bot. Inst. Bot. Zagreb. 1: 82.
+Cyanophyceae, Chroococcales, Chroococcaceae
+= CHLOROGLOEA Wille 1900
+LUNOEVIA Sukačev, 1908. J. Bot. Soc. Imp. Nat. St.-Petersb. 3: 124.
+Cyanophyceae, Stigonematales, Mastigocladaceae
+= HAPALOSIPHON Nägeli in Kützing ex Bornet et Flahault, 1886.
+Back to the top
+M
+MASTICHONEMA Kützing, 1843. Phycol. gener., p. 232.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+MASTIGONEMA S. H. Schwabe, 1833. Linnaea 11: 112.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+MAZAEA Bornet et Grunow, 1881. Bull. Soc. Bot. Fr. 33: 287.
+Cyanophyceae, Stigonematales, Nostochopsaceae
+= NOSTOCHOPSIS Wood ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+MONOCAPSA Itzigsohn in Rabenhorst, 1853. Alg. exsicc., Dec. 27: 263.
+Cyanophyceae, Chroococcales, Microcystaceae
+= GLOEOCAPSA Kützing, 1843, nom. cons.
+MONORMIA Berkeley, 1832. Glean. Brit. Alg., p. 46.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+MYXODERMA Hansgirg, 1890. Phys. algol. Mitt. Sitzungsb. kgl. bohm. Acad. 1890: 91.
+Cyanophyceae, Chroococcales, Hydrococcaceae, Hydrococcoideae
+= PLEUROCAPSA Thuret ex Hauck, 1885.
+MYXODERMA Schmidle, 1901. Engl. Bot. Jahrb. 25: 216.
+Cyanophyceae, Stigonematales, Nostochopsaceae
+= NOSTOCHOPSIS Wood ex Bornet et Flahault, 1886.
+Back to the top
+N
+NEMATONOSTOC Nylander ex Elenkin, 1934. Priroda 20(10): 969-970.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886 (incl.).
+NEMATORADAISIA Geitler, 1925. Beih. Bot. Centrabl. 41 (2): 242
+Chroococcales, Hydrococcaceae, Hydrococcoideae
+= CYANODERMA Weber Van Bosse 1887
+NEOADELIA Bompard, 1867. Hedwigia 6: 129.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= SYMPLOCA Kützing ex Gomont, 1892; (pre-starting-point syn.).
+NOSTOCHIUM Link in Nees, 1820. Hor. Phys. Berol, p. 6.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+Back to the top
+O
+ONCOBYRSA Meneghini, 1842. Atti R. Accad. Sci. Torino, ser. 2, 5: 95.
+Cyanophyceae, Chroococcales, Hydrococcaceae, Hydrococcoideae
+= HYDROCOCCUS Kützing, 1833, nom. cons.
+Back to the top
+P
+PELAGOTHRIX J. Schmidt, 1901. Vidensk. Medd. Nat. Foren. Kjobenhavn, p. 144.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= TRICHODESMIUM Ehrenb. ex Gomont, 1892, nom. cons.
+PHYSACTIS Kützing, 1843. Phycol. gener. p. 235.
+Cyanophyceae, Nostocales, Rivulariaceae
+PLANOSPHAERULA Borzi, 1905. Nuova Notarisia, ser. 16: 20.
+Cyanophyceae, Chroococcales, Merismopediaceae, Gomphosphaerioideae
+= COELASPHAERIUM Nägeli, 1849.
+PLAXONEMA Tangl, 1883. Denkschr. K. Akad. Wiss. Wien, mat.-nat., 48: 1.
+Cyanophyceae, Oscillatoriales, Oscillatoriaceae
+= OSCILLATORIA Vaucher ex Gomont, 1892; (pre-starting-point syn.).
+POLYCOCCUS Kützing, 1841. Naturk. Verh. Holl. Maatch. Wetensch. Haarlem, Taf. Q.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+POLYCYSTIS (Kützing) Kützing, 1849. Spec. Alg., p. 210.
+Cyanophyceae, Chroococcales, Microcystaceae
+= MICROCYSTIS Kützing ex Lemmermann, 1907, nom. cons.
+POLYTHRIX Zanardini ex Bornet et Flahault, 1886. Ann. Sci. Nat.-Bot. 7, 3: 380.
+Cyanophyceae, Nostocales, Rivulariaceae
+= GARDNERULA De-Toni, 1936; (later mononym)
+PORTACUS Kuntze, 1891. Rev. Gener. 2: 911.
+Cyanophyceae, Nostocales, Rivulariaceae
+= GLOEOTRICHIA J. Agardh ex Bornet et Flahault, 1886.
+PSEUDOHOLOPEDIA (Ryppowa) Elenkin, 1935. Monogr. Alg. Cyanoph. URSS 1: 539.
+Cyanophyceae, Chroococcales, Merismopediaceae, Merismopedioideae
+= MICROCROCIS P. Richter, 1892 (incl.).
+PSEUDONOSTOC Elenkin, 1949. Monogr. Alg. Cyanoph. URSS, pars spec. 2: 1225.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= ISOCYSTISBorzi ex Bornet et Flahault, 1888 (incl.).
+PSEUDOSPELAEOPOGON Elenkin, 1949. Monogr. Alg. Cyanoph. URSS, pars spec. 2: 1839.
+Cyanophyceae, Stigonematales, Borzinemataceae
+= SPELAEOPOGON Borzi, 1905 (incl.).
+Back to the top
+R
+RACIBORSKIA Koczwara, 1928. Kosmos 53: 108.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= ROMERIA Koczwara in Geitler, 1932; (later homonym).
+RADAISIELLA Geitler, 1925. Beih. Bot. Centralbl. 2, 41: 242.
+Cyanophyceae, Chroococcaceae, Hydrococcaceae, Hydrococcoideae
+= CYANODERMA Weber van Bosse, 1887 (incl.).
+RHODOCOCCUS Hansgirg in Wittrock et Nordstedt, 1884. Alg. Exsicc. 14: 697.
+Cyanophyceae, Chroococcales, Chroococcaceae
+= CHROOCOCCUS Nägeli, 1849 (?).
+RIVULARIOPSIS (Kirchner) Voronichin, 1923. Bot. Mat. Inst. Spor. Rast. Gl. Bot. Sada Petrohrad 1(8): 115.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886 (subgenus?).
+Back to the top
+S
+SCHIZODICTYON Kützing, 1943. Phycol. gener., p. 230.
+Cyanophyceae, Oscillatoriales, Schizotrichaceae
+= SCHIZOTHRIX Kützing ex Gomont, 1892; (pre-starting-point syn.).
+SCHIZOSIPHON Kützing, 1843. Phycol. gener., p. 233.
+Cyanophyceae, Nostocales, Rivulariaceae
+= CALOTHRIX Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+SCLEROTHRIX Kützing, 1833. Alg. Aq. dulc., Dec. 2. no. 17.
+Cyanophyceae, Nostocales, Microchaetaceae, Tolypotrichoideae
+= TOLYPOTHRIX Kützing ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+SCOPULONEMA Ercegović, 1930. Arch. Protistenk. 71: 365.
+Cyanophyceae, Chroococcales, Hydrococcaceae, Hydrococcoideae
+= PLEUROCAPSA Thuret et Hauck, 1885.
+SETCHELLIELLA De-Toni, 1936. Noter. nom. alg. 8: 6.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMATOPSIS E. Kiseleva, 1930.
+SIPHODERMA Kützing, 1843. Linnaea 17: 220.
+Cyanophyceae, Oscillatoriales, Oscillatoriaceae, Oscillatorioideae
+= LYNGBYA C. Agardh ex Gomont, 1892; (pre-starting-point syn.).
+SIROSIPHON Kützing, 1843. Phycol. gener., p. 219.
+Cyanophyceae, Stigonematales, Stigonemataceae
+= STIGONEMA Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+SKUJAELLA De Toni, 1938. Diagn. Alg. nov. 1, 4: 397.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= TRICHODESMIUM Ehrenberg ex Gomont, 1892, nom. cons.
+SOMMIERELLA Borzi, 1917. N. Giorn. Bot. Ital. 24: 79.
+Cyanophyceae, Stigonematales, Fischerellaceae
+= FISCHERELLA (Bornet et Flahault) Gomont, 1895 (incl.).
+SOROSPORA Hassall, 1845. Hist. Brit. Freshw. Algae 1: 309.
+Cyanophyceae, Chroococcales, Microcystaceae
+= GLOEOCAPSA Kützing, 1843, nom. cons.
+SPERMOSIRA Kützing, 1843. Phycol. gener., p. 213.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NODULARIA Mertens ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+SPHAENOSIPHON Reinsch, 1874/1875. Contr. alg. fung., p. 15.
+Cyanophyceae, Chroococcales, Dermocarpellaceae
+= CYANOCYSTIS Borzi, 1882(?).
+SPHAERODICTYON Geitler, 1925. Beih. Bot. Centralbl. 2, 41: 231.
+Cyanophyceae, Chroococcales, Synechococcaceae, Aphanothecoideae
+= CYANODICTYON Pascher, 1914.
+SPHAEROGONIUM Rostafinski, 1883. R. Akad. Krak. 10: 280.
+Cyanophyceae, Chroococcales, Chamaesiphonaceae
+= CHAMAESIPHON A. Braun, 1864.
+SPHAERONEMA Umezaki, 1961. Mem. Coll. Agric. Kyoto Univ., 83: 31.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= YONEDAELLA Umezaki, 1962; (later homonym).
+SPHAERONOSTOC Elenkin, 1936. Priroda 20(10): 969-970.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886 (incl.).
+SPHAEROSPERMUM Zapomělová, Jezberová, Hrouzek, Hisem, Řeháková et Komárková, 2009. Journal of Phycology 45: 1370
+Nostocophycideae, Nostocales, Nostocaceae
+=SPHAEROSPERMOPSIS (Lemmermmann) Zapomělová, Jezberová, Hrouzek, Hisem, Řeháková et Komárková 2010
+SPHAEROZYGA C. A. Agardh, 1827. Flora 10, 2: 634.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= ANABAENA Bory ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+SPHINCTOSIPHON G. S. West, 1907. Linn. Soc. J.-Bot. 38: 145.
+Cyanophyceae, Chroococcales, Microcystaceae
+= MICROCYSTIS Kützing ex Lemmermann, 1907, nom. cons.; (syn. after orig. fig.).
+SPIRILLOPSIS Naumann, 1921. K. Sv. Vet.-Acad. Handl. 62(4): 18.
+Cyanophyceae, Chroococcales, Synechococcaceae, Synechococcoideae
+= RHABDODERMA Schmidle et Lauterborn, 1900 (incl.).
+SPIRILLUM Hassall, 1845. Brit. Freshw. Alg., p. 279.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= SPIRULINA Turpin ex Gomont, 1892; (pre-starting-point syn.).
+SPIROCOLEUS Möbius, 1889. Hedwigia 28: 312.
+Cyanophyceae, Oscillatoriales, Oscillatoriaceae, Oscillatorioideae
+= LYNGBYA C. Agardh ex Gomont, 1892 or LEPTOLYNGBYA Anagnostidis et Komárek, 1988; (pre-starting-point syn.).
+SPIROCOLEUS Möbius ex Crow, 1927. Trans. Amer. Microsc. Soc. 46(2): 147.
+Cyanophyceae, Oscillatoriales, Oscillatoriaceae, Oscillatorioideae
+= LYNGBYA C. Agardh ex Gomont, 1892; (sensu Crow, non sensu Möbius).
+SPIRULINOPSIS Bharadwaja, 1963. Proc. Ind. Acad. Sci. 57B(4): 248.
+Cyanophyceae, Oscillatoriales, Pseudanabaenaceae
+= ? SPIRULINA Turpin ex Gomont, 1892.
+SPILOCAPSA Ley, 1947. Bot. Bull. Acad. Sinica 1: 77.
+Cyanophyceae, Chroococcales, Merismopediaceae, Gomphosphaerioideae
+= ? CYANOSTYLON Geitler, 1928.
+STRATONOSTOC Elenkin, 1936. Priroda 20(10): 969-970.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886 (incl.).
+SYMPHYOSIPHON Kützing, 1843. Phycol. gener., p. 218.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMA Agardh ex Bornet et Flahault, 1886, p. p.; (pre-starting-point syn.).
+SYMPHYOTHRIX Kützing, 1843. Phycol. gener., p. 200.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= SYMPLOCA Kützing ex Gomont, 1892; (pre-starting-point syn.).
+Back to the top
+T
+THACKERELLA Bharadwaja, 1963. Proc. Ind. Acad. Sci. 57, b4: 254.
+Cyanophyceae, Stigonematales, Stigonemataceae
+= HOMOEOPTYCHE Skuja, 1944.
+THAUMALEOCYSTIS Trevisan, 1848. Alghe Coccot., p. 79.
+Cyanophyceae, Chroococcales, Microcystaceae
+= GLOEOCAPSA Kützing, 1843, nom. cons.
+TILDENIA Kosinskaja, 1926. Not. Syst. Inst. Crypt. Horti Bot. Pr. USSR 4: 85.
+Cyanophyceae, Nostocales, Scytonemataceae
+= SCYTONEMATOPSISE. Kiseleva, 1930; (later homonym).
+TRICHOPHORA Bonnemaison, 1822. J. Phys. 94: 176?.
+Cyanophyceae, Oscillatoriales, Oscillatoriaceae, Oscillatorioideae
+= OSCILLATORIA Vaucher ex Gomont, 1892; (pre-starting-point syn.).
+TRICHORMUS Allmann, 1843. Ann. Nat. Hist. 9: 161.
+Cyanophyceae, Nostocales, Nostocaceae, Anabaenoideae
+= ANABAENA Bory ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+Back to the top
+U
+UNDINA Fries, 1825. Syst. orb. veg. I, Pl. Homon., p. 348.
+Cyanophyceae, Nostocales, Nostocaceae, Nostocoideae
+= NOSTOC Vaucher ex Bornet et Flahault, 1886; (pre-starting-point syn.).
+Back to the top
+V
+VAGINARIA Gray, 1821. Nat. Arr. Brit. Pl. 1: 280.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Microcoleoideae
+= MICROCOLEUS Desmazieres ex Gomont, 1892; (pre-starting-point syn.).
+VANHOEFFENIA Wille, 1928. Dtsch. Südpolar-Exp. 1901-03, 8: 422.
+Cyanophyceae, Chroococcales, Entophysalidaceae
+= CHLOROGLOEA Wille, 1923 (?).
+Back to the top
+X
+XANTHOTRICHUM Wille ex Schütt, 1893. Pflanzenleben Hochsee, p. 39.
+Cyanophyceae, Oscillatoriales, Phormidiaceae, Phormidioideae
+= TRICHODESMIUM Ehrenberg ex Gomont, 1892, nom. cons.
+Back to the top
+Z
+ZONOTRICHIA J. Agardh, 1842. Alg. mar. medit. adriat., p. 9.
+Cyanophyceae, Nostocales, Rivulariaceae
+= RIVULARIA [Roth] Agardh ex Bornet et Flahault, 1886; (pre-starting-point syn.).
