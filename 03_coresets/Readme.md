@@ -41,13 +41,13 @@ Note: A manual review of all genera deemed invalid in UpToDate but valid in LPSN
 
 invalid_genera_coreset.txt:
 
-Removed:
+Removed species categorized as genera:
 
-Diplosphaera colotermitum
+Diplosphaera colotermitum --> added to discrepancies/final/all_species_final.txt
 
-Rhodovastum atsumiense
+Rhodovastum atsumiense --> added to discrepancies/final/all_species_final.txt
 
-Halorussus rarus
+Halorussus rarus --> added to discrepancies/final/all_species_final.txt
 
 Added:
 
@@ -74,3 +74,7 @@ Egicoccaceae
 Gibbsiella papilionis Kim et al. 2013, sp. nov. (Note: Gibbsiella papilionis already in list)
 
 Neisseria weaveri \[later heterotypic synonym\] (Neisseria weaveri already in list)
+
+Changed:
+
+eudochrobactrum lubricantis --> Pseudochrobactrum lubricantis
