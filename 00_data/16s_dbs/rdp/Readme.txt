@@ -7,8 +7,9 @@ The unaligned 16S fasta files for bacteria and archaea were downloaded from:
 https://rdp.cme.msu.edu/download/current_Bacteria_unaligned.fa.gz
 https://rdp.cme.msu.edu/download/current_Archaea_unaligned.fa.gz
 
-The files containing the RDP nomenclature for genus level classifications are found in the nomenclature folder. 
-rdp_genera_ids_names.csv contains both the sequence ids and assigned names
+The files containing the RDP nomenclature for genus level classifications are found in the nomenclature folder:
+
+rdp_genera_ids_names.csv.tar.gz contains both the sequence ids and assigned names **Note: this was compressed due to Github's size recommendation. Should be extracted before using the pipeline
 rdp_genus_names.txt contains only the unique genus names in 
 
 
