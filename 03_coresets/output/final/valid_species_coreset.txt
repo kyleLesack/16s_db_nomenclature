@@ -1,4 +1,3 @@
-"Gibbsiella greigii Brady et al. 2015, sp. nov.
 Abiotrophia adiacens
 Abiotrophia balaenopterae
 Abiotrophia defectiva
@@ -30,6 +29,14 @@ Acetobacter ghanensis
 Acetobacter hansenii
 Acetobacter indonesiensis
 Acetobacter intermedius
+Acetobacterium bakii
+Acetobacterium carbinolicum
+Acetobacterium fimetarium
+Acetobacterium malicum
+Acetobacterium paludosum
+Acetobacterium tundrae
+Acetobacterium wieringae
+Acetobacterium woodii
 Acetobacter lambici
 Acetobacter liquefaciens
 Acetobacter lovaniensis
@@ -39,6 +46,7 @@ Acetobacter musti
 Acetobacter nitrogenifigens
 Acetobacter oboediens
 Acetobacter oeni
+Acetobacteroides hydrogenigenes
 Acetobacter okinawensis
 Acetobacter orientalis
 Acetobacter orleanensis
@@ -54,15 +62,6 @@ Acetobacter syzygii
 Acetobacter thailandicus
 Acetobacter tropicalis
 Acetobacter xylinus
-Acetobacterium bakii
-Acetobacterium carbinolicum
-Acetobacterium fimetarium
-Acetobacterium malicum
-Acetobacterium paludosum
-Acetobacterium tundrae
-Acetobacterium wieringae
-Acetobacterium woodii
-Acetobacteroides hydrogenigenes
 Acetofilamentum rigidum
 Acetogenium kivui
 Acetohalobium arabaticum
@@ -168,7 +167,6 @@ Acidocella aminolytica
 Acidocella aquatica
 Acidocella facilis
 Acidomonas methanolica
-Acidothermales
 Acidothermus cellulolyticus
 Acidovorax anthurii
 Acidovorax avenae
@@ -249,11 +247,11 @@ Acrocarpospora macrocephala
 Acrocarpospora phusangensis
 Acrocarpospora pleiomorpha
 Actibacter haliotis
-Actibacter sediminis
 Actibacterium atlanticum
 Actibacterium mucosum
 Actibacterium pelagium
 Actibacterium ureilyticum
+Actibacter sediminis
 Actinaurispora siamensis
 Actinoallomurus acaciae
 Actinoallomurus acanthiterrae
@@ -687,8 +685,8 @@ Afipia broomeae
 Afipia clevelandensis
 Afipia felis
 Afipia massiliensis
-Agaribacter marinus
 Agaribacterium haliotis
+Agaribacter marinus
 Agaricicola taiwanensis
 Agarilytica rhodophyticola
 Agarivorans aestuarii
@@ -946,7 +944,6 @@ Alkalibacillus haloalkaliphilus
 Alkalibacillus halophilus
 Alkalibacillus salilacus
 Alkalibacillus silvisoli
-Alkalibacter saccharofermentans
 Alkalibacterium gilvum
 Alkalibacterium iburiense
 Alkalibacterium indicireducens
@@ -957,6 +954,7 @@ Alkalibacterium psychrotolerans
 Alkalibacterium putridalgicola
 Alkalibacterium subtropicum
 Alkalibacterium thalassium
+Alkalibacter saccharofermentans
 Alkalibaculum bacchi
 Alkalicoccus halolimnae
 Alkalicoccus saliphilus
@@ -1122,11 +1120,11 @@ Aminobacter aganoensis
 Aminobacter aminovorans
 Aminobacter anthyllidis
 Aminobacter ciceronei
-Aminobacter lissarensis
-Aminobacter niigataensis
 Aminobacterium colombiense
 Aminobacterium mobile
 Aminobacterium thunnarium
+Aminobacter lissarensis
+Aminobacter niigataensis
 Aminomonas paucivorans
 Ammassolinea attenuata
 Ammatoidea normannii
@@ -1256,8 +1254,8 @@ Anaeroarcus burkinensis
 Anaerobacillus alkalidiazotrophicus
 Anaerobacillus alkalilacustris
 Anaerobacillus arseniciselenatis
-Anaerobacter polyendosporus
 Anaerobacterium chartisolvens
+Anaerobacter polyendosporus
 Anaerobaculum hydrogeniformans
 Anaerobaculum mobile
 Anaerobaculum thermoterrenum
@@ -1397,13 +1395,13 @@ Aphanocapsa parietina
 Aphanothece microscopica
 Apibacter adventoris
 Apibacter mensalis
-Aquabacter spiritensis
 Aquabacterium citratiphilum
 Aquabacterium commune
 Aquabacterium fontiphilum
 Aquabacterium limnoticum
 Aquabacterium olei
 Aquabacterium parvum
+Aquabacter spiritensis
 Aquamicrobium aerolatum
 Aquamicrobium aestuarii
 Aquamicrobium ahrensii
@@ -1540,9 +1538,9 @@ Arcobacter thereius
 Arcobacter trophiarum
 Arcobacter venerupis
 Arcticibacter eurypsychrophilus
+Arcticibacterium luteifluviistationis
 Arcticibacter pallidicorallinus
 Arcticibacter svalbardensis
-Arcticibacterium luteifluviistationis
 Arcticiflavibacter luteus
 Ardenticatena maritima
 Arenibacter antarcticus
@@ -4017,8 +4015,8 @@ Corallococcus exiguus
 Corallococcus macrosporus
 Corallomonas stylophorae
 Coriobacterium glomerans
-Corticibacter populi
 Corticibacterium populi
+Corticibacter populi
 Corticicoccus populi
 Corynebacterium accolens
 Corynebacterium afermentans
@@ -4518,9 +4516,6 @@ Desulfobacca acetoxidans
 Desulfobacter curvatus
 Desulfobacter halotolerans
 Desulfobacter hydrogenophilus
-Desulfobacter latus
-Desulfobacter postgatei
-Desulfobacter vibrioformis
 Desulfobacterium anilini
 Desulfobacterium autotrophicum
 Desulfobacterium catecholicum
@@ -4530,6 +4525,9 @@ Desulfobacterium macestii
 Desulfobacterium niacini
 Desulfobacterium phenolicum
 Desulfobacterium vacuolatum
+Desulfobacter latus
+Desulfobacter postgatei
+Desulfobacter vibrioformis
 Desulfobacula phenolica
 Desulfobacula toluolica
 Desulfobaculum xiamenense
@@ -4980,7 +4978,6 @@ Eggerthella lenta
 Eggerthella sinensis
 Eggerthia catenaformis
 Egibacter rhizosphaerae
-Egicoccaceae
 Egicoccus halophilus
 Ehrlichia canis
 Ehrlichia chaffeensis
@@ -5785,8 +5782,8 @@ Frankia saprophytica
 Frateuria aurantia
 Frateuria terrea
 Frederiksenia canicola
-Fretibacter rubidus
 Fretibacterium fastidiosum
+Fretibacter rubidus
 Friedmanniella aerolata
 Friedmanniella antarctica
 Friedmanniella capsulata
@@ -6013,7 +6010,6 @@ Geovibrio thiophilus
 Gibbsiella dentisursi
 Gibbsiella greigii
 Gibbsiella papilionis
-Gibbsiella papilionis Kim et al. 2013, sp. nov.
 Gibbsiella quercinecans
 Gibbsiella" quercinecans
 Giesbergeria anulus
@@ -7512,8 +7508,8 @@ Lachnospira pectinoschiza
 Lachnotalea glycerini
 Lacibacter cauensis
 Lacibacter daechungensis
-Lacibacter nakdongensis
 Lacibacterium aquatile
+Lacibacter nakdongensis
 Lacihabitans lacunae
 Lacihabitans soyangensis
 Lacimicrobium alkaliphilum
@@ -8360,11 +8356,11 @@ Malonomonas rubra
 Mameliella alba
 Mameliella atlantica
 Mameliella phaeodactyli
+Mangrovibacterium diazotrophicum
+Mangrovibacterium marinum
 Mangrovibacter phragmitis
 Mangrovibacter plantisponsor
 Mangrovibacter yixingensis
-Mangrovibacterium diazotrophicum
-Mangrovibacterium marinum
 Mangroviflexus xiamenensis
 Mangrovihabitans endophyticus
 Mangrovimonas yunxiaonensis
@@ -8486,6 +8482,22 @@ Marinobacter guineae
 Marinobacter halophilus
 Marinobacter halotolerans
 Marinobacter hydrocarbonoclasticus
+Marinobacterium aestuarii
+Marinobacterium aestuariivivens
+Marinobacterium coralli
+Marinobacterium georgiense
+Marinobacterium halophilum
+Marinobacterium jannaschii
+Marinobacterium litorale
+Marinobacterium lutimaris
+Marinobacterium mangrovicola
+Marinobacterium maritimum
+Marinobacterium nitratireducens
+Marinobacterium profundum
+Marinobacterium rhizophilum
+Marinobacterium sediminicola
+Marinobacterium stanieri
+Marinobacterium zhoushanense
 Marinobacter koreensis
 Marinobacter lacisalsi
 Marinobacter lipolyticus
@@ -8513,22 +8525,6 @@ Marinobacter vinifirmus
 Marinobacter xestospongiae
 Marinobacter zhanjiangensis
 Marinobacter zhejiangensis
-Marinobacterium aestuarii
-Marinobacterium aestuariivivens
-Marinobacterium coralli
-Marinobacterium georgiense
-Marinobacterium halophilum
-Marinobacterium jannaschii
-Marinobacterium litorale
-Marinobacterium lutimaris
-Marinobacterium mangrovicola
-Marinobacterium maritimum
-Marinobacterium nitratireducens
-Marinobacterium profundum
-Marinobacterium rhizophilum
-Marinobacterium sediminicola
-Marinobacterium stanieri
-Marinobacterium zhoushanense
 Marinococcus albus
 Marinococcus halophilus
 Marinococcus halotolerans
@@ -9005,12 +9001,6 @@ Methylobacillus methanolivorans
 Methylobacillus pratensis
 Methylobacter agilis
 Methylobacter albus
-Methylobacter luteus
-Methylobacter marinus
-Methylobacter pelagicus
-Methylobacter psychrophilus
-Methylobacter tundripaludum
-Methylobacter whittenburyi
 Methylobacterium adhaesivum
 Methylobacterium aerolatum
 Methylobacterium aminovorans
@@ -9064,6 +9054,12 @@ Methylobacterium thuringiense
 Methylobacterium trifolii
 Methylobacterium variabile
 Methylobacterium zatmanii
+Methylobacter luteus
+Methylobacter marinus
+Methylobacter pelagicus
+Methylobacter psychrophilus
+Methylobacter tundripaludum
+Methylobacter whittenburyi
 Methylobrevis pamukkalensis
 Methylocaldum gracile
 Methylocaldum marinum
@@ -9164,7 +9160,6 @@ Methylovulum miyakonense
 Methylovulum psychrotolerans
 Micavibrio admirandus
 Microaerobacter geothermalis
-Microbacter margulisiae
 Microbacterium aerolatum
 Microbacterium agarici
 Microbacterium album
@@ -9275,6 +9270,7 @@ Microbacterium ulmi
 Microbacterium xylanilyticum
 Microbacterium yannicii
 Microbacterium zeae
+Microbacter margulisiae
 Microbaculum marinum
 Microbispora aerata
 Microbispora amethystogenes
@@ -9875,13 +9871,6 @@ Mycolicibacter arupensis
 Mycolicibacter engbaekii
 Mycolicibacter heraklionensis
 Mycolicibacter hiberniae
-Mycolicibacter kumamotonensis
-Mycolicibacter longobardus
-Mycolicibacter minnesotensis
-Mycolicibacter nonchromogenicus
-Mycolicibacter paraterrae
-Mycolicibacter senuensis
-Mycolicibacter terrae
 Mycolicibacterium agri
 Mycolicibacterium aichiense
 Mycolicibacterium alvei
@@ -9968,6 +9957,13 @@ Mycolicibacterium vaccae
 Mycolicibacterium vanbaalenii
 Mycolicibacterium vulneris
 Mycolicibacterium wolinskyi
+Mycolicibacter kumamotonensis
+Mycolicibacter longobardus
+Mycolicibacter minnesotensis
+Mycolicibacter nonchromogenicus
+Mycolicibacter paraterrae
+Mycolicibacter senuensis
+Mycolicibacter terrae
 Mycoplana bullata
 Mycoplana dimorpha
 Mycoplana ramosa
@@ -10239,7 +10235,6 @@ Neisseria sicca
 Neisseria subflava
 Neisseria wadsworthii
 Neisseria weaveri
-Neisseria weaveri [later heterotypic synonym]
 Neisseria zoodegmatis
 Nematoplaca incrustans
 Nemorella caseinilytica
@@ -11265,11 +11260,11 @@ Palikiella hungarica
 Palleronia abyssalis
 Palleronia marisminoris
 Palleronia soli
-Paludibacter jiangxiensis
-Paludibacter propionicigenes
 Paludibacterium paludis
 Paludibacterium purpuratum
 Paludibacterium yongneupense
+Paludibacter jiangxiensis
+Paludibacter propionicigenes
 Paludibaculum fermentans
 Paludicola psychrotolerans
 Paludifilum halophilum
@@ -11820,10 +11815,10 @@ Phaeobacter caeruleus
 Phaeobacter daeponensis
 Phaeobacter gallaeciensis
 Phaeobacter inhibens
+Phaeobacterium nitratireducens
 Phaeobacter leonis
 Phaeobacter piscinae
 Phaeobacter porticola
-Phaeobacterium nitratireducens
 Phaeochromatium fluminis
 Phaeocystidibacter luteus
 Phaeocystidibacter marisrubri
@@ -12144,6 +12139,7 @@ Pontibacter deserti
 Pontibacter diazotrophicus
 Pontibacter humi
 Pontibacter indicus
+Pontibacterium granulatum
 Pontibacter korlensis
 Pontibacter litorisediminis
 Pontibacter locisalis
@@ -12163,7 +12159,6 @@ Pontibacter ummariensis
 Pontibacter virosus
 Pontibacter xinjiangensis
 Pontibacter yuliensis
-Pontibacterium granulatum
 Ponticaulis koreensis
 Ponticoccus lacteus
 Ponticoccus litoralis
@@ -12303,7 +12298,6 @@ Promicromonospora thailandica
 Promicromonospora umidemergens
 Promicromonospora vindobonensis
 Promicromonospora xylanilytica
-Propionibacter pelophilus
 Propionibacterium acidifaciens
 Propionibacterium acidipropionici
 Propionibacterium acnes
@@ -12321,6 +12315,7 @@ Propionibacterium namnetense
 Propionibacterium olivae
 Propionibacterium propionicum
 Propionibacterium thoenii
+Propionibacter pelophilus
 Propionicicella superfundia
 Propioniciclava sinopodophylli
 Propioniciclava tarda
@@ -12483,6 +12478,7 @@ Pseudochelatococcus lubricantis
 Pseudochrobactrum asaccharolyticum
 Pseudochrobactrum glaciei
 Pseudochrobactrum kiredjianiae
+Pseudochrobactrum lubricantis
 Pseudochrobactrum lubricantis
 Pseudochrobactrum saccharolyticum
 Pseudocitrobacter anthropi
@@ -13910,10 +13906,10 @@ Salinibacillus aidingensis
 Salinibacillus kushneri
 Salinibacillus xinjiangensis
 Salinibacter iranicus
-Salinibacter luteus
-Salinibacter ruber
 Salinibacterium amurskyense
 Salinibacterium xinjiangense
+Salinibacter luteus
+Salinibacter ruber
 Salinicoccus albus
 Salinicoccus alkaliphilus
 Salinicoccus amylolyticus
@@ -14734,11 +14730,11 @@ Spirosoma spitsbergense
 Spirosoma swuense
 Spirulina maior
 Spongiibacter borealis
+Spongiibacterium flavum
+Spongiibacterium pacificum
 Spongiibacter marinus
 Spongiibacter taiwanensis
 Spongiibacter tropicus
-Spongiibacterium flavum
-Spongiibacterium pacificum
 Spongiiferula fulva
 Spongiimicrobium salis
 Spongiispira norvegica
@@ -14747,8 +14743,8 @@ Sporacetigenium mesophilum
 Sporanaerobacter acetigenes
 Sporichthya brevicatena
 Sporichthya polymorpha
-Sporobacter termitidis
 Sporobacterium olearium
+Sporobacter termitidis
 Sporocytophaga myxococcoides
 Sporohalobacter lortetii
 Sporohalobacter marismortui
@@ -16305,6 +16301,15 @@ Thermoanaerobacter brockii
 Thermoanaerobacter ethanolicus
 Thermoanaerobacter finnii
 Thermoanaerobacter italicus
+Thermoanaerobacterium aciditolerans
+Thermoanaerobacterium aotearoense
+Thermoanaerobacterium polysaccharolyticum
+Thermoanaerobacterium saccharolyticum
+Thermoanaerobacterium thermosaccharolyticum
+Thermoanaerobacterium thermostercoris
+Thermoanaerobacterium thermosulfurigenes
+Thermoanaerobacterium xylanolyticum
+Thermoanaerobacterium zeae
 Thermoanaerobacter kivui
 Thermoanaerobacter mathranii
 Thermoanaerobacter pentosaceus
@@ -16319,15 +16324,6 @@ Thermoanaerobacter thermohydrosulfuricus
 Thermoanaerobacter uzonensis
 Thermoanaerobacter wiegelii
 Thermoanaerobacter yonseiensis
-Thermoanaerobacterium aciditolerans
-Thermoanaerobacterium aotearoense
-Thermoanaerobacterium polysaccharolyticum
-Thermoanaerobacterium saccharolyticum
-Thermoanaerobacterium thermosaccharolyticum
-Thermoanaerobacterium thermostercoris
-Thermoanaerobacterium thermosulfurigenes
-Thermoanaerobacterium xylanolyticum
-Thermoanaerobacterium zeae
 Thermoanaerobaculum aquaticum
 Thermoanaerobium acetigenum
 Thermoanaerobium brockii
@@ -16559,8 +16555,8 @@ Thiobacillus thiophilus
 Thiobacillus thyasiris
 Thiobacillus versutus
 Thiobacimonas profunda
-Thiobacter subterraneus
 Thiobacterium bovistum
+Thiobacter subterraneus
 Thiocapsa halophila
 Thiocapsa litoralis
 Thiocapsa marina
@@ -16981,6 +16977,7 @@ Vibrio neonatus
 Vibrio neptunius
 Vibrio nereis
 Vibrio nigripulchritudo
+Vibrionimonas magnilacihabitans
 Vibrio oceanisediminis
 Vibrio olivae
 Vibrio ordalii
@@ -17031,7 +17028,6 @@ Vibrio vulnificus
 Vibrio wodanis
 Vibrio xiamenensis
 Vibrio xuii
-Vibrionimonas magnilacihabitans
 Vicinamibacter silvestris
 Vicingus serpentipes
 Victivallis vadensis
@@ -17292,8 +17288,8 @@ Xenotholos huastecanus
 Xiangella phaseoli
 Xuhuaishuia manganoxidans
 Xylanibacillus composti
-Xylanibacter oryzae
 Xylanibacterium ulmi
+Xylanibacter oryzae
 Xylanimicrobium pachnodae
 Xylanimonas cellulosilytica
 Xylella fastidiosa
@@ -17378,4 +17374,3 @@ Zymobacter palmae
 Zymomonas mobilis
 Zymophilus paucivorans
 Zymophilus raffinosivorans
-eudochrobactrum lubricantis

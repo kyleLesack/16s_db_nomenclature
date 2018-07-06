@@ -79,10 +79,11 @@ Bacillus kyonggiensis
 Bacillus manliponensis
 Bacillus marcorestinctum
 Bacillus nematocida
-Bacillus pallidus (illeg.)
+Bacillus pallidus
 Bacillus thermoantarcticus
 Bacillus tianmuensis
 Bacillus timonensis
+Bacteriolyticum stolpii
 Bacteroides tectum
 Bartonella australis
 Bartonella phoceensis
@@ -110,6 +111,7 @@ Brevundimonas olei
 Brucella cetaceae
 Brucella maris
 Brucella pinnipediae
+Bryantella formatexigens
 Burkholderia dabaoshanensis
 Byssophaga cruenta
 Caedibacter macronucleorum
@@ -229,6 +231,7 @@ Flexibacter topostinus
 Flexispira rappini
 Fritschea bemisiae
 Fritschea eriococci
+Frondicola australicus
 Fucophilus fucoidanolyticus
 Fusobacterium plauti
 Gaetbulibacter jejuensis
@@ -238,6 +241,7 @@ Geobacillus zalihae
 Geothermobacterium ferrireducens
 Gilvimarinus agarilyticus
 Gluconobacter morbifer
+Goodfellowia coeruleoviolacea
 Gordona aichiensis
 Gordona amarae
 Gordona bronchialis
@@ -367,8 +371,8 @@ Methanosaeta pelagica
 Methanospirillum hungatii
 Methanothermobacter wolfei
 Methylobacter alcaliphilus
-Methylobacter modestohalophilus
 Methylobacterium funariae
+Methylobacter modestohalophilus
 Methylomonas rubra
 Methylophaga limanica
 Methylophaga natronica
@@ -381,10 +385,12 @@ Microbacterium pyrexiae
 Microbulbifer arenaceous
 Microlunatus cavernae
 Microlunatus terrae
+Micromonas micros
 Micromonospora grisseorubida
 Micromonospora miyakonensis
 Micromonospora neihuensis
 Micromonospora spongicola
+Microsphaera multipartita
 Microtetraspora caesia
 Mitsuokella multiacidus
 Mobilifilum chasei
@@ -484,6 +490,7 @@ Pedobacter xinjiangensis
 Pedobacter yonginense
 Pedobacter zeaxanthinifaciens
 Pelagibacterium nitratireducens
+Pelczaria aurantia
 Pelotomaculum isophthalicum
 Pelotomaculum terephthalicum
 Peptoniphilus grossensis
@@ -493,6 +500,8 @@ Photobacterium atrarenae
 Photobacterium marinum
 Phycicoccus ochangensis
 Piezobacter thermophilus
+Pirella marina
+Pirella staleyi
 Pluraplasma granulum
 Polyangium brachysporum
 Polycyclovorans algicola
@@ -536,12 +545,15 @@ Psychrosinus fermentans
 Pyrococcus abyssi
 Pyrococcus kodakaraensis
 Pyxicoccus fallax
+Quadricoccus australiensis
 Ralstonia mannitolytica
+Reichenbachia agariperforans
 Rhizobium halotolerans
 Rhizobium helanshanense
 Rhizobium kunmingense
 Rhizobium phenanthrenilyticum
 Rhizobium qilianshanense
+Rhizomonas suberifaciens
 Rhodanobacter xiangquanii
 Rhodoplanes cryptolactis
 Rhodopseudomonas boonkerdii
@@ -565,6 +577,7 @@ Salinicoccus salitudinis
 Salinicola zeshunii
 Salipiger mucescens
 Sarraceniospora aurea
+Schineria larvae
 Schleiferella asaccharolytica
 Schleiferella harei
 Schleiferella indolica
@@ -572,6 +585,7 @@ Schleiferella lacrimalis
 Serpulina canis
 Shewanella massilia
 Sideroxydans paludicola
+Sinococcus qinghaiensis
 Sinorhizobium chiapanecum
 Sinorhizobium xinjiangensis
 Sneathia amnii
@@ -697,6 +711,7 @@ Treponema zioleckii
 Tsukamurella paurometabolum
 Tsukamurella strandjordae
 Turneria parva
+Verticia sediminum
 Vibrio cyclotrophicus
 Vibrio neocaledonicus
 Vibrio pommerensis
@@ -713,5 +728,7 @@ Xanthobacter polyaromaticivorans
 Xanthomonas lactamgena
 Xenorhabdus japonicus
 Xenorhabdus nematophilus
+Yania flava
+Yania halotolerans
 Zobellia galactanovorans
 Zooshikella rubidus
