@@ -27,3 +27,6 @@ cut -d ";" -f 2  ./nomenclature/filtered/SILVA_132_genera.filtered.csv | cut -d 
 cut -d ";" -f 3  ./nomenclature/filtered/SILVA_132_species.filtered.csv | cut -d " " -f1,2 | sort -u >  nomenclature/filtered/unique_names/SILVA_132_species.names.txt
 cut -d ";" -f 2  ./nomenclature/filtered/SILVA_132_genera_no_species_annotations.filtered | cut -d " " -f1,2 | sort -u >  nomenclature/filtered/unique_names/SILVA_132_genera_no_species_annotations.names.txt
 
+
+
+
