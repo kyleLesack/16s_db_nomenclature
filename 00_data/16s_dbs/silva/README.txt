@@ -8,10 +8,9 @@ SILVA_132_SSURef_tax_silva.fasta
 
 grep ">" SILVA_132_SSURef_tax_silva.fasta | grep -v "Eukaryota" > SILVA_132_SSURef_prokaryotes
 
-
-cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6,7 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' 'length($3)' > ./nomenclature/SILVA_132_species.csv
-cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' 'length($2)' > ./nomenclature/SILVA_132_genera.csv
-cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6,7 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' '!length($3)' > ./nomenclature/SILVA_132_genera_no_species_annotations.csv
+cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6,7 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' 'NF==3{print}{}' > ./nomenclature/SILVA_132_species.csv
+cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g'   | awk -F';' 'NF==2{print}{}' > ./nomenclature/SILVA_132_genera.csv
+cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6,7 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' 'NF!=3{print}{}'  > ./nomenclature/SILVA_132_genera_no_species_annotations.csv
 
 Note: The preceding extracts the records that are annotated down to the genus level, but do not contain species annotations. However, there appears to be a number of species names in the genus fields.
 
