@@ -28,6 +28,9 @@ all: 01_lpsn 02_uptodate 03_coresets
 	sh 05_validate_taxonomy/prepareUnclassified.sh	
 	sh 05_validate_taxonomy/summarizeResults.sh
 	
+06_binomial_nomenclature: 06_binomial_nomenclature/16s_dbs/gg_genus_species.csv 06_binomial_nomenclature/16s_dbs/silva_filtered_genus_species.csv
+	python ./06_binomial_nomenclature/checkBinomialGG.py  
+	python ./06_binomial_nomenclature/checkBinomialSILVA.py
 
 
 FORCE:
