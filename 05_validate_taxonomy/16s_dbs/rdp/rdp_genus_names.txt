@@ -1,0 +1,1 @@
+/home/skeletor/repos/16s_db_nomenclature/00_data/16s_dbs/rdp/nomenclature/rdp_genus_names.txt
