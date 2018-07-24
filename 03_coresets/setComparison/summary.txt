@@ -1,0 +1,27 @@
+Mon Jul 23 18:45:09 MDT 2018
+Valid genera comparison
+
+Intersection of valid genera in LPSN and Up-to-date: 2839
+Valid genera in LPSN only: 212
+Valid genera in Up-to-date only: 59
+
+
+Invalid genera comparison
+
+Intersection of invalid genera in LPSN and Up-to-date: 0
+Invalid genera in LPSN only: 126
+Invalid genera in Up-to-date only: 30
+
+
+Valid species comparison
+
+Intersection of valid species in LPSN and Up-to-date: 16291
+Valid species in LPSN only: 683
+Valid species in Up-to-date only: 16777
+
+
+Invalid species comparison
+
+Intersection of invalid species in LPSN and Up-to-date: 0
+Invalid species in LPSN only: 675
+Invalid species in Up-to-date only: 205

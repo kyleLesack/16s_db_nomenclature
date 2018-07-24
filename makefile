@@ -19,6 +19,7 @@ all: 01_lpsn 02_uptodate 03_coresets
 03_coresets: ./03_coresets/lpsn/genera_total.txt ./03_coresets/lpsn/species_total.txt  ./03_coresets/lpsn/invalid_genus.txt ./03_coresets/lpsn/invalid_species.txt ./03_coresets/up2date/genera_final.txt ./03_coresets/up2date/species_final.txt  ./03_coresets/up2date/invalid_genera_names.txt ./03_coresets/up2date/invalid_species_names.txt ./03_coresets/cyanodb/invalid_genera.txt ./03_coresets/cyanodb/valid_genera.txt ./03_coresets/cyanodb/valid_species.txt
 	pipenv run python 03_coresets/createCoresets.py	
 	sh 03_coresets/manual_changes.sh
+	sh 03_coresets/compareSets.sh 
 
 04_validate_16s: 03_coresets/output/final/invalid_genera_coreset.txt 03_coresets/output/final/invalid_species_coreset.txt 03_coresets/output/final/valid_genera_coreset.txt 03_coresets/output/final/valid_species_coreset.txt 03_coresets/output/discrepancies/final/all_genera_final.txt 03_coresets/output/discrepancies/final/all_species_final.txt
 	sh 04_validate_16s/validateDBs.sh

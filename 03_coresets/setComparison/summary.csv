@@ -1,0 +1,12 @@
+valid,genera,intersection_lpsn_up2date,2839
+valid,genera,lpsn_only,212
+valid,genera,up2date_only,59
+invalid,genera,intersection_lpsn_up2date,0
+invalid,genera,lpsn_only,126
+invalid,genera,up2date_only,30
+valid,species,intersection_lpsn_up2date,16291
+valid,species,lpsn_only,683
+valid,species,up2date_only,16777
+invalid,species,intersection_lpsn_up2date,0
+invalid,species,lpsn_only,675
+invalid,species,up2date_only,205
