@@ -28,18 +28,18 @@ Diff CyanoDB Genera Valid  - Up2date Genera Valid:   257
 Comparing LPSN Species Valid with Up2date Species Valid
 
 	LPSN Species Valid	Up2date Species Valid
-Size: 		16974			16778
+Size: 		16972			16778
 
-Diff LPSN Species Valid  - Up2date Species Valid:   684
+Diff LPSN Species Valid  - Up2date Species Valid:   683
 Diff Up2date Species Valid  - LPSN Species Valid:   489
 
 
 Comparing LPSN Species Valid with CyanoDB Species Valid
 
 	LPSN Species Valid	CyanoDB Species Valid
-Size: 		16974			267
+Size: 		16972			267
 
-Diff LPSN Species Valid  - CyanoDB Species Valid:   16966
+Diff LPSN Species Valid  - CyanoDB Species Valid:   16965
 Diff CyanoDB Species Valid  - LPSN Species Valid:   260
 
 

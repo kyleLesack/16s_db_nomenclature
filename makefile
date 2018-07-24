@@ -1,6 +1,6 @@
 .PHONY: all clean 
 
-all: 01_lpsn 02_uptodate 03_coresets
+all: 01_lpsn 02_uptodate 03_validation_sets
 
 
 01_lpsn: FORCE
@@ -16,12 +16,12 @@ all: 01_lpsn 02_uptodate 03_coresets
 	sh 02_uptodate/processData.sh
 	sh 02_uptodate/getInvalid.sh
 
-03_coresets: ./03_coresets/lpsn/genera_total.txt ./03_coresets/lpsn/species_total.txt  ./03_coresets/lpsn/invalid_genus.txt ./03_coresets/lpsn/invalid_species.txt ./03_coresets/up2date/genera_final.txt ./03_coresets/up2date/species_final.txt  ./03_coresets/up2date/invalid_genera_names.txt ./03_coresets/up2date/invalid_species_names.txt ./03_coresets/cyanodb/invalid_genera.txt ./03_coresets/cyanodb/valid_genera.txt ./03_coresets/cyanodb/valid_species.txt
-	pipenv run python 03_coresets/createCoresets.py	
-	sh 03_coresets/manual_changes.sh
-	sh 03_coresets/compareSets.sh 
+03_validation_sets: ./03_validation_sets/lpsn/genera_total.txt ./03_validation_sets/lpsn/species_total.txt  ./03_validation_sets/lpsn/invalid_genus.txt ./03_validation_sets/lpsn/invalid_species.txt ./03_validation_sets/up2date/genera_final.txt ./03_validation_sets/up2date/species_final.txt  ./03_validation_sets/up2date/invalid_genera_names.txt ./03_validation_sets/up2date/invalid_species_names.txt ./03_validation_sets/cyanodb/invalid_genera.txt ./03_validation_sets/cyanodb/valid_genera.txt ./03_validation_sets/cyanodb/valid_species.txt
+	pipenv run python 03_validation_sets/createvalidation_sets.py	
+	sh 03_validation_sets/manual_changes.sh
+	sh 03_validation_sets/compareSets.sh 
 
-04_validate_16s: 03_coresets/output/final/invalid_genera_coreset.txt 03_coresets/output/final/invalid_species_coreset.txt 03_coresets/output/final/valid_genera_coreset.txt 03_coresets/output/final/valid_species_coreset.txt 03_coresets/output/discrepancies/final/all_genera_final.txt 03_coresets/output/discrepancies/final/all_species_final.txt
+04_validate_16s: 03_validation_sets/output/final/invalid_genera_validation_set.txt 03_validation_sets/output/final/invalid_species_validation_set.txt 03_validation_sets/output/final/valid_genera_validation_set.txt 03_validation_sets/output/final/valid_species_validation_set.txt 03_validation_sets/output/discrepancies/final/all_genera_final.txt 03_validation_sets/output/discrepancies/final/all_species_final.txt
 	sh 04_validate_16s/validateDBs.sh
 
 05_validate_taxonomy: 05_validate_taxonomy/16s_dbs/gg/taxonomy/gg_13_5_taxonomy.txt 05_validate_taxonomy/16s_dbs/rdp/rdp_taxonomy.txt 05_validate_taxonomy/16s_dbs/silva/silva_taxonomy.txt 05_validate_taxonomy/16s_dbs/gg/validation_results/gg_unclassified_genera.csv 05_validate_taxonomy/16s_dbs/gg/validation_results/gg_unclassified_species.csv 05_validate_taxonomy/16s_dbs/rdp/validation_results/rdp_unclassified_genera.csv 05_validate_taxonomy/16s_dbs/silva/validation_results/silva_unclassified_genera_with_one_term.csv 05_validate_taxonomy/16s_dbs/silva/validation_results/silva_unclassified_genera_with_two_terms.csv
@@ -39,5 +39,5 @@ FORCE:
 clean:
 	-rm 01_lpsn/output/*.html; rm 01_lpsn/output/*.txt; rm 01_lpsn/output/*.csv; rm 01_lpsn/output/final/*
 	-rm 02_uptodate/output/*.txt; rm 02_uptodate/output/*.tsv; rm 02_uptodate/output/final/*.txt
-	-rm 03_coresets/output/*.txt; rm 03_coresets/output/discrepancies/*.txt; rm 03_coresets/output/final/*.txt
+	-rm 03_validation_sets/output/*.txt; rm 03_validation_sets/output/discrepancies/*.txt; rm 03_validation_sets/output/final/*.txt
 

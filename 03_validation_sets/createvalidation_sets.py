@@ -1,24 +1,24 @@
 from datetime import date, datetime
 
 # Paths to LPSN Results
-LPSN_VALID_GENERA = './03_coresets/lpsn/genera_total.txt'
-LPSN_VALID_SPECIES = './03_coresets/lpsn/species_total.txt'
-LPSN_INVALID_GENERA =  './03_coresets/lpsn/invalid_genus.txt'
-LPSN_INVALID_SPECIES = './03_coresets/lpsn/invalid_species.txt'
+LPSN_VALID_GENERA = './03_validation_sets/lpsn/genera_total.txt'
+LPSN_VALID_SPECIES = './03_validation_sets/lpsn/species_total.txt'
+LPSN_INVALID_GENERA =  './03_validation_sets/lpsn/invalid_genus.txt'
+LPSN_INVALID_SPECIES = './03_validation_sets/lpsn/invalid_species.txt'
 
 # Paths to Prokaryote Nomenclature UpToDate Results
-UPTODATE_VALID_GENERA = './03_coresets/up2date/genera_final.txt'
-UPTODATE_VALID_SPECIES = './03_coresets/up2date/species_final.txt'
-UPTODATE_INVALID_GENERA =  './03_coresets/up2date/invalid_genera_names.txt'
-UPTODATE_INVALID_SPECIES = './03_coresets/up2date/invalid_species_names.txt'
+UPTODATE_VALID_GENERA = './03_validation_sets/up2date/genera_final.txt'
+UPTODATE_VALID_SPECIES = './03_validation_sets/up2date/species_final.txt'
+UPTODATE_INVALID_GENERA =  './03_validation_sets/up2date/invalid_genera_names.txt'
+UPTODATE_INVALID_SPECIES = './03_validation_sets/up2date/invalid_species_names.txt'
 
 # Paths to CyanoDB Results
-CYANODB_INVALID_GENERA = './03_coresets/cyanodb/invalid_genera.txt'
-CYANODB_VALID_GENERA = './03_coresets/cyanodb/valid_genera.txt' 
-CYANODB_VALID_SPECIES = './03_coresets/cyanodb/valid_species.txt'
+CYANODB_INVALID_GENERA = './03_validation_sets/cyanodb/invalid_genera.txt'
+CYANODB_VALID_GENERA = './03_validation_sets/cyanodb/valid_genera.txt' 
+CYANODB_VALID_SPECIES = './03_validation_sets/cyanodb/valid_species.txt'
 
 # Output Path
-OUTPATH = './03_coresets/output/'
+OUTPATH = './03_validation_sets/output/'
 
 def writeFile(listfile, filename):
 	my_list = list(listfile)
