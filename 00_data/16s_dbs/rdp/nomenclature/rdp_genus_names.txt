@@ -26,6 +26,7 @@ Acidipila
 Acidiplasma
 Acidisoma
 Acidisphaera
+Aciditerrimonas
 Acidithiobacillus
 Acidobacterium
 Acidocella
@@ -110,6 +111,7 @@ Alkalibacterium
 Alkalibaculum
 Alkaliflexus
 Alkalilimnicola
+Alkalimonas
 Alkaliphilus
 Alkalispirillum
 Alkalitalea
@@ -130,6 +132,7 @@ Alloprevotella
 Allosalinactinospora
 Alloscardovia
 Alpinimonas
+Alsobacter
 Altererythrobacter
 Alteribacillus
 Alterococcus
@@ -147,6 +150,7 @@ Ammonifex
 Ammoniibacillus
 Ammoniphilus
 Amnibacterium
+Amorphus
 Amphibacillus
 Amphiplicatus
 Amphritea
@@ -197,6 +201,7 @@ Anoxynatronum
 Antarcticimonas
 Antarctobacter
 Aquabacter
+Aquabacterium
 Aquamicrobium
 Aquaspirillum
 Aquibacillus
@@ -207,6 +212,7 @@ Aquiflexum
 Aquihabitans
 Aquimarina
 Aquimonas
+Aquincola
 Aquipuribacter
 Aquisalibacillus
 Aquisalimonas
@@ -282,6 +288,7 @@ Barrientosiimonas
 Bartonella
 Basfia
 Basilea
+Bauldia
 Bavariicoccus
 Bdellovibrio
 Beggiatoa
@@ -324,6 +331,7 @@ Bradyrhizobium
 Branchiibius
 Brassicibacter
 Brenneria
+Breoghania
 Brevibacillus
 Brevibacterium
 Brevifollis
@@ -347,6 +355,7 @@ Butyrivibrio
 Byssovorax
 Caenimonas
 Caenispirillum
+Caldalkalibacillus
 Caldanaerobacter
 Caldanaerobius
 Caldanaerovirga
@@ -359,7 +368,9 @@ Caldimicrobium
 Caldimonas
 Caldisericum
 Caldisphaera
+Calditerricola
 Calditerrivibrio
+Caldithrix
 Caldivirga
 Calidifontibacter
 Caloramator
@@ -455,6 +466,7 @@ Cloacibacterium
 Clostridiisalibacter
 Cnuella
 Cobetia
+Cocleimonas
 Coenonia
 Cohaesibacter
 Cohnella
@@ -467,6 +479,7 @@ Compostimonas
 Conchiformibius
 Conexibacter
 Confluentimicrobium
+Congregibacter
 Constrictibacter
 Conyzicola
 Coprobacillus
@@ -511,9 +524,11 @@ Cystobacter
 Cytophaga
 Dactylosporangium
 Daeguia
+Dasania
 Dechloromonas
 Deefgea
 Deferribacter
+Deferrisoma
 Defluviicoccus
 Defluviimonas
 Defluviitalea
@@ -596,6 +611,7 @@ Desulfovibrio
 Desulfovirga
 Desulfovirgula
 Desulfurella
+Desulfuribacillus
 Desulfurispira
 Desulfurispirillum
 Desulfurispora
@@ -620,6 +636,7 @@ Dictyoglomus
 Dietzia
 Dinoroseobacter
 Diplorickettsia
+Dissulfuribacter
 Dokdonella
 Dokdonia
 Dolosicoccus
@@ -645,6 +662,7 @@ Eggerthia
 Ehrlichia
 Eikenella
 Eilatimonas
+Eionea
 Eisenbergiella
 Ekhidna
 Elioraea
@@ -682,6 +700,7 @@ Euzebya
 Euzebyella
 Ewingella
 Exiguobacterium
+Exilispira
 Extensimonas
 Ezakiella
 Fabibacter
@@ -693,6 +712,7 @@ Falsibacillus
 Falsiporphyromonas
 Falsirhodobacter
 Falsochrobactrum
+Fangia
 Fastidiosipila
 Faucicola
 Ferribacterium
@@ -780,6 +800,7 @@ Gaiella
 Galbibacter
 Galbitalea
 Galenea
+Gallaecimonas
 Gallibacterium
 Gallicola
 Gallionella
@@ -790,6 +811,7 @@ Garicola
 Gelidibacter
 Gelria
 Gemella
+Geminicoccus
 Gemmata
 Gemmatimonas
 Gemmiger
@@ -816,6 +838,7 @@ Giesbergeria
 Gilliamella
 Gillisia
 Gilvibacter
+Gilvimarinus
 Gimesia
 Glaciecola
 Glaciibacter
@@ -882,6 +905,7 @@ Gryllotalpicola
 Guggenheimella
 Gulbenkiania
 Gulosibacter
+Gynuella
 Haematobacter
 Haemophilus
 Hafnia
@@ -897,6 +921,7 @@ Halarchaeum
 Halarsenatibacter
 Haliangium
 Haliea
+Halioglobus
 Haliscomenobacter
 Haloactinobacterium
 Haloactinopolyspora
@@ -956,6 +981,7 @@ Halovivax
 Hamadaea
 Hansschlegelia
 Hanstruepera
+Hartmannibacter
 Hasllibacter
 Hathewaya
 Hazenella
@@ -999,6 +1025,7 @@ Hwanghaeicola
 Hyalangium
 Hydrobacter
 Hydrocarboniphaga
+Hydrogenibacillus
 Hydrogenimonas
 Hydrogenispora
 Hydrogenivirga
@@ -1017,6 +1044,7 @@ Hyphomonas
 Hyunsoonleella
 Iamia
 Ichthyenterobacterium
+Ideonella
 Idiomarina
 Ignatzschineria
 Ignavibacterium
@@ -1029,6 +1057,7 @@ Ilyobacter
 Imperialibacter
 Imtechella
 Indibacter
+Inhella
 Inquilinus
 Insolitispirillum
 Intestinibacter
@@ -1145,6 +1174,7 @@ Leptolinea
 Leptonema
 Leptospira
 Leptospirillum
+Leptothrix
 Leptotrichia
 Leucobacter
 Leuconostoc
@@ -1169,6 +1199,7 @@ Litorilinea
 Litorimicrobium
 Litorimonas
 Litorisediminicola
+Litorivivens
 Loktanella
 Lonepinella
 Longilinea
@@ -1181,6 +1212,7 @@ Lunatimonas
 Lutaonella
 Luteibacter
 Luteibaculum
+Luteimicrobium
 Luteimonas
 Luteipulveratus
 Luteivirga
@@ -1215,9 +1247,12 @@ Maribacter
 Maribius
 Maricaulis
 Marichromatium
+Maricurvus
 Marihabitans
 Marinactinospora
 Marinicauda
+Marinicella
+Marinifilum
 Mariniflexile
 Marinilabilia
 Marinilactibacillus
@@ -1273,6 +1308,7 @@ Metallosphaera
 Methanimicrococcus
 Methanobacterium
 Methanobrevibacter
+Methanocalculus
 Methanocaldococcus
 Methanocella
 Methanococcoides
@@ -1304,9 +1340,11 @@ Methanothrix
 Methanotorris
 Methermicoccus
 Methylarcula
+Methylibium
 Methylobacillus
 Methylobacter
 Methylobacterium
+Methylobrevis
 Methylocaldum
 Methylocapsa
 Methyloceanibacter
@@ -1316,11 +1354,13 @@ Methylocystis
 Methyloferula
 Methylogaea
 Methylohalobius
+Methylohalomonas
 Methyloligella
 Methylomarinovum
 Methylomarinum
 Methylomicrobium
 Methylomonas
+Methylonatrum
 Methyloparacoccus
 Methylophaga
 Methylophilus
@@ -1338,6 +1378,7 @@ Methyloversatilis
 Methylovirgula
 Methylovorus
 Methylovulum
+Microaerobacter
 Microbacter
 Microbacterium
 Microbispora
@@ -1355,6 +1396,7 @@ Microvirgula
 Millisia
 Minicystis
 Miniimonas
+Mitsuaria
 Mitsuokella
 Mizugakiibacter
 Mobilicoccus
@@ -1422,6 +1464,7 @@ Nautella
 Nautilia
 Necropsobacter
 Negativicoccus
+Neiella
 Neisseria
 Neoasaia
 Neochlamydia
@@ -1573,6 +1616,7 @@ Parvimonas
 Parvularcula
 Pasteurella
 Patulibacter
+Paucibacter
 Paucimonas
 Paucisalibacillus
 Pectinatus
@@ -1617,10 +1661,12 @@ Phascolarctobacterium
 Phaselicystis
 Phaseolibacter
 Phenylobacterium
+Phocaeicola
 Phocoenobacter
 Phorcysia
 Photobacterium
 Photorhabdus
+Phreatobacter
 Phycicoccus
 Phycicola
 Phycisphaera
@@ -1636,6 +1682,7 @@ Pirellula
 Piscibacillus
 Piscicoccus
 Pisciglobus
+Piscinibacter
 Piscirickettsia
 Planctomicrobium
 Planctopirus
@@ -1650,6 +1697,8 @@ Planosporangium
 Planotetraspora
 Plantactinospora
 Plantibacter
+Plasticicumulans
+Pleionea
 Pleomorphobacterium
 Pleomorphomonas
 Plesiocystis
@@ -1671,6 +1720,7 @@ Pontimonas
 Porphyrobacter
 Porphyromonas
 Portibacter
+Porticoccus
 Poseidonocella
 Postechiella
 Povalibacter
@@ -1695,6 +1745,7 @@ Propionivibrio
 Prosthecobacter
 Prosthecochloris
 Prosthecomicrobium
+Proteiniborus
 Proteiniclasticum
 Proteiniphilum
 Proteinivorax
@@ -1720,9 +1771,12 @@ Pseudoflavonifractor
 Pseudofulvibacter
 Pseudofulvimonas
 Pseudogulbenkiania
+Pseudohaliea
 Pseudohalocynthiibacter
+Pseudohongiella
 Pseudokineococcus
 Pseudolabrys
+Pseudomaricurvus
 Pseudomonas
 Pseudonocardia
 Pseudooctadecabacter
@@ -1737,6 +1791,7 @@ Pseudoscardovia
 Pseudosphingobacterium
 Pseudospirillum
 Pseudosporangium
+Pseudoteredinibacter
 Pseudothermotoga
 Pseudovibrio
 Pseudoxanthobacter
@@ -1745,6 +1800,7 @@ Pseudozobellia
 Psychrilyobacter
 Psychrobacillus
 Psychrobacter
+Psychrobium
 Psychroflexus
 Psychroglaciecola
 Psychromonas
@@ -1783,6 +1839,7 @@ Rheinheimera
 Rhizobacter
 Rhizobium
 Rhizocola
+Rhizomicrobium
 Rhizorhabdus
 Rhizorhapis
 Rhodanobacter
@@ -1814,6 +1871,7 @@ Rhodovulum
 Rickettsia
 Riemerella
 Rikenella
+Rivibacter
 Rivicola
 Robertkochia
 Robiginitalea
@@ -1852,6 +1910,7 @@ Rubrimonas
 Rubritalea
 Rubritepida
 Rubrivirga
+Rubrivivax
 Rubrobacter
 Rudaea
 Rudaeicoccus
@@ -1881,6 +1940,7 @@ Sagittula
 Salana
 Salarchaeum
 Salegentibacter
+Salicola
 Salimesophilobacter
 Salimicrobium
 Salinactinospora
@@ -1925,6 +1985,7 @@ Schwartzia
 Sciscionella
 Sebaldella
 Sedimentibacter
+Sedimenticola
 Sedimentitalea
 Sediminibacillus
 Sediminibacter
@@ -1960,6 +2021,7 @@ Siccibacter
 Sideroxydans
 Silanimonas
 Silvimonas
+Simiduia
 Simkania
 Simonsiella
 Simplicispira
@@ -1969,6 +2031,7 @@ Sinobaca
 Sinobacterium
 Sinomicrobium
 Sinomonas
+Sinosporangium
 Siphonobacter
 Skermanella
 Skermania
@@ -1992,6 +2055,7 @@ Spelaeicoccus
 Sphaerisporangium
 Sphaerobacter
 Sphaerochaeta
+Sphaerotilus
 Sphingobacterium
 Sphingobium
 Sphingomicrobium
@@ -2007,6 +2071,7 @@ Spirillum
 Spirochaeta
 Spiroplasma
 Spirosoma
+Spongiibacter
 Spongiibacterium
 Spongiimonas
 Spongiispira
@@ -2114,9 +2179,11 @@ Tepidibacillus
 Tepidibacter
 Tepidicella
 Tepidimicrobium
+Tepidimonas
 Tepidiphilus
 Tepidisphaera
 Terasakiella
+Teredinibacter
 Terrabacter
 Terracoccus
 Terribacillus
@@ -2173,6 +2240,7 @@ Thermoflavimicrobium
 Thermoflexus
 Thermogemmatispora
 Thermogutta
+Thermogymnomonas
 Thermohalobacter
 Thermohydrogenium
 Thermoleophilum
@@ -2193,6 +2261,7 @@ Thermosinus
 Thermosipho
 Thermosphaera
 Thermosporothrix
+Thermosulfidibacter
 Thermosulfurimonas
 Thermosyntropha
 Thermotalea
@@ -2212,6 +2281,7 @@ Thioalkalivibrio
 Thiobaca
 Thiobacillus
 Thiobacimonas
+Thiobacter
 Thiocapsa
 Thioclava
 Thiococcus
@@ -2224,9 +2294,12 @@ Thiohalobacter
 Thiohalocapsa
 Thiohalomonas
 Thiohalophilus
+Thiohalorhabdus
 Thiohalospira
 Thiolamprovum
+Thiolapillus
 Thiomicrospira
+Thiomonas
 Thiophaeococcus
 Thioprofundum
 Thiopseudomonas
@@ -2242,6 +2315,7 @@ Tissierella
 Tistlia
 Tistrella
 Tolumonas
+Tomitella
 Tonsilliphilus
 Trabulsiella
 Tranquillimonas
@@ -2260,6 +2334,7 @@ Turicibacter
 Turneriella
 Uliginosibacterium
 Ulvibacter
+Umboniibacter
 Umezawaea
 Undibacterium
 Ureaplasma
@@ -2270,7 +2345,9 @@ Vagococcus
 Vallitalea
 Vampirovibrio
 Varibaculum
+Variibacter
 Variovorax
+Vasilyevaea
 Veillonella
 Venenivibrio
 Verminephrobacter
@@ -2317,6 +2394,7 @@ Xylanibacterium
 Xylanimicrobium
 Xylanimonas
 Xylella
+Xylophilus
 Yangia
 Yaniella
 Yeosuana
@@ -2331,6 +2409,7 @@ Zavarzinella
 Zeaxanthinibacter
 Zhihengliuella
 Zhizhongheella
+Zhongshania
 Zhouia
 Zimmermannella
 Zobellella

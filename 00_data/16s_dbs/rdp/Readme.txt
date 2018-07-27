@@ -25,17 +25,14 @@ grep ">" current_Archaea_unaligned.fa > ./current_Archaea.header
 
 The IDs, descriptors, and names for sequences with genus level classifications were extracted using:
 
-python getGeneraBacteria.py > current_Bacteria_genera_descriptions.txt 
-python getGeneraArchaea.py > current_Archaea_genera_descriptions.txt 
+python getGenera.py 
 
-These files contain the sequence descriptors which may contain organism names that could lead to false positives. These were removed as follows:
+The output files contain the sequence descriptors which may contain organism names that could lead to false positives. These were removed as follows:
 
-awk -F'[ |;]' '{print $1 "," $NF }' current_Bacteria_genera_descriptions.txt > current_Bacteria_genera_ids.csv
-awk -F'[ |;]' '{print $1 "," $NF }' current_Archaea_genera_descriptions.txt > current_Archaea_genera_ids.csv
+awk -F'[ |;]' '{print $1 "," $NF }' rdp_genera_descriptions.csv > rdp_genera_ids_names.csv
+awk -F'[ |;]' '{print $1 "," $NF }' rdp_genera_candidatus_descriptions.csv > rdp_candidatus_genera_ids_names.csv
+awk -F'[ |;]' '{print $1 "," $NF }' rdp_genera_incertae_sedis_descriptions.csv > rdp_incertae_genera_ids_names.csv
 
-Archaea and bacteria were combined using: 
-
-cat current_Archaea_genera_ids.csv current_Bacteria_genera_ids.csv | sort > rdp_genera_ids_names.csv
 
 Unique names were extracted using:
 
