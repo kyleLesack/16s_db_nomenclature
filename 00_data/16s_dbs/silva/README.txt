@@ -17,9 +17,24 @@ Note: The preceding extracts the records that are annotated down to the genus le
 
 There are are number of annotations that are obviosly not a taxon name (eg enrichment culture clone, metagenome). A number of these were included in the taxon_filter file, and were used to filter out these records:
 
-grep -v -Ff ./taxon_filters ./nomenclature/SILVA_132_genera.csv | grep -vw "bacterium" | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera.filtered.csv
-grep -v -Ff ./taxon_filters ./nomenclature/SILVA_132_species.csv | grep -vw "bacterium" | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_species.filtered.csv
-grep -v -Ff ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -vw "bacterium" | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera_no_species_annotations.filtered
+grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv  | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera.filtered.csv
+grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_species.csv | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_species.filtered.csv
+grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera_no_species_annotations.filtered
+
+
+
+Obtain counts of records filtered out due to being candidatus or metadata
+
+
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv | grep -i "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_candidatus.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_species.csv | grep -i "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_species_candidatus.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -i "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_no_species_annotations_candidatus.csv
+
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv | grep -vi "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_metadata.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_species.csv | grep -vi "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_species_metadata.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -vi "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_no_species_annotations_metadata.csv
+
+
 
 The filtered files were used to extract unique names:
 
