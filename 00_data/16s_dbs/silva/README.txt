@@ -3,12 +3,10 @@
 The nomenclature annotations were extracted from the SILVA (v. 132) SSURef database available at https://www.arb-silva.de/fileadmin/silva_databases/current/Exports/SILVA_132_SSURef_tax_silva.fasta.gz
 
 
-SILVA_132_SSURef_tax_silva.fasta
-
-
 grep ">" SILVA_132_SSURef_tax_silva.fasta | grep -v "Eukaryota" > SILVA_132_SSURef_prokaryotes
 
-cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6,7 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' 'NF==3{print}{}' > ./nomenclature/SILVA_132_species.csv
+cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6,7 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' 'NF==3{print}{}' > ./nomenclature/SILVA_132_genus_species.csv
+cat ./nomenclature/SILVA_132_genus_species.csv | cut -d ";" -f1,3  > ./nomenclature/SILVA_132_species.csv
 cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g'   | awk -F';' 'NF==2{print}{}' > ./nomenclature/SILVA_132_genera.csv
 cat SILVA_132_SSURef_prokaryotes | cut -d ";" -f1,6,7 | grep ";" | cut -d ">" -f2 | sed  's/ Bacteria;/;/g' | sed  's/ Archaea;/;/g' | awk -F';' 'NF!=3{print}{}'  > ./nomenclature/SILVA_132_genera_no_species_annotations.csv
 
@@ -20,7 +18,6 @@ There are are number of annotations that are obviosly not a taxon name (eg enric
 grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv  | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera.filtered.csv
 grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_species.csv | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_species.filtered.csv
 grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera_no_species_annotations.filtered
-
 
 
 Obtain counts of records filtered out due to being candidatus or metadata
