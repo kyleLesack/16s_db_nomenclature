@@ -15,9 +15,9 @@ Note: The preceding extracts the records that are annotated down to the genus le
 There are are number of annotations that are obviosly not a taxon name (eg enrichment culture clone, metagenome). A number of these were included in the taxon_filter file, and were used to filter out these records:
 
 grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv  | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera.filtered.csv
-grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genus_species.csv | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_species.filtered.csv
+grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genus_species.csv | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genus_species.filtered.csv
 grep -v -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | tr -d "[" | tr -d "]" > ./nomenclature/filtered/SILVA_132_genera_no_species_annotations.filtered
-
+cat ./nomenclature/filtered/SILVA_132_genus_species.filtered.csv | cut -d ";" -f 1,3 > ./nomenclature/filtered/SILVA_132_species.filtered.csv 
 
 Obtain counts of records filtered out due to being candidatus or metadata
 
@@ -35,7 +35,7 @@ grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations
 The filtered files were used to extract unique names:
 
 cut -d ";" -f 2  ./nomenclature/filtered/SILVA_132_genera.filtered.csv | cut -d " " -f1 | sort -u >  nomenclature/filtered/unique_names/SILVA_132_genera.names.txt
-cut -d ";" -f 3  ./nomenclature/filtered/SILVA_132_species.filtered.csv | cut -d " " -f1,2 | sort -u >  nomenclature/filtered/unique_names/SILVA_132_species.names.txt
+cut -d ";" -f 2  ./nomenclature/filtered/SILVA_132_species.filtered.csv | cut -d " " -f1,2 | sort -u >  nomenclature/filtered/unique_names/SILVA_132_species.names.txt
 cut -d ";" -f 2  ./nomenclature/filtered/SILVA_132_genera_no_species_annotations.filtered | cut -d " " -f1,2 | sort -u >  nomenclature/filtered/unique_names/SILVA_132_genera_no_species_annotations.names.txt
 
 
