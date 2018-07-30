@@ -79,7 +79,6 @@ Bacillus kyonggiensis
 Bacillus manliponensis
 Bacillus marcorestinctum
 Bacillus nematocida
-Bacillus pallidus
 Bacillus thermoantarcticus
 Bacillus tianmuensis
 Bacillus timonensis
@@ -369,7 +368,6 @@ Methanolobus psychrophilus
 Methanomicrococcus blatticola
 Methanosaeta pelagica
 Methanospirillum hungatii
-Methanothermobacter wolfei
 Methylobacter alcaliphilus
 Methylobacterium funariae
 Methylobacter modestohalophilus
@@ -505,7 +503,6 @@ Pirella staleyi
 Pluraplasma granulum
 Polyangium brachysporum
 Polycyclovorans algicola
-Polymorphum
 Polymorphum gilvum
 Pontibacter rhizosphera
 Pontibacter salisaro
@@ -568,7 +565,6 @@ Roseomonas baikalica
 Roseospira thiosulfatophila
 Rubidimonas crustatorum
 Rubrimonas shengliensis
-Ruegeria gelatinovora
 Saccharopolyspora endophytica
 Saccharopolyspora pathumthaniensis
 Saccharothrix yanglingensis
@@ -590,7 +586,6 @@ Sinorhizobium chiapanecum
 Sinorhizobium xinjiangensis
 Sneathia amnii
 Sphingobacterium antarcticus
-Sphingobacterium composti.
 Sphingomonas elodea
 Sphingomonas ginsenosidivorax
 Sphingomonas humi

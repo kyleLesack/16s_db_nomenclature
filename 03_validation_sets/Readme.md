@@ -55,11 +55,20 @@ Halorussus
 
 invalid_species_coreset.txt:
 
-Removed: Polymorphum
+Removed: 
+
+Polymorphum
+
+Bacillus pallidus (on valid and invalid lists due to homonym-- a later strain was assigned a previously used name; name is valid for earlier named strain)
+
+Ruegeria gelatinovora
+
+Sphingobacterium composti (on valid and invalid lists due to homonym-- a later strain was assigned a previously used name; name is valid for earlier named strain)
 
 Changed: 
 
 Bacillus pallidus (illeg.) --> Bacillus pallidus
+
 
 valid_species_coreset.txt:
 
@@ -73,8 +82,13 @@ Egicoccaceae
 
 Gibbsiella papilionis Kim et al. 2013, sp. nov. (Note: Gibbsiella papilionis already in list)
 
+Methanothermobacter wolfei (wolfei was corrected to wolfeii, but LPSN states that wolfei is right)
+
 Neisseria weaveri \[later heterotypic synonym\] (Neisseria weaveri already in list)
 
 Changed:
 
 eudochrobactrum lubricantis --> Pseudochrobactrum lubricantis
+
+Natrialba aegyptia --> Natrialba aegyptiaca (aegyptiaca incorrectly deemed orthographically incorrect, Natrialba aegyptiaca recommended spelling)
+
