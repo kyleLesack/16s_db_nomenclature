@@ -26,9 +26,14 @@ grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv | grep -i "candida
 grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genus_species.csv | grep -i "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_species_candidatus.csv
 grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -i "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_no_species_annotations_candidatus.csv
 
-grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv | grep -vi "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_metadata.csv
-grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genus_species.csv | grep -vi "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_species_metadata.csv
-grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -vi "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_no_species_annotations_metadata.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv | grep -Fwi "sp." | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_inexact_species.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genus_species.csv | grep -Fwi "sp." | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_species_inexact_species.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -Fwi "sp." | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_no_species_annotations_inexact_species.csv
+
+
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera.csv | grep -vi "candidatus" | grep -Fwi "sp." |  tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_metadata.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genus_species.csv | grep -vi "candidatus" | grep -Fwi "sp." | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_species_metadata.csv
+grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -vi "candidatus" | grep -Fwi "sp." | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_no_species_annotations_metadata.csv
 
 
 The filtered files were used to extract unique names:
