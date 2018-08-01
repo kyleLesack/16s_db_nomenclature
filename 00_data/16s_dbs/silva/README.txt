@@ -31,7 +31,6 @@ grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genus_species.csv | grep -vi 
 grep -wFf ./taxon_filters ./nomenclature/SILVA_132_genera_no_species_annotations.csv | grep -vi "candidatus" | tr -d "[" | tr -d "]" > ./nomenclature/filtered_out/SILVA_132_genera_no_species_annotations_metadata.csv
 
 
-
 The filtered files were used to extract unique names:
 
 cut -d ";" -f 2  ./nomenclature/filtered/SILVA_132_genera.filtered.csv | cut -d " " -f1 | sort -u >  nomenclature/filtered/unique_names/SILVA_132_genera.names.txt
