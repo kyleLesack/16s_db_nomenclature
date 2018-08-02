@@ -24,6 +24,7 @@ all: 01_lpsn 02_uptodate 03_validation_sets
 04_validate_16s: 03_validation_sets/output/final/invalid_genera_validation_set.txt 03_validation_sets/output/final/invalid_species_validation_set.txt 03_validation_sets/output/final/valid_genera_validation_set.txt 03_validation_sets/output/final/valid_species_validation_set.txt 03_validation_sets/output/discrepancies/final/all_genera_final.txt 03_validation_sets/output/discrepancies/final/all_species_final.txt
 	sh 04_validate_16s/validateDBs.sh
 	sh 04_validate_16s/summarizeResults.sh
+	sh 04_validate_16s/getUniq.sh
 
 05_validate_taxonomy: 05_validate_taxonomy/16s_dbs/gg/taxonomy/gg_13_5_taxonomy.txt 05_validate_taxonomy/16s_dbs/rdp/rdp_taxonomy.txt 05_validate_taxonomy/16s_dbs/silva/silva_taxonomy.txt 05_validate_taxonomy/16s_dbs/gg/validation_results/gg_unclassified_genera.csv 05_validate_taxonomy/16s_dbs/gg/validation_results/gg_unclassified_species.csv 05_validate_taxonomy/16s_dbs/rdp/validation_results/rdp_unclassified_genera.csv 05_validate_taxonomy/16s_dbs/silva/validation_results/silva_unclassified_genera_with_one_term.csv 05_validate_taxonomy/16s_dbs/silva/validation_results/silva_unclassified_genera_with_two_terms.csv
 	sh 05_validate_taxonomy/checkOrganelles.sh
