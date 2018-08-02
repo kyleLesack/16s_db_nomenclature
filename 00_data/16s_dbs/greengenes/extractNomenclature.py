@@ -7,7 +7,8 @@ genus_species = []
 species = []
 candidatus_genera = []
 candidatus_species = []
-endosymbiont_species = []
+metadata_species = []
+
 
 with open(myfile, 'r', encoding='utf-8') as infile:
 	for line in infile:
@@ -40,13 +41,13 @@ with open(myfile, 'r', encoding='utf-8') as infile:
 			id_species = id_num + "," + genus_name + " " + species_name # add id, genus rank rank, and species name to string
 			id_genus_species = id_num + "," + genus_name + "," + genus_name + " " + species_name # add id, species name to string			
 
-			if "Candidatus" not in genus_name and  "endosymbiont" not in species_name:
+			if "Candidatus" not in genus_name and "endosymbiont" not in species_name and "genosp." not in species_name and "genomosp." not in species_name:
 				genus_species.append(id_genus_species)
 				species.append(id_species)								
-			elif "Candidatus" in genus_name and  "endosymbiont" not in species_name:
+			elif "Candidatus" in genus_name and  "endosymbiont" not in species_name and "genosp." not in species_name and "genomosp." not in species_name:
 				candidatus_species.append(id_genus_species)
 			else: 
-				endosymbiont_species.append(id_genus_species)			
+				metadata_species.append(id_genus_species)			
 			
 
 
@@ -65,6 +66,6 @@ with open('./nomenclature/genus_species.csv', 'w', encoding='utf-8') as outfile:
 with open('./nomenclature/candidatus_species.csv', 'w', encoding='utf-8') as outfile:
 	outfile.write("\n".join(candidatus_species))
 
-with open('./nomenclature/endosymbiont_species.csv', 'w', encoding='utf-8') as outfile:
-	outfile.write("\n".join(endosymbiont_species))
+with open('./nomenclature/metadata_species.csv', 'w', encoding='utf-8') as outfile:
+	outfile.write("\n".join(metadata_species))
 

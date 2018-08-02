@@ -105,7 +105,6 @@ Blastomonas natatoria
 Blautia obeum
 Blautia producta
 Borrelia burgdorferi
-Bosea genosp.
 Brachybacterium conglomeratum
 Bradyrhizobium elkanii
 Brenneria quercina
@@ -237,7 +236,6 @@ Flavobacterium gelidilacus
 Flavobacterium succinicans
 Flexispira rappini
 Flexithrix dorotheae
-Gallibacterium genomosp.
 Gallibacterium melopsittaci
 Gemmata obscuriglobus
 Geobacillus thermodenitrificans
