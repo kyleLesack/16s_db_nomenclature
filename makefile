@@ -29,7 +29,7 @@ all: 01_lpsn 02_uptodate 03_validation_sets
 05_validate_taxonomy: 05_validate_taxonomy/16s_dbs/gg/taxonomy/gg_13_5_taxonomy.txt 05_validate_taxonomy/16s_dbs/rdp/rdp_taxonomy.txt 05_validate_taxonomy/16s_dbs/silva/silva_taxonomy.txt 05_validate_taxonomy/16s_dbs/gg/validation_results/gg_unclassified_genera.csv 05_validate_taxonomy/16s_dbs/gg/validation_results/gg_unclassified_species.csv 05_validate_taxonomy/16s_dbs/rdp/validation_results/rdp_unclassified_genera.csv 05_validate_taxonomy/16s_dbs/silva/validation_results/silva_unclassified_genera_with_one_term.csv 05_validate_taxonomy/16s_dbs/silva/validation_results/silva_unclassified_genera_with_two_terms.csv
 	sh 05_validate_taxonomy/checkOrganelles.sh
 	sh 05_validate_taxonomy/prepareUnclassified.sh	
-	sh 05_validate_taxonomy/summarizeResults.sh
+	sh 05_validate_taxonomy/processTaxize.sh
 	
 06_binomial_nomenclature: 06_binomial_nomenclature/16s_dbs/gg_genus_species.csv 06_binomial_nomenclature/16s_dbs/silva_filtered_genus_species.csv
 	python ./06_binomial_nomenclature/checkBinomialGG.py  
