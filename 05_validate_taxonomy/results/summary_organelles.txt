@@ -1,0 +1,14 @@
+Wed Aug  1 20:52:51 MDT 2018
+
+Mitochondria and chloroplasts categorized as bacteria or archaea
+
+Chloroplasts found in Greengenes: 5924
+Mitochondria found in Greengenes: 496
+
+Chloroplasts found in RDP: 71940
+
+Chloroplasts found in SILVA: 19102
+Mitochondria found in SILVA: 2265
+
+
+Taxize charactization of unclassified names by superkingdom

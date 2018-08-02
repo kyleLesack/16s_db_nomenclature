@@ -1,3 +1,2 @@
 "","db","query","superkingdom"
-"36","ncbi","E6","Viruses"
-"90","ncbi","S1","Eukaryota"
+"41","ncbi","E6","Viruses"

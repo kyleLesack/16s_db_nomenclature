@@ -1,0 +1,717 @@
+JU096316.1.1252;Sclerotinia homoeocarpa
+JU096326.2.1246;Sclerotinia homoeocarpa
+AY312990.1456.2956;Alvinella pompejana epibiont 6C6
+AY312991.1.1495;Alvinella pompejana epibiont 7G3
+AB252057.1.1463;Brassica napus (rape)
+EU399919.1.1446;Rhizopus oryzae
+HP415970.30.1557;Acyrthosiphon pisum (pea aphid)
+HP459623.155.1615;Apis mellifera (honey bee)
+HP459620.155.1616;Apis mellifera (honey bee)
+HP459622.147.1556;Apis mellifera (honey bee)
+HP459621.147.1556;Apis mellifera (honey bee)
+HP566356.1.1493;Apis mellifera (honey bee)
+HP566355.129.1625;Apis mellifera (honey bee)
+JO160100.399.1904;Chaetosphaeridium globosum
+JO171658.113.1331;Chaetosphaeridium globosum
+JO162136.384.1882;Chaetosphaeridium globosum
+JO181395.2.1252;Chaetosphaeridium globosum
+JI416912.5.1348;Lytechinus variegatus (green sea urchin)
+KC790282.1.1427;Eutrema japonicum
+JI416911.5.1327;Lytechinus variegatus (green sea urchin)
+JI416916.1.1345;Lytechinus variegatus (green sea urchin)
+JI416920.5.1299;Lytechinus variegatus (green sea urchin)
+JI416913.5.1368;Lytechinus variegatus (green sea urchin)
+JI416917.5.1369;Lytechinus variegatus (green sea urchin)
+JI416915.1.1324;Lytechinus variegatus (green sea urchin)
+JI416919.1.1296;Lytechinus variegatus (green sea urchin)
+GQ913433.1.1403;Hymenopellis incognita
+CU179746.118974.120420;Danio rerio (zebrafish)
+JW174337.1.1377;Gadus morhua (Atlantic cod)
+JW175724.1.1208;Gadus morhua (Atlantic cod)
+JW174336.1.1363;Gadus morhua (Atlantic cod)
+JW174338.1.1370;Gadus morhua (Atlantic cod)
+JW184892.1.1404;Gadus morhua (Atlantic cod)
+JW177579.112.1491;Gadus morhua (Atlantic cod)
+JR481661.3569.5083;Rhynchophorus ferrugineus (red palm weevil)
+JR488616.3569.4959;Rhynchophorus ferrugineus (red palm weevil)
+CS583639.1.1442;Annona senegalensis
+JR472685.62.1649;Rhynchophorus ferrugineus (red palm weevil)
+JR468810.3249.4639;Rhynchophorus ferrugineus (red palm weevil)
+JR486318.3569.4966;Rhynchophorus ferrugineus (red palm weevil)
+DI495694.2.1363;Agaricus bisporus
+DI495695.6.1361;Agaricus bisporus
+JR903612.92.1574;Dirofilaria immitis (dog heartworm nematode)
+LK911038.8.1471;Brugia timori
+JR981191.9.1531;Acropora millepora
+LK998971.565.1850;Syphacia muris
+JT042258.3.1243;Stegodyphus tentoriicola
+LK097124.95.1625;Apteryx australis mantelli
+LL974006.240.1764;Schistosoma rodhaini
+FJ184060.1.1403;Paulinella chromatophora
+FJ184058.1.1409;Paulinella chromatophora
+FJ184059.1.1407;Paulinella chromatophora
+FJ184061.1.1407;Paulinella chromatophora
+FJ456919.1.1410;Paulinella chromatophora
+LM046952.3643.5135;Toxocara canis (dog roundworm)
+FJ548750.1.1425;Vicia faba (fava bean)
+JW071902.3.1494;Capsicum annuum
+KX897545.292339.293750;Paulinella micropora
+KY124271.292434.293845;Paulinella micropora
+KY124271.681377.682788;Paulinella micropora
+M85270.1.1522;Sitophilus zeamais (maize weevil)
+JW107284.12.1446;Capsicum annuum
+L35520.1.1502;Alvinella pompejana epibiont
+L35521.1.1502;Alvinella pompejana epibiont
+L35522.1.1504;Alvinella pompejana epibiont
+L35523.1.1496;Alvinella pompejana epibiont
+JN975069.1.1469;Caenorhabditis elegans
+JQ897946.1.1437;Acropora millepora
+DI185567.1.1381;Apis mellifera (honey bee)
+DI073632.1.1501;Nephila clavata
+AM233527.1.1472;Olavius ilvae associated proteobacterium Delta 8
+JP668405.1.1456;Sesamum indicum (sesame)
+LI056258.85.1571;Formica fusca
+LI267641.132.1615;Formica pressilabris
+AB001522.1.1448;Ornithodoros moubata symbiote B
+LI381850.134.1617;Formica truncorum
+JT845935.1.1202;Cenchrus americanus
+JT844340.1.1416;Cenchrus americanus
+JT845633.1.1507;Cenchrus americanus
+JT846164.551.2059;Cenchrus americanus
+JT845206.2.1495;Cenchrus americanus
+JT845931.1.1343;Cenchrus americanus
+JT924606.1.1391;Hevea brasiliensis
+JW509117.1.1488;Tigriopus californicus
+JW506597.2.1501;Tigriopus californicus
+JW526271.8.1459;Tigriopus californicus
+JW950651.1.1425;Argulus siamensis
+KA185851.9.1368;Chironomus riparius
+LA837738.60.1403;Monomorium pharaonis (pharaoh ant)
+LA837735.60.1564;Monomorium pharaonis (pharaoh ant)
+LH416233.134.1617;Formica aquilonia
+LH561381.26.1459;Formica cinerea
+LH789283.149.1632;Formica exsecta
+AY920406.1.1386;Rosa chinensis
+CP000815.710199.711643;Paulinella chromatophora
+CP000815.310284.311728;Paulinella chromatophora
+HO383127.2.1252;Chaetosphaeridium globosum
+HO382837.113.1331;Chaetosphaeridium globosum
+EZ764760.3.1427;Oncorhynchus mykiss (rainbow trout)
+JL594206.1.1360;Ophthalmotilapia ventralis
+LJ015081.12.1336;Monomorium pharaonis (pharaoh ant)
+DD259514.147721.149238;Felis catus (domestic cat)
+JT247254.6.1460;Ictalurus punctatus (channel catfish)
+JT491765.8.1454;Ictalurus punctatus (channel catfish)
+KA752501.1.1345;Nicotiana benthamiana
+AM493254.1.1520;Olavius algarvensis associated proteobacterium Delta 3
+KF589848.1.1403;Amphioctopus fangsiao
+U29081.1.1380;Rimicaris exoculata ectosymbiont
+AC184306.157075.158596;Strongylocentrotus purpuratus
+JO020273.578.2095;Nannospalax galili (Upper Galilee mountains blind mole rat)
+JO020274.579.1971;Nannospalax galili (Upper Galilee mountains blind mole rat)
+LM523557.763.2205;Parastrongyloides trichosuri
+LM523522.2316.3818;Parastrongyloides trichosuri
+JO020275.1.1313;Nannospalax galili (Upper Galilee mountains blind mole rat)
+EZ430745.3.1423;Deladenus siricidicola
+AB093424.1.1389;Blaberus craniifer (death's head cockroach)
+FJ789639.2131384.2132850;Brassica rapa subsp. pekinensis (Chinese cabbage)
+JO391528.1.1240;Capra hircus (goat)
+LM596486.9.1450;Haemonchus placei
+LL323027.3168.4684;Anisakis simplex (herring worm)
+JL652402.139.1546;Bombus terrestris (buff-tailed bumblebee)
+FX435664.1.1375;Porites australiensis
+JO635810.1.1294;Capra hircus (goat)
+FX451863.348.1674;Porites australiensis
+FX435662.1.1212;Porites australiensis
+FX502324.42.1424;Porites australiensis
+HP635782.87.1334;Triticum aestivum (bread wheat)
+HG346990.9.1379;Rhizoctonia solani
+HG352348.9.1340;Rhizoctonia solani
+HG374866.9.1343;Rhizoctonia solani
+JP083175.19.1492;Mengenilla moldrzyki
+HP332698.95.1622;Acyrthosiphon pisum (pea aphid)
+EU600086.1.1345;Pueraria montana var. lobata (kudzu vine)
+KT633864.1.1381;Paulinella longichromatophora
+AM084273.1.1445;Paulinella chromatophora
+EU982507.1.1440;Panicum virgatum (switchgrass)
+LMYF01004894.7194.8733;Hypsibius dujardini
+LMYF01004994.8272.9773;Hypsibius dujardini
+LYUU01002088.1538950.1540441;Armadillidium vulgare (common pillbug)
+LMYF01000009.586686.588187;Hypsibius dujardini
+LMYF01009029.3575.5082;Hypsibius dujardini
+BCLF01000604.3660.5177;Zoysia japonica
+LMYF01017862.1638.3127;Hypsibius dujardini
+AAAA02020706.141.1662;Oryza sativa Indica Group (long-grained rice)
+LMYF01009394.5533.7058;Hypsibius dujardini
+FLTF01001328.2698.4162;Dictyostelium deminutivum
+LMYF01017475.1872.3388;Hypsibius dujardini
+KJ702557.1.1328;Naganishia albida
+LMYF01000008.390521.392026;Hypsibius dujardini
+LMYF01001015.8434.9935;Hypsibius dujardini
+LMYF01001345.3131.4620;Hypsibius dujardini
+AAGD02003510.373.1891;Caenorhabditis remanei
+AAGD02009939.4005.5507;Caenorhabditis remanei
+FXED01000073.40.1572;Saccharomyces cerevisiae (baker's yeast)
+FXDT01001282.44.1545;Saccharomyces cerevisiae (baker's yeast)
+LYUU01002091.27941.29432;Armadillidium vulgare (common pillbug)
+BCMY01000192.1.1528;Aspergillus niger
+FXLI01009177.44.1545;Saccharomyces cerevisiae (baker's yeast)
+AAAA02029391.4444.5952;Oryza sativa Indica Group (long-grained rice)
+AAAA02020710.72.1593;Oryza sativa Indica Group (long-grained rice)
+AAAA02020713.1.1297;Oryza sativa Indica Group (long-grained rice)
+KJ702486.1.1391;Naganishia albida
+AAAA02020714.1.1202;Oryza sativa Indica Group (long-grained rice)
+AAAA02020725.4892.6406;Oryza sativa Indica Group (long-grained rice)
+AAAA02048270.689.2185;Oryza sativa Indica Group (long-grained rice)
+LYUU01002088.2430291.2431782;Armadillidium vulgare (common pillbug)
+KJ702528.1.1432;Naganishia albida
+AAFB02001415.298.1771;Entamoeba histolytica HM-1:IMSS
+FLTE01001400.323.1824;Dictyostelium polycarpum
+FLTD01000160.384.1910;Acytostelium ellipticum
+FLTG01000103.323.1824;Acytostelium leptosomum
+FLTD01000553.323.1824;Acytostelium ellipticum
+FLTD01000242.116478.117988;Acytostelium ellipticum
+AAAA02013830.770.2266;Oryza sativa Indica Group (long-grained rice)
+AAAA02042586.1650.3157;Oryza sativa Indica Group (long-grained rice)
+AAAA02049656.53.1588;Oryza sativa Indica Group (long-grained rice)
+FXDV01005687.3927.5428;Saccharomyces cerevisiae (baker's yeast)
+FXDU01003938.817.2318;Saccharomyces cerevisiae (baker's yeast)
+FLTE01000216.250.1692;Dictyostelium polycarpum
+EU221512.1.1526;Trachelomonas grandis
+FLTD01000552.3.1443;Acytostelium ellipticum
+FLTF01000445.147.1640;Dictyostelium deminutivum
+EU221508.1.1504;Trachelomonas armata
+FLTE01001368.534.2052;Dictyostelium polycarpum
+FLTG01000140.3314.4778;Acytostelium leptosomum
+FXDW01003068.4014.5526;Saccharomyces cerevisiae (baker's yeast)
+FLTF01000446.323.1824;Dictyostelium deminutivum
+FXDX01001036.434.1946;Saccharomyces cerevisiae (baker's yeast)
+FARV01012870.478.1974;Heliconius melpomene melpomene
+FARY01002531.1.1367;Heliconius melpomene melpomene
+FAPP01000619.8.1547;Heliconius ismenius
+FXDY01005714.4369.5881;Saccharomyces cerevisiae (baker's yeast)
+FATI01015833.1.1426;Heliconius timareta timareta
+FXDZ01002925.503.2004;Saccharomyces cerevisiae (baker's yeast)
+FARZ01024877.986.2419;Heliconius melpomene meriana
+FATI01122383.212.1730;Heliconius timareta timareta
+FAUG01036026.1.1488;Heliconius hecale
+FATH01205336.88.1574;Heliconius timareta timareta
+FASQ01071564.39.1554;Heliconius numata bicoloratus
+FXEB01001293.3.1407;Saccharomyces cerevisiae (baker's yeast)
+FARC01131645.2977.4495;Heliconius melpomene amaryllis
+AFFH02007598.80.1636;Drosophila kikkawai
+FM203376.1.1465;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203378.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203382.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203384.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203388.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203392.1.1397;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203406.1.1469;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203375.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203383.1.1466;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203393.1.1464;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203396.1.1467;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FUEF01002845.5170.6667;Caenorhabditis elegans
+FASJ01010208.1532.3002;Heliconius melpomene rosina
+FAQC01004751.3968.5436;Heliconius cydno chioneus
+FASB01000114.46132.47656;Heliconius melpomene meriana
+FAQS01014386.1.1360;Heliconius cydno chioneus
+FAQS01038997.51.1616;Heliconius cydno chioneus
+FAPN01077046.3358.4889;Heliconius cydno alithea
+FATI01075386.6269.7770;Heliconius timareta timareta
+FAQF01066618.1690.3211;Heliconius hecale
+FASD01020011.162.1690;Heliconius melpomene plesseni
+FASE01022656.2.1466;Heliconius melpomene rosina
+FARW01282481.1.1274;Heliconius melpomene melpomene
+FAQV01237224.292.1811;Heliconius elevatus
+AFFH02000024.80.1635;Drosophila kikkawai
+FASO01017330.1640.3146;Heliconius numata bicoloratus
+FASI01002619.53156.54633;Heliconius melpomene thelxiopeia
+FUEF01006665.371.1878;Caenorhabditis elegans
+FAQS01006323.20495.21995;Heliconius cydno chioneus
+ARZB01004610.213.1717;Chromera velia
+FASQ01000629.36588.38088;Heliconius numata bicoloratus
+FARN01000603.4107.5607;Heliconius melpomene ecuadorensis
+BDDF01000002.2685913.2687415;Cladosiphon okamuranus
+BDDF01000018.1130796.1132258;Cladosiphon okamuranus
+FARU01226839.214.1742;Heliconius melpomene melpomene
+FAQW01003741.3404.4865;Heliconius melpomene amaryllis
+FAUD01086771.4827.6366;Heliconius elevatus
+AFFH02007607.10822.12376;Drosophila kikkawai
+AFFD02001840.2368.3875;Drosophila biarmipes
+FART01053831.1.1383;Heliconius melpomene melpomene
+FASB01000830.224.1685;Heliconius melpomene meriana
+FM203380.1.1418;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203386.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203405.1.1416;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FAQT01011697.3404.5047;Heliconius cydno chioneus
+FAQT01021048.150.1665;Heliconius cydno chioneus
+FAUA01011021.115.1616;Heliconius timareta timareta
+FAPK01015471.3480.5019;Heliconius melpomene aglaope
+FARZ01072815.203.1692;Heliconius melpomene meriana
+FAQZ01007423.3815.5331;Heliconius melpomene amandus
+FM203385.1.1466;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203387.1.1443;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203389.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203390.1.1463;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FN658695.1.1474;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FN658698.1.1472;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FASG01030980.1.1369;Heliconius melpomene rosina
+FARX01034196.1.1367;Heliconius melpomene melpomene
+FATA01012176.1478.2997;Heliconius pardalinus ssp. n. KMK-2015
+FM203374.1.1465;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203379.1.1466;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203381.1.1434;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FM203395.1.1467;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FN393026.1.1401;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+BDDF01000026.248057.249560;Cladosiphon okamuranus
+FAUG01112515.25.1265;Heliconius hecale
+AFNJ01002276.26759.28233;Plasmodium vivax North Korean
+FAPN01153325.1.1228;Heliconius cydno alithea
+FM203377.1.1465;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203394.1.1464;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+BDDB01004701.342.1857;Chlamydomonas debaryana
+AFFE02004651.22.1577;Drosophila bipectinata
+ALJS01000523.3856.5357;Saccharomyces pastorianus CCY48 - 91
+FN393025.1.1467;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+BDDF01000372.36038.37558;Cladosiphon okamuranus
+FM203391.1.1467;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FM203407.1.1439;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+BDDF01000002.670538.672040;Cladosiphon okamuranus
+BDDF01000018.477475.478937;Cladosiphon okamuranus
+FN393024.1.1437;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+FN658694.1.1475;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FN393023.1.1426;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+JPZV01230878.3063.4573;Blattella germanica (German cockroach)
+JPZV01245517.256695.258199;Blattella germanica (German cockroach)
+JPZV01222262.18942.20455;Blattella germanica (German cockroach)
+JPZV01256166.399856.401363;Blattella germanica (German cockroach)
+FN658693.1.1467;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FN658696.1.1474;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FN658699.1.1505;gamma proteobacterium ectosymbiont of Rimicaris exoculata
+JPZV01229496.602.2111;Blattella germanica (German cockroach)
+JPFL01001681.275.1492;Paramecium biaurelia
+FN658697.1.1472;epsilon proteobacterium ectosymbiont of Rimicaris exoculata
+FN658700.1.1522;delta proteobacterium ectosymbiont of Rimicaris exoculata
+JPZV01101350.14273.15778;Blattella germanica (German cockroach)
+JPZV01259899.1041627.1043131;Blattella germanica (German cockroach)
+JPZV01261591.44593.46095;Blattella germanica (German cockroach)
+JPZV01264048.12.1421;Blattella germanica (German cockroach)
+JPZV01280928.1101.2633;Blattella germanica (German cockroach)
+JPZV01226454.1.1253;Blattella germanica (German cockroach)
+JPZV01290100.74546.76048;Blattella germanica (German cockroach)
+JPZV01245523.507103.508607;Blattella germanica (German cockroach)
+FJ719709.1.1479;Trachelomonas volvocinopsis var. spiralis
+JPZV01274773.275.1788;Blattella germanica (German cockroach)
+FJ471666.1.1428;Gammarus pulex
+FJ540919.1.1452;Branchiostoma floridae (Florida lancelet)
+CCOE01004078.33.1544;Amphilophus citrinellus (Midas cichlid)
+CCJR010333932.1.1383;Hordeum vulgare subsp. vulgare (domesticated barley)
+JJNS01219994.16220.17700;Homalodisca vitripennis (glassy-winged sharpshooter)
+CCMX01194870.1708.3174;Fasciola hepatica (liver fluke)
+JJNS01317288.2662.4158;Homalodisca vitripennis (glassy-winged sharpshooter)
+CCYC010748115.3639.5161;Triticum aestivum (bread wheat)
+AVPB01048411.141.1651;Alligator sinensis (Chinese alligator)
+JJNS01333228.307.1803;Homalodisca vitripennis (glassy-winged sharpshooter)
+ABRM01056727.2012.3504;Hydra vulgaris
+ABKP02007643.3839.5354;Anopheles coluzzii
+ABJB010370606.21113.22591;Ixodes scapularis (black-legged tick)
+AEUM01004012.4.1350;Nannochloropsis oceanica
+ABBT01000004.7130.8651;Histoplasma capsulatum G217B
+FBRT01000053.12990.14524;Microbotryum violaceum
+ABRR02151433.42630.44110;Vicugna pacos (alpaca)
+ABEG02010941.3841.5372;Caenorhabditis brenneri
+FBRT01000031.115527.117061;Microbotryum violaceum
+AOIX01038262.3063.4572;Brassica oleracea var. capitata (cabbage)
+FBRT01000030.247327.248861;Microbotryum violaceum
+AOTI010667278.786.2310;Triticum urartu
+AOTI010646223.1.1225;Triticum urartu
+AVCP010517028.3947.5463;Locusta migratoria (migratory locust)
+AOTI010230528.6.1502;Triticum urartu
+FBRT01000030.123245.124779;Microbotryum violaceum
+FBRT01000092.21611.23145;Microbotryum violaceum
+FBRT01000041.6325.7859;Microbotryum violaceum
+AEKZ01001951.393.1940;Apis florea (little honeybee)
+JMDY01036301.60051.61571;Frankliniella occidentalis (western flower thrips)
+JMDY01036304.69574.71094;Frankliniella occidentalis (western flower thrips)
+AOTI011122088.468.2064;Triticum urartu
+FBRT01000030.190280.191814;Microbotryum violaceum
+FBRT01000031.47242.48776;Microbotryum violaceum
+FBRT01000046.6970.8504;Microbotryum violaceum
+JMRR01004201.27407.28890;Glossina austeni
+JMDY01036310.27961.29481;Frankliniella occidentalis (western flower thrips)
+JMCM01000062.88518.89958;Dactylopius coccus
+CDFK01180638.4159.5603;Acanthamoeba polyphaga
+AOTI010541966.326.1849;Triticum urartu
+CDFK01186304.13295.14739;Acanthamoeba polyphaga
+CDOU01077886.3173.4693;Quercus robur
+CDMY01001054.3355.4870;Vitrella brassicaformis CCMP3155
+CDFK01180639.369.1813;Acanthamoeba polyphaga
+JMCE01000560.3865.5334;Drosophila simulans
+MJMM01000107.58589.60088;Arabidopsis thaliana (thale cress)
+AQIB01156967.5609.7093;Chlorocebus sabaeus
+CDMT01200769.1708.3174;Fasciola hepatica (liver fluke)
+CDFE01042963.966.2434;Acanthamoeba mauritaniensis
+JMFS01035062.15510.17017;Podiceps cristatus (great crested grebe)
+CDMY01000847.8086.9598;Vitrella brassicaformis CCMP3155
+JMCM01000127.7424.8886;Dactylopius coccus
+JMCM01000373.809.2215;Dactylopius coccus
+MTTC01001354.5614.7080;Drosophila serrata
+CDFK01194362.19051.20495;Acanthamoeba polyphaga
+MTTC01001349.4553.6020;Drosophila serrata
+MTTC01000006.16502.17969;Drosophila serrata
+CDFD01036966.1.1301;Acanthamoeba palestinensis
+JMFQ01015395.150.1661;Aptenodytes forsteri (emperor penguin)
+MTTC01000737.30841.32306;Drosophila serrata
+CZCL01001587.29.1363;Microbotryum lychnidis-dioicae
+CDMY01000991.1022.2487;Vitrella brassicaformis CCMP3155
+CDHK01000076.1.1326;Penicillium brasilianum
+JMCM01000083.960.2443;Dactylopius coccus
+MTTC01000025.57222.58680;Drosophila serrata
+MTTC01001353.25536.27003;Drosophila serrata
+MTTC01000761.10020.11485;Drosophila serrata
+MTTC01001333.7287.8754;Drosophila serrata
+JQDR02000001.514604.516112;Hyalella azteca
+JQDR02014034.347.1832;Hyalella azteca
+MBPM01000047.78128.79591;Plasmopara viticola
+AYNC01033226.103.1636;Ephemera danica
+AYNC01034749.1.1265;Ephemera danica
+ASPP01005550.1056.2564;Reticulomyxa filosa
+AYNC01032715.1929.3410;Ephemera danica
+AYNC01054160.27.1518;Ephemera danica
+AMWH01009335.17746.19246;Cephus cinctus (wheat stem sawfly)
+AYZX01115664.382.1886;Beta vulgaris subsp. vulgaris
+ASPP01025966.205.1720;Reticulomyxa filosa
+ASPP01042319.1.1433;Reticulomyxa filosa
+AGDA01088940.1541.3024;Mengenilla moldrzyki
+AYNC01017926.1.1340;Ephemera danica
+AYNC01031389.234.1772;Ephemera danica
+AYZX01097562.161.1662;Beta vulgaris subsp. vulgaris
+LLKM01004364.497.1960;Hyaloperonospora arabidopsidis
+AGCV02375219.1.1326;Lytechinus variegatus (green sea urchin)
+AMWH01007424.4622.6122;Cephus cinctus (wheat stem sawfly)
+BBPC01190614.7148.8812;Humulus lupulus var. lupulus
+BBKB01008091.93.1625;Mucor ambiguus
+BBOV01127494.1.1429;Pseudopleuronectes yokohamae (marbled flounder)
+BBUO01003092.1273.2756;Vollenhovia emeryi
+JHBY01090087.15109.16591;Gerris buenoi
+CAQS01011573.1139.2635;Romanomermis culicivorax
+CACC01004715.1069.2274;Theobroma cacao (cacao)
+CAKG01061265.16.1313;Drosophila suzukii
+CABT02000142.2259.3727;Sordaria macrospora k-hell
+AJKK01258472.5535.7051;Sus scrofa (pig)
+CAQS01012543.349.1861;Romanomermis culicivorax
+JHUJ01068446.4270.5772;Lucilia cuprina (Australian sheep blowfly)
+JHUN01039231.1825.3357;Cimex lectularius (bed bug)
+CABV01003337.48680.50227;Oikopleura dioica
+MAMN01014978.3149.4562;Arachis duranensis
+MKYQ01001373.3453.4859;Citrus maxima
+JFJR01010758.9354.10853;Glossina fuscipes fuscipes
+EU580518.1.1352;Cymbella subturgidula
+JXRI01004107.9352.10877;Saccharina japonica
+JXLM01000204.11490.12815;Prorocentrum minimum
+JXRI01003561.2605.4119;Saccharina japonica
+MKYQ01001443.16.1528;Citrus maxima
+JRKL01091429.1028.2494;Castanea mollissima (Chinese chestnut)
+JXRI01003245.7471.9092;Saccharina japonica
+JRKL01104871.2.1481;Castanea mollissima (Chinese chestnut)
+JXRI01003429.8320.9834;Saccharina japonica
+FWDL01039361.885.2410;Chironomus riparius
+BASJ02004475.34.1399;Coturnix japonica (Japanese quail)
+BADR02004571.3681.5202;Clonorchis sinensis
+AWUE01010616.496.1962;Corchorus olitorius
+BAOO01043420.81.1611;Raphanus sativus (radish)
+BASJ02008699.116.1632;Coturnix japonica (Japanese quail)
+BABP01087923.3.1346;Solanum lycopersicum (tomato)
+AWUE01010904.8.1260;Corchorus olitorius
+CVMT01000042.1998.3550;Talaromyces islandicus
+CBXT010010671.1.1304;Globodera pallida
+CBXK010002068.363.1874;Trichuris trichiura (human whipworm)
+CBTL0100923990.54.1453;Triticum aestivum (bread wheat)
+GAGR01004248.88.1541;Nannochloropsis gaditana
+GFKI01017051.1.1473;Sargassum muticum
+GFIZ01013449.1.1427;Thymallus thymallus (grayling)
+GBRF01000761.1.1343;Hirudo medicinalis (medicinal leech)
+GEUY01001205.5.1448;Cenchrus americanus
+GEUY01004422.2.1231;Cenchrus americanus
+GEUY01000175.16.1485;Cenchrus americanus
+GEUY01001105.488.1991;Cenchrus americanus
+GEUY01001204.1.1401;Cenchrus americanus
+GEUY01001896.2.1253;Cenchrus americanus
+GBBS01017188.54.1587;Anolis carolinensis (green anole)
+GESR01037716.142.1539;Eulimnogammarus violaceus
+GEUY01021354.2.1377;Cenchrus americanus
+GASZ01001652.185.1608;Noccaea caerulescens
+HAEN01058188.41.1551;Bragasellus peltatus
+GECJ01043200.1.1233;Trichinella pseudospiralis
+GBEG01042066.31.1471;Solanum torvum
+GDIQ01014485.56.1549;Daphnia magna
+GDIP01013551.751.2239;Daphnia magna
+GBID01003495.1.1360;Blattella germanica (German cockroach)
+GBID01005713.1.1428;Blattella germanica (German cockroach)
+GBID01003426.1.1409;Blattella germanica (German cockroach)
+CVRG01085646.1.1361;Squalius pyrenaicus
+GFIJ01003595.139.1655;Gossypium hirsutum (cotton)
+GFKE01009079.76.1594;Sargassum henslowianum
+GAZF02035686.139.1669;Essigella californica
+GCDX01003087.5.1532;Psyttalia concolor
+GEXI01097563.20.1513;Scapharca broughtonii
+GAIZ01000854.1.1334;Gryllus firmus
+HAAB01020513.1.1384;Triticum aestivum (bread wheat)
+GBOJ01019208.1.1361;Anthidium manicatum (wool carder bee)
+GBHB01021588.2.1499;Teleogryllus commodus
+HAEP01038516.10.1527;Proasellus assaforensis
+HAEP01038506.44.1584;Proasellus assaforensis
+GALN01469587.1.1466;Persicaria minor
+GBPU01008847.40.1417;Ceratina chalybea
+GANR01019260.2.1459;Macrotyloma uniflorum
+HAFK01019356.33.1524;Proasellus spelaeus
+CVMT01000034.20492.21997;Talaromyces islandicus
+GAWS02046725.2869.4335;Periplaneta americana (American cockroach)
+GESO01109815.9.1547;Palythoa caribaeorum
+GBGR01011820.2.1390;Punica granatum (pomegranate)
+GAWS02046723.2869.4335;Periplaneta americana (American cockroach)
+HADC01037294.1.1420;Gammarus chevreuxi
+GAXM01015464.1.1499;Mischocyttarus flavitarsis
+GDHX01215805.4.1493;Austrofundulus limnaeus
+HAFP01051059.8.1306;Spumella vulgaris
+CBTL0102680836.45.1517;Triticum aestivum (bread wheat)
+GBJM01135512.4.1487;Latrodectus geometricus (brown widow)
+HAFP01051039.8.1456;Spumella vulgaris
+HAFP01051053.8.1513;Spumella vulgaris
+GADT01088274.9.1516;Camelus dromedarius (Arabian camel)
+GFIO01003240.10.1502;Oryzias latipes (Japanese medaka)
+GECQ01269043.1.1523;Murgantia histrionica
+GBXT01022820.16.1492;Calanus glacialis
+GCET01015400.4.1471;Coptotermes gestroi
+GBXT01022816.15.1503;Calanus glacialis
+GAYA02037411.2.1423;Zorotypus caudelli
+GFIM01005958.9.1236;Lepisosteus oculatus (spotted gar)
+GFIM01007192.2.1385;Lepisosteus oculatus (spotted gar)
+GCET01093322.63.1546;Coptotermes gestroi
+GCET01101777.1.1378;Coptotermes gestroi
+GCET01102445.1.1449;Coptotermes gestroi
+CBTL0102937188.3347.4742;Triticum aestivum (bread wheat)
+CBTL0102977636.368.1879;Triticum aestivum (bread wheat)
+GFLP01050980.1.1346;Saccharum hybrid cultivar
+GDAG01071282.49.1547;Schmidtea mediterranea
+GAQQ01013830.1.1405;Bithynia siamensis goniomphalos
+GFBM010886613.535.1865;Ambystoma mexicanum (axolotl)
+JABR01093782.795.2296;Rhinopithecus roxellana (golden snub-nosed monkey)
+CBXK010003053.4.1564;Trichuris trichiura (human whipworm)
+GFIZ01013002.1.1479;Thymallus thymallus (grayling)
+GEUY01000010.1.1275;Cenchrus americanus
+GEUY01001359.1.1260;Cenchrus americanus
+GEUY01001889.3.1218;Cenchrus americanus
+GBRV01093762.3.1318;Petunia integrifolia
+CBXK010003039.335.1822;Trichuris trichiura (human whipworm)
+GETY01000592.6.1502;Alosa alosa (allis shad)
+GBID01006466.10.1507;Blattella germanica (German cockroach)
+GCKC01172310.99.1603;Gleditsia sinensis
+GCNQ01011877.2.1397;Epinephelus fuscoguttatus (brown-marbled grouper)
+GAKE01024028.6.1397;Thlaspi arvense
+GAXQ01012145.1.1469;Pseudomasaris vespoides
+GELL01072692.1.1465;Megalopta genalis
+GBRU01060255.1.1402;Petunia axillaris
+GAPN01008405.35.1534;Cylindrotheca closterium
+HAAB01023228.7.1449;Triticum aestivum (bread wheat)
+GEFD01012829.3.1450;Cephus cinctus (wheat stem sawfly)
+GALN01469283.2.1391;Persicaria minor
+GAJV01000033.177.1688;Anoplocnemis curvipes
+GALN01471300.2.1406;Persicaria minor
+GAZE02168724.21.1470;Mastotermes darwiniensis (giant northern termite)
+GAXD01003756.17.1357;Frankliniella occidentalis (western flower thrips)
+GBTZ01031387.47.1561;Methocha articulata
+CVRG01041904.1.1229;Squalius pyrenaicus
+GALZ01007494.69.1571;Actinidia chinensis
+GAZO01017364.1.1481;Anneissia japonica
+GBTL01081438.1.1404;Tetragonula carbonaria
+HAFP01051069.8.1453;Spumella vulgaris
+GCET01002081.2.1316;Coptotermes gestroi
+GBQH01017634.1.1379;Pemphredon lugens
+GFIM01007011.1.1463;Lepisosteus oculatus (spotted gar)
+GFIM01008300.3.1500;Lepisosteus oculatus (spotted gar)
+GFIZ01013521.1.1481;Thymallus thymallus (grayling)
+GCET01102204.18.1515;Coptotermes gestroi
+GCET01105316.1.1343;Coptotermes gestroi
+GFKI01009894.1.1428;Sargassum muticum
+GCVF01000617.136.1642;Thalassiosira rotula
+HAEX01035842.29.1520;Proasellus grafi
+GEXO01005458.1.1454;Malaclemys terrapin terrapin
+GFIX01008132.27.1509;Gadus morhua (Atlantic cod)
+GEUY01000212.1.1382;Cenchrus americanus
+GEUY01001150.1.1486;Cenchrus americanus
+GEUY01002117.1.1374;Cenchrus americanus
+GECN01023032.68.1569;Diachasma alloeum
+GASZ01001617.160.1609;Noccaea caerulescens
+HAEN01058190.41.1396;Bragasellus peltatus
+GEUY01000010.1215.2718;Cenchrus americanus
+GEUG01022693.1.1488;Amia calva (bowfin)
+GFGM01016939.24.1524;Osteoglossum bicirrhosum (silver arawana)
+GEUG01026636.9.1399;Amia calva (bowfin)
+HAEN01058183.1.1244;Bragasellus peltatus
+GETK01001694.455.1928;Gambierdiscus polynesiensis
+GBRV01093759.1.1236;Petunia integrifolia
+GART01001051.66.1582;Glycera tridactyla
+GBID01003348.2.1493;Blattella germanica (German cockroach)
+GBID01003438.1.1527;Blattella germanica (German cockroach)
+GBID01006024.8.1313;Blattella germanica (German cockroach)
+GBRV01093763.3.1318;Petunia integrifolia
+GFCX01023042.63.1577;Antheraea pernyi (Chinese oak silkmoth)
+GAPN01009975.1.1484;Cylindrotheca closterium
+GDIP01034292.1.1411;Daphnia magna
+GFIX01010198.2.1520;Gadus morhua (Atlantic cod)
+GFBP01138475.1.1236;Juncus effusus
+GELL01072695.1.1246;Megalopta genalis
+GAZN02049884.1.1476;Cryptocercus wrighti
+GBDE01076072.52.1585;Anolis carolinensis (green anole)
+GBHT01005161.209.1734;Halyomorpha halys (brown marmorated stink bug)
+HAAB01023225.11.1467;Triticum aestivum (bread wheat)
+GEUA01067408.1.1499;Farfantepenaeus aztecus (brown shrimp)
+GENA01018300.47.1502;Entomophthora muscae
+GEUY01001100.2.1398;Cenchrus americanus
+GEUY01001892.1.1403;Cenchrus americanus
+GEEO01017285.65.1522;Aureobasidium melanogenum
+HAEP01038523.44.1571;Proasellus assaforensis
+GASZ01007703.196.1636;Noccaea caerulescens
+GASZ01008937.9.1387;Noccaea caerulescens
+GFIG01012446.79.1567;Coregonus lavaretus (common whitefish)
+GALN01462594.1.1378;Persicaria minor
+HAAB01009927.13.1326;Triticum aestivum (bread wheat)
+HAAB01016393.31.1549;Triticum aestivum (bread wheat)
+HAAB01020508.1.1261;Triticum aestivum (bread wheat)
+GFBH01086591.67.1587;Eogystia hippophaecolus
+GAWD01042394.47.1563;Medauroidea extradentata
+GALN01471478.1.1363;Persicaria minor
+GALN01477114.8.1476;Persicaria minor
+GAJW01000282.73.1414;Aphis craccivora (cowpea aphid)
+GESO01002558.168.1705;Palythoa caribaeorum
+GAWG01055724.117.1634;Extatosoma tiaratum (giant prickly stick insect)
+GFIG01012561.7.1417;Coregonus lavaretus (common whitefish)
+GAWE01043555.149.1650;Ramulus artemis
+GALN01471378.1.1365;Persicaria minor
+GDAW01020010.1.1482;Lygus lineolaris (tarnished plant bug)
+GAXP01010880.11.1544;Sphaeropthalma orestes
+GANR01020942.9.1482;Macrotyloma uniflorum
+GBDB01059262.1.1436;Oreochromis niloticus (Nile tilapia)
+GBGR01024531.3.1247;Punica granatum (pomegranate)
+HAFP01051060.8.1455;Spumella vulgaris
+GFGL01171579.2145.3607;Tectona grandis
+GETX01021382.1.1508;Acipenser sinensis (Chinese sturgeon)
+GAYR01026355.62.1594;Solanum melongena (eggplant)
+HAFP01051070.8.1321;Spumella vulgaris
+GCET01105303.6.1509;Coptotermes gestroi
+HAFA01076328.88.1570;Proasellus ibericus
+GAIQ01048712.3375.4897;Alexandrium tamarense
+GFIM01007549.1.1359;Lepisosteus oculatus (spotted gar)
+HAFA01076300.88.1409;Proasellus ibericus
+HADL01018443.69.1552;Calligrapha confluens
+HAAB01009928.13.1500;Triticum aestivum (bread wheat)
+HAAB01020509.1.1395;Triticum aestivum (bread wheat)
+GFIR01006272.12.1507;Plecoglossus altivelis (ayu)
+GFCW01046550.147.1616;Peromyscus californicus (California mouse)
+HADG01006730.2.1457;Heterorhabditis indica
+GAYD02053520.1.1259;Blaberus atropos
+GBHB01036241.2.1501;Teleogryllus commodus
+GAYD02055563.1.1353;Blaberus atropos
+GAUV02027216.1.1501;Acanthosoma haemorrhoidale
+GBPW01019131.1.1317;Epeolus variegatus
+GBHB01070766.2.1503;Teleogryllus commodus
+HAES01076193.29.1520;Proasellus cavaticus
+GASU01014217.30.1530;Acropora cervicornis
+GFGL01171583.2146.3610;Tectona grandis
+GAWS02046722.3248.4714;Periplaneta americana (American cockroach)
+GBGR01020649.1.1279;Punica granatum (pomegranate)
+HAFH01055762.62.1553;Proasellus racovitzai
+GEYB01040058.46.1567;Hermannia gibba
+GFIM01005594.1.1458;Lepisosteus oculatus (spotted gar)
+GCET01096092.1.1501;Coptotermes gestroi
+GCET01098085.1.1516;Coptotermes gestroi
+GDUJ01044858.143.1623;Talitrus saltator
+GDHW01147821.1.1431;Austrofundulus limnaeus
+HAFG01111115.23.1478;Proasellus parvulus
+GAGC011029516.16.1389;Anolis carolinensis (green anole)
+CBXK010002535.1192.2697;Trichuris trichiura (human whipworm)
+CBXT010004487.187.1541;Globodera pallida
+GARE01155857.2.1248;Bouteloua dactyloides
+CBXK010001759.1485.3013;Trichuris trichiura (human whipworm)
+GEXO01005455.1.1513;Malaclemys terrapin terrapin
+GBSU01002235.1.1249;Aphis glycines (soybean aphid)
+GEUY01000836.1.1611;Cenchrus americanus
+GEEO01017289.65.1399;Aureobasidium melanogenum
+GAZV01014946.76.1593;Apis mellifera (honey bee)
+GEUG01018641.1.1430;Amia calva (bowfin)
+GEUG01026756.1.1345;Amia calva (bowfin)
+GASZ01001616.197.1647;Noccaea caerulescens
+GAZP01040396.3.1533;Eucidaris tribuloides
+GDIP01018497.760.2253;Daphnia magna
+GBID01003434.1.1375;Blattella germanica (German cockroach)
+GBID01006401.3.1278;Blattella germanica (German cockroach)
+GEDJ01000683.21.1460;Haliotis discus hannai (Japanese disc abalone)
+GCKC01172239.99.1603;Gleditsia sinensis
+GAUE02014361.76.1558;Anurida maritima
+GEGG01003054.119.1620;Rhacophorus dennysi
+GAQJ01015982.54.1465;Ostrinia furnacalis (Asian corn borer)
+HAAX01019227.23.1442;Eriocheir sinensis (Chinese mitten crab)
+GEEY01012809.3.1457;Cephus cinctus (wheat stem sawfly)
+HAEM01098953.4.1203;Bragasellus molinai
+GETZ01047640.11.1521;Litopenaeus vannamei (Pacific white shrimp)
+GBGQ01006232.25.1541;Schmidtea mediterranea
+GARE01155858.2.1248;Bouteloua dactyloides
+GAWS02046726.2556.4022;Periplaneta americana (American cockroach)
+GBOS01000790.9.1536;Dendrocerus carpenteri
+GFGX01002150.3821.5348;Coregonus clupeaformis (lake whitefish)
+GBID01003411.1.1428;Blattella germanica (German cockroach)
+GBID01003509.1.1353;Blattella germanica (German cockroach)
+GBID01006701.1.1208;Blattella germanica (German cockroach)
+GBGR01063694.5.1213;Punica granatum (pomegranate)
+GFGX01057508.1.1467;Coregonus clupeaformis (lake whitefish)
+GFBP01134118.8.1506;Juncus effusus
+GASB01025610.4.1517;Glycera dibranchiata
+CBTL0101881478.27.1424;Triticum aestivum (bread wheat)
+GAPN01009393.1.1472;Cylindrotheca closterium
+GAYR01026356.1.1478;Solanum melongena (eggplant)
+GCET01105110.1.1400;Coptotermes gestroi
+GBKV01022933.195.1727;Ciona intestinalis
+HAFA01076316.32.1486;Proasellus ibericus
+GBCZ01163240.126.1650;Aplysia californica (California sea hare)
+HACN01052469.444.1941;Lepidonotothen nudifrons (yellowfin notie)
+HAFE01076875.30.1542;Proasellus meridianus
+GAFH01001643.7.1510;Paratrimastix pyriformis
+HAAB01009933.13.1327;Triticum aestivum (bread wheat)
+HAAB01020512.1.1254;Triticum aestivum (bread wheat)
+GAWF01029307.94.1610;Sipyloidea sipylus
+CBTL0103654780.372.1883;Triticum aestivum (bread wheat)
+HAAC01027432.1.1206;Hydra vulgaris
+GFGL01171585.351.1813;Tectona grandis
+GBPS01015532.1.1448;Hylaeus variegatus
+GAWC01048065.46.1562;Aretaon asperrimus (thorny stick insect)
+HAFP01051029.8.1454;Spumella vulgaris
+GEZN01000787.1589.3053;Paulinella chromatophora
+GDQQ01019656.4.1431;Danio rerio (zebrafish)
+GAJX01000137.2.1513;Clavigralla tomentosicollis
+GFIM01007550.3.1415;Lepisosteus oculatus (spotted gar)
+GCET01098358.14.1456;Coptotermes gestroi
+GBSB01014559.73.1541;Diabrotica virgifera virgifera (western corn rootworm)
+GBSB01015296.1.1381;Diabrotica virgifera virgifera (western corn rootworm)
+GCVF01000095.109.1595;Thalassiosira rotula
+GAMA01019719.1.1503;Actinidia chinensis
+GDUJ01044859.40.1504;Talitrus saltator
+GBAQ01032348.1.1419;Aplysia californica (California sea hare)
+HAFE01076884.30.1537;Proasellus meridianus
+CBTL0105900656.1.1351;Triticum aestivum (bread wheat)
+CBTL0106015152.35.1521;Triticum aestivum (bread wheat)
+HACI01281743.47.1563;Pogona vitticeps (central bearded dragon)
+GBIF01031523.1.1477;Larimichthys crocea (large yellow croaker)
+GAWN02042858.2.1221;Galloisiana yuasai
+CBTL0108600130.2081.3602;Triticum aestivum (bread wheat)
+CBTL0110950228.3454.4965;Triticum aestivum (bread wheat)
+CBTL0111653530.4.1245;Triticum aestivum (bread wheat)
+CBTL0107321949.227.1738;Triticum aestivum (bread wheat)
+CBTL0108014664.82.1593;Triticum aestivum (bread wheat)
+CBTL0108680748.468.1979;Triticum aestivum (bread wheat)
+CBTL0107321945.82.1593;Triticum aestivum (bread wheat)
+CBTL0108014662.324.1835;Triticum aestivum (bread wheat)
+CBTL0110412480.492.2004;Triticum aestivum (bread wheat)
+CBTL0109368838.377.1888;Triticum aestivum (bread wheat)
+CBTL0107321943.82.1593;Triticum aestivum (bread wheat)
