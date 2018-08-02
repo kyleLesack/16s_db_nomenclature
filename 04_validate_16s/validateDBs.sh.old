@@ -29,19 +29,19 @@ grep -vwiFf 04_validate_16s/validation_sets/valid_genera_coreset.txt 04_validate
 
 # SILVA
 
-grep -wiFf 04_validate_16s/validation_sets/valid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_genera_filtered.csv > 04_validate_16s/results/silva/silva_valid_genera.csv
-grep -wiFf 04_validate_16s/validation_sets/invalid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_genera_filtered.csv > 04_validate_16s/results/silva/silva_invalid_genera.csv
+grep -wiFf 04_validate_16s/validation_sets/valid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/silva_genera.csv > 04_validate_16s/results/silva/silva_valid_genera.csv
+grep -wiFf 04_validate_16s/validation_sets/invalid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/silva_genera.csv > 04_validate_16s/results/silva/silva_invalid_genera.csv
 
 # Find nomenclature that isn't in valid or invalid lists. Categorized as discrepancies between LPSN and UpToDate or unclassifiable
-grep -vwiFf 04_validate_16s/validation_sets/valid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_genera_filtered.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_genera_coreset.txt | grep -wiFf 04_validate_16s/discrepancies/all_genera_final.txt > 04_validate_16s/results/silva/silva_discrepancies_genera.csv
-grep -vwiFf 04_validate_16s/validation_sets/valid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_genera_filtered.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_genera_coreset.txt | grep -vwiFf 04_validate_16s/discrepancies/all_genera_final.txt > 04_validate_16s/results/silva/silva_unclassified_genera.csv
+grep -vwiFf 04_validate_16s/validation_sets/valid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/silva_genera.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_genera_coreset.txt | grep -wiFf 04_validate_16s/discrepancies/all_genera_final.txt > 04_validate_16s/results/silva/silva_discrepancies_genera.csv
+grep -vwiFf 04_validate_16s/validation_sets/valid_genera_coreset.txt  04_validate_16s/16s_dbs/silva/silva_genera.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_genera_coreset.txt | grep -vwiFf 04_validate_16s/discrepancies/all_genera_final.txt > 04_validate_16s/results/silva/silva_unclassified_genera.csv
 
 
-grep -wiFf 04_validate_16s/validation_sets/valid_species_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_species_filtered.csv > 04_validate_16s/results/silva/silva_valid_species.csv
-grep -wiFf 04_validate_16s/validation_sets/invalid_species_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_species_filtered.csv > 04_validate_16s/results/silva/silva_invalid_species.csv
+grep -wiFf 04_validate_16s/validation_sets/valid_species_coreset.txt  04_validate_16s/16s_dbs/silva/silva_species.csv > 04_validate_16s/results/silva/silva_valid_species.csv
+grep -wiFf 04_validate_16s/validation_sets/invalid_species_coreset.txt  04_validate_16s/16s_dbs/silva/silva_species.csv > 04_validate_16s/results/silva/silva_invalid_species.csv
 # Find nomenclature that isn't in valid or invalid lists. Categorized as discrepancies between LPSN and UpToDate or unclassifiable
-grep -vwiFf 04_validate_16s/validation_sets/valid_species_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_species_filtered.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_species_coreset.txt | grep -wiFf 04_validate_16s/discrepancies/all_species_final.txt > 04_validate_16s/results/silva/silva_discrepancies_species.csv
-grep -vwiFf 04_validate_16s/validation_sets/valid_species_coreset.txt  04_validate_16s/16s_dbs/silva/filtered/silva_species_filtered.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_species_coreset.txt | grep -vwiFf 04_validate_16s/discrepancies/all_species_final.txt > 04_validate_16s/results/silva/silva_unclassified_species.csv
+grep -vwiFf 04_validate_16s/validation_sets/valid_species_coreset.txt  04_validate_16s/16s_dbs/silva/silva_species.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_species_coreset.txt | grep -wiFf 04_validate_16s/discrepancies/all_species_final.txt > 04_validate_16s/results/silva/silva_discrepancies_species.csv
+grep -vwiFf 04_validate_16s/validation_sets/valid_species_coreset.txt  04_validate_16s/16s_dbs/silva/silva_species.csv | grep -vwiFf 04_validate_16s/validation_sets/invalid_species_coreset.txt | grep -vwiFf 04_validate_16s/discrepancies/all_species_final.txt > 04_validate_16s/results/silva/silva_unclassified_species.csv
 
 
 # SILVA Unclassified Genera
